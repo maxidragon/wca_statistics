@@ -6,24 +6,33 @@ on:
       - main  
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:  
+  workflow_dispatch:
 
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: root
+          MYSQL_DATABASE: wca_development
+        ports:
+          - 3306:3306
+        options: --health-cmd="mysqladmin ping --silent" --health-interval=10s --health-timeout=5s --health-retries=3
+    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Set up MySQL
+      - name: Wait for MySQL service to be healthy
         run: |
-          sudo apt-get update
-          sudo apt-get install mysql-server -y
-          sudo service mysql start
-          sudo mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY ''; FLUSH PRIVILEGES;"
-          sudo mysql -e "CREATE DATABASE wca_development;"
-
+          until docker exec $(docker ps -q -f "ancestor=mysql:5.7") mysqladmin ping --silent; do
+            echo "Waiting for MySQL..."
+            sleep 3
+          done
+          
       - name: Download WCA Developer Database Dump
         run: |
           wget --quiet https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
@@ -31,9 +40,7 @@ jobs:
 
       - name: Import WCA Database Dump
         run: |
-          mysql --user=root --password= --execute="DROP DATABASE IF EXISTS wca_development;"
-          mysql --user=root --password= --execute="CREATE DATABASE wca_development;"
-          mysql --user=root --password= wca_development < wca-developer-database-dump.sql
+          mysql --host=127.0.0.1 --port=3306 --user=root --password=root wca_development < wca-developer-database-dump.sql
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -53,7 +60,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output2
+          publish_dir: ./output
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           keep_files: true
