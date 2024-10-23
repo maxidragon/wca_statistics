@@ -1,0 +1,61 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:  
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up MySQL
+        run: |
+          sudo apt-get update
+          sudo apt-get install mysql-server -y
+          sudo service mysql start
+          sudo mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY ''; FLUSH PRIVILEGES;"
+          sudo mysql -e "CREATE DATABASE wca_development;"
+
+      - name: Download WCA Developer Database Dump
+        run: |
+          wget --quiet https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
+          unzip wca-developer-database-dump.zip
+
+      - name: Import WCA Database Dump
+        run: |
+          mysql --user=root --password= --execute="DROP DATABASE IF EXISTS wca_development;"
+          mysql --user=root --password= --execute="CREATE DATABASE wca_development;"
+          mysql --user=root --password= wca_development < wca-developer-database-dump.sql
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install mysql-connector-python
+
+      - name: Run main.py
+        run: |
+          python main.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output2
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          keep_files: true
+          enable_jekyll: true
+          allow_empty_commit: true

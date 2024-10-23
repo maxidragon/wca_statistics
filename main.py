@@ -1,6 +1,7 @@
 import os
 import importlib.util
 import mysql.connector
+import datetime
 
 GITHUB_URL = "https://github.com/maxidragon/wca_statistics"
 
@@ -9,6 +10,8 @@ db = mysql.connector.connect(
     user="root",
     database="wca_development"
 )
+
+today_str = datetime.datetime.now().strftime("%d %B %Y")
 
 markdown_entries = []
 
@@ -28,7 +31,9 @@ def execute_query_from_file(filepath, db):
     save_markdown_file(filepath, markdown_content)
 
 def convert_to_markdown(data, headers, title):
-    title_row = f"# {title}\n"
+    metadata_rows = f'---\nlayout: default\ntitle: {title}\n---\n'
+    title_row = f"## {title}\n"
+    date_row = f"*Generated on {today_str}*\n"
     header_row = "| " + " | ".join(headers) + " |\n"
     separator_row = "| " + " | ".join(['---' for _ in headers]) + " |\n"
     
@@ -36,7 +41,7 @@ def convert_to_markdown(data, headers, title):
     for row in data:
         data_rows += "| " + " | ".join(str(value) for value in row) + " |\n"
     
-    return title_row + header_row + separator_row + data_rows
+    return metadata_rows + title_row + date_row + header_row + separator_row + data_rows
 
 def save_markdown_file(filepath, content):
     filename = os.path.basename(filepath).replace(".py", ".md")
@@ -48,7 +53,7 @@ def save_markdown_file(filepath, content):
         f.write(content)
 
 def generate_index_page(markdown_entries):
-    index_content = "# WCA Statistics\n\n"
+    index_content = ""
 
     for item in markdown_entries:
         index_content += f"- [{item['title']}](/{item['path'].replace('.py', '.md')})\n"
