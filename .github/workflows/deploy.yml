@@ -11,32 +11,22 @@ on:
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
-    
-    services:
-      mysql:
-        image: mysql:8.0
-        env:
-          MYSQL_ROOT_PASSWORD: root
-          MYSQL_DATABASE: wca_development
-        ports:
-          - 3306:3306
-        options: --health-cmd="mysqladmin ping --silent" --health-interval=10s --health-timeout=5s --health-retries=3
-    
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Wait for MySQL service to be healthy
-        run: |
-          until docker exec $(docker ps -q -f "ancestor=mysql:5.7") mysqladmin ping --silent; do
-            echo "Waiting for MySQL..."
-            sleep 3
-          done
-          
+      - name: Activate MySQL
+        run: sudo systemctl start mysql.service
+
       - name: Download WCA Developer Database Dump
         run: |
           wget --quiet https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
           unzip wca-developer-database-dump.zip
+
+      - name: Create MySQL Database
+        run: |
+          mysql --host=127.0.01 --port=3306 --user=root --password=root -e "CREATE DATABASE wca_development"
 
       - name: Import WCA Database Dump
         run: |
@@ -60,7 +50,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
+          publish_dir: ./output2
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           keep_files: true

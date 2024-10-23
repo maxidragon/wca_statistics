@@ -8,8 +8,14 @@ GITHUB_URL = "https://github.com/maxidragon/wca_statistics"
 db = mysql.connector.connect(
     host="localhost",
     user="root",
+    password="root",
     database="wca_development"
 )
+
+if db.is_connected():
+    print("Connected to the database!")
+else:
+    print("Error connecting to the database!")
 
 today_str = datetime.datetime.now().strftime("%d %B %Y")
 
