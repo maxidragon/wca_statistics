@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 *Generated on 24 October 2024*
 | Delegates | Number of competitions delegated together |
-| --- | --- |
+| ---: | :--- |
 | Niko Ronkainen + Tomi Ronkainen | 58 |
 | Dennis Rosero + Manuel Popayán | 44 |
 | Krzysztof Bober + Przemysław Rogalski | 40 |
