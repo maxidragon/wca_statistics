@@ -11,9 +11,10 @@ ORDER BY num_comps_together DESC
 LIMIT 100
 '''
 title = 'Most competitions delegated together'
+description = 'This statistic shows the number of competitions that two delegates have delegated together.'
 headers = ['Delegates', 'Number of competitions delegated together']
 
 def execute(db):
   cursor = db.cursor()
   cursor.execute(sql)
-  return cursor.fetchall(), headers, title
+  return cursor.fetchall(), headers, title, description

@@ -9,9 +9,10 @@ GROUP BY month
 ORDER BY month DESC
 '''
 title = 'Results posting delay by month'
+description = 'This statistic shows the average delay between the submission and posting of results for each month. The delay is calculated in hours.'
 headers = ['Month', 'Posting delay (hours)']
 
 def execute(db):
   cursor = db.cursor()
   cursor.execute(sql)
-  return cursor.fetchall(), headers, title
+  return cursor.fetchall(), headers, title, description

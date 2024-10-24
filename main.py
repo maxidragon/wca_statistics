@@ -26,8 +26,8 @@ def execute_query_from_file(filepath, db):
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     
-    result, headers, title = module.execute(db)
-    markdown_content = convert_to_markdown(result, headers, title)
+    result, headers, title, description = module.execute(db)
+    markdown_content = convert_to_markdown(result, headers, title, description)
     markdown_entries.append(
         {
             "path": filepath.replace("statistics/", ""),
@@ -36,9 +36,10 @@ def execute_query_from_file(filepath, db):
     )
     save_markdown_file(filepath, markdown_content)
 
-def convert_to_markdown(data, headers, title):
+def convert_to_markdown(data, headers, title, description=""):
     metadata_rows = f'---\nlayout: default\ntitle: {title}\n---\n'
     title_row = f"## {title}\n"
+    description_row = f"{description}\n\n" if description else ""
     date_row = f"*Generated on {today_str}*\n\n"
     header_row = "| " + " | ".join(headers) + " |\n"
     separator_row = "| " + " | ".join(['---' for _ in headers]) + " |\n"
@@ -47,7 +48,7 @@ def convert_to_markdown(data, headers, title):
     for row in data:
         data_rows += "| " + " | ".join(str(value) for value in row) + " |\n"
     
-    return metadata_rows + title_row + date_row + header_row + separator_row + data_rows
+    return metadata_rows + title_row + description_row + date_row + header_row + separator_row + data_rows
 
 def save_markdown_file(filepath, content):
     filename = os.path.basename(filepath).replace(".py", ".md")
