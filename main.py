@@ -39,7 +39,7 @@ def execute_query_from_file(filepath, db):
 def convert_to_markdown(data, headers, title):
     metadata_rows = f'---\nlayout: default\ntitle: {title}\n---\n'
     title_row = f"## {title}\n"
-    date_row = f"*Generated on {today_str}*\n"
+    date_row = f"*Generated on {today_str}*\n\n"
     header_row = "| " + " | ".join(headers) + " |\n"
     separator_row = "| " + " | ".join(['---' for _ in headers]) + " |\n"
     
