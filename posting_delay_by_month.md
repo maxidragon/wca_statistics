@@ -3,6 +3,8 @@ layout: default
 title: Results posting delay by month
 ---
 ## Results posting delay by month
+This statistic shows the average delay between the submission and posting of results for each month. The delay is calculated in hours.
+
 *Generated on 24 October 2024*
 
 | Month | Posting delay (hours) |
