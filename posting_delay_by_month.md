@@ -4,6 +4,7 @@ title: Results posting delay by month
 ---
 ## Results posting delay by month
 *Generated on 24 October 2024*
+
 | Month | Posting delay (hours) |
 | --- | --- |
 | 2024-10 | 0.78 |
