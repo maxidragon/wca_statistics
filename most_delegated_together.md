@@ -5,12 +5,12 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 24 October 2024*
+*Generated on 25 October 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
 | Niko Ronkainen + Tomi Ronkainen | 58 |
-| Dennis Rosero + Manuel Popayán | 44 |
+| Dennis Rosero + Manuel Popayán | 45 |
 | Krzysztof Bober + Przemysław Rogalski | 40 |
 | Dene Beardsley + Tim McMahon | 35 |
 | Daniel Wallin + Peter Hugosson-Miller | 34 |
@@ -32,6 +32,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Bence Barát + Dániel Varga | 16 |
 | Laura Ohrndorf + Sébastien Auroux | 15 |
 | Oleg Gritsenko + Tobias Peter | 15 |
+| Enrymar Cisneros + Rafael Antonio Sanchez | 14 |
 | Jacob Ambrose + Katie Hull | 14 |
 | Jernej Omulec + Petra Kobal Vogrinec | 14 |
 | Charlie van Ooran + Zak Kenny | 13 |
@@ -39,7 +40,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Chris Brotzman + Kit Clement | 13 |
 | Dennis Rosero + José Leonardo Chaparro Prieto | 13 |
 | Dennis Rosero + Michael Andres Castillo Lemus | 13 |
-| Enrymar Cisneros + Rafael Antonio Sanchez | 13 |
 | Evan Liu + Zach Ridall | 13 |
 | Arun Kannan + Sachin Arvind | 12 |
 | Elias Miguel Acosta Acosta + Gustavo Riveiro | 12 |
@@ -74,6 +74,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Lorenzo Vigani Poli + Simone Cantarelli | 9 |
 | Alejandro Nicolay + Rubén López de Juan | 8 |
 | Amir Hossein Nafisi (امیر حسین نفیسی) + Saeed Mostafavi Layegh (سعید مصطفوی لایق) | 8 |
+| Baocheng Wu (吴宝城) + Ming Zheng (郑鸣) | 8 |
 | Borislav Marchovski + Mihai Căpăţinescu | 8 |
 | Callum James Goodyear-Jørgensen + Daniel Vædele Egdal | 8 |
 | Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 8 |
@@ -89,7 +90,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Olli Vikstedt + Tomi Ronkainen | 8 |
 | Alejandro Restrepo Echeverri + Andres Felipe Rodríguez Londoño | 7 |
 | Alex Asbery + James Macdiarmid | 7 |
-| Baocheng Wu (吴宝城) + Ming Zheng (郑鸣) | 7 |
 | Braden Richards + Evan Brown | 7 |
 | Braden Richards + Mason Langenderfer | 7 |
 | Carlos Méndez García-Barroso + Josete Sánchez | 7 |
