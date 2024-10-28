@@ -5,13 +5,13 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 27 October 2024*
+*Generated on 28 October 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
 | Niko Ronkainen + Tomi Ronkainen | 58 |
 | Dennis Rosero + Manuel Popayán | 45 |
-| Krzysztof Bober + Przemysław Rogalski | 40 |
+| Krzysztof Bober + Przemysław Rogalski | 41 |
 | Dene Beardsley + Tim McMahon | 35 |
 | Daniel Wallin + Peter Hugosson-Miller | 34 |
 | Alex Asbery + Luke Heath-Edwards | 21 |
@@ -19,12 +19,12 @@ This statistic shows the number of competitions that two delegates have delegate
 | Niki Placskó + Olivér Perge | 21 |
 | Jakub Hamkało + Karol Zakrzewski | 20 |
 | Kevin Matthews + Vianne Chang | 20 |
+| Louie Jay Quibote + Yuji Yoshida | 20 |
 | Takayuki Ookusa (大艸尊之) + Yohei Suzuki (鈴木洋平) | 20 |
 | Akash Rupela + Ujjawal Pabreja | 19 |
 | Corey Sakowski + Keaton Ellis | 19 |
 | Cristian Franco Terrazas Flores + Rodrigo Ugarte | 19 |
 | Daniel Sheppard + James Molloy | 19 |
-| Louie Jay Quibote + Yuji Yoshida | 19 |
 | Mihai Căpăţinescu + Mihai Soare | 18 |
 | Daniel Vædele Egdal + Henrik Buus Aagaard | 17 |
 | Ron van Bruchem + Ton Dennenbroek | 17 |
@@ -48,6 +48,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | James Hildreth + Yuxuan Chen | 12 |
 | Anders Berggren + Daniel Wallin | 11 |
 | Andreas Pung + Ivo Kruusamägi | 11 |
+| Andrés Hisashi Suzuki Cabrera + Michel Andre Gonzaga Quijano | 11 |
 | Björn Korbanka + Sébastien Auroux | 11 |
 | Chris Krueger + Fangyuan Chang (常方圆) | 11 |
 | Cristian Ezequiel Vega + Guido Dipietro | 11 |
@@ -55,7 +56,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Maralgoo Ganbold (Ганболд Маралгоо) + Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж) | 11 |
 | Mustafa Çamlıca + Ömer Çetinkaya | 11 |
 | Amit Sheffer + Rotem Ifrach | 10 |
-| Andrés Hisashi Suzuki Cabrera + Michel Andre Gonzaga Quijano | 10 |
 | Austin Reed + Evan Liu | 10 |
 | Davi de Andrade Iácono + Francisco Thales Rocha Sousa | 10 |
 | Jorge Miguel Trigo + Rodrigo Ugarte | 10 |
@@ -97,6 +97,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Daisuke Kochi (幸地大輔) + Ryutaro Miyazaki (宮崎隆太郎) | 7 |
 | Dan Smith + Katie Hinkley | 7 |
 | Diego Alejandro Casas Jimenez + José Leonardo Chaparro Prieto | 7 |
+| Gaurav Bachani + Sukesh Kumar | 7 |
 | Jacob Oliver Bruun + Ulrik Bredland | 7 |
 | Lisa Kucala + Shain Papalotl Longbehn | 7 |
 | Roman Ostapenko (Роман Остапенко) + Serhii Koksharov (Сергій Кокшаров) | 7 |
@@ -105,7 +106,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Bradley Sampson + Calvin Nielson | 6 |
 | Brian Acuña + Kirby Jay Caragan | 6 |
 | Cailyn Hoover + Peter Preston | 6 |
+| Dan Smith + Lydia Workman | 6 |
 | Evan Brown + Garrett Hadaway | 6 |
 | Evan Liu + Lauren Phung | 6 |
-| Fangyuan Chang (常方圆) + Hao Wang (王皓) | 6 |
-| Gaurav Bachani + Sukesh Kumar | 6 |
