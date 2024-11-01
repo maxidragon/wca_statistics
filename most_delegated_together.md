@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 31 October 2024*
+*Generated on 01 November 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -107,5 +107,5 @@ This statistic shows the number of competitions that two delegates have delegate
 | Brian Acuña + Kirby Jay Caragan | 6 |
 | Cailyn Hoover + Peter Preston | 6 |
 | Dan Smith + Lydia Workman | 6 |
+| Daniel Wallin + Helmer Ewert | 6 |
 | Evan Brown + Garrett Hadaway | 6 |
-| Evan Liu + Lauren Phung | 6 |

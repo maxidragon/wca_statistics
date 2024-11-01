@@ -3,7 +3,7 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 31 October 2024*
+*Generated on 01 November 2024*
 
 | Country | Number of active team members |
 | --- | --- |
@@ -27,21 +27,21 @@ title: Active team members by country
 | Iran | 2 |
 | Vietnam | 2 |
 | Italy | 2 |
-| South Africa | 2 |
 | Singapore | 2 |
+| Uruguay | 2 |
 | New Zealand | 2 |
 | Denmark | 2 |
 | Russia | 2 |
-| Uruguay | 2 |
-| Madagascar | 1 |
-| Netherlands | 1 |
-| Indonesia | 1 |
-| Taiwan | 1 |
-| Hungary | 1 |
 | Pakistan | 1 |
-| Argentina | 1 |
-| Romania | 1 |
-| Jordan | 1 |
-| Sweden | 1 |
-| Colombia | 1 |
 | Switzerland | 1 |
+| Colombia | 1 |
+| Sweden | 1 |
+| Jordan | 1 |
+| Romania | 1 |
+| Argentina | 1 |
+| Netherlands | 1 |
+| Hungary | 1 |
+| Taiwan | 1 |
+| South Africa | 1 |
+| Indonesia | 1 |
+| Madagascar | 1 |
