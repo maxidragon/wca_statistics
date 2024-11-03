@@ -5,7 +5,7 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 02 November 2024*
+*Generated on 03 November 2024*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -30,4 +30,3 @@ This statistic shows people who posted the most competitions in the last 3 month
 | Sam Spendla | 2 |
 | Clément Cherblanc | 1 |
 | Eleanor Sinnott | 1 |
-| Jacob Ambrose | 1 |
