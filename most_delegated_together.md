@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 03 November 2024*
+*Generated on 04 November 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -96,16 +96,16 @@ This statistic shows the number of competitions that two delegates have delegate
 | Carter Kucala + Simon Kellum | 7 |
 | Daisuke Kochi (幸地大輔) + Ryutaro Miyazaki (宮崎隆太郎) | 7 |
 | Dan Smith + Katie Hinkley | 7 |
+| Daniel Wallin + Helmer Ewert | 7 |
 | Diego Alejandro Casas Jimenez + José Leonardo Chaparro Prieto | 7 |
+| Fangyuan Chang (常方圆) + Hao Wang (王皓) | 7 |
 | Gaurav Bachani + Sukesh Kumar | 7 |
 | Jacob Oliver Bruun + Ulrik Bredland | 7 |
 | Lisa Kucala + Shain Papalotl Longbehn | 7 |
 | Roman Ostapenko (Роман Остапенко) + Serhii Koksharov (Сергій Кокшаров) | 7 |
 | Adam Polkowski + Przemysław Rogalski | 6 |
 | Akula Sai Kumar + Gaurav Bachani | 6 |
+| Braden Richards + Ricky Martin | 6 |
 | Bradley Sampson + Calvin Nielson | 6 |
 | Brian Acuña + Kirby Jay Caragan | 6 |
 | Cailyn Hoover + Peter Preston | 6 |
-| Dan Smith + Lydia Workman | 6 |
-| Daniel Wallin + Helmer Ewert | 6 |
-| Evan Brown + Garrett Hadaway | 6 |
