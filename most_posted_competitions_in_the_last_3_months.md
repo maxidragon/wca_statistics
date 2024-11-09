@@ -5,7 +5,7 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 08 November 2024*
+*Generated on 09 November 2024*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -19,12 +19,11 @@ This statistic shows people who posted the most competitions in the last 3 month
 | Sukesh Kumar | 29 |
 | Einar Martin Sandvik | 20 |
 | Piotr Olszewski | 19 |
-| Callum James Goodyear-Jørgensen | 18 |
 | James Holdsworth | 17 |
-| Simon Kellum | 12 |
-| Daniel M. James | 7 |
+| Callum James Goodyear-Jørgensen | 15 |
 | Philippe Virouleau | 7 |
 | James Wang | 6 |
+| Daniel M. James | 6 |
 | Manu Vereecken | 5 |
 | Modest Podzolkin | 5 |
 | Sam Spendla | 2 |
