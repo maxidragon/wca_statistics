@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 09 November 2024*
+*Generated on 10 November 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -35,20 +35,20 @@ This statistic shows the number of competitions that two delegates have delegate
 | Enrymar Cisneros + Rafael Antonio Sanchez | 14 |
 | Jacob Ambrose + Katie Hull | 14 |
 | Jernej Omulec + Petra Kobal Vogrinec | 14 |
+| Arun Kannan + Sachin Arvind | 13 |
 | Charlie van Ooran + Zak Kenny | 13 |
 | Chia-Leo Lin (林珈樂) + Rui-Jun Liu (劉睿鈞) | 13 |
 | Chris Brotzman + Kit Clement | 13 |
 | Dennis Rosero + José Leonardo Chaparro Prieto | 13 |
 | Dennis Rosero + Michael Andres Castillo Lemus | 13 |
 | Evan Liu + Zach Ridall | 13 |
-| Arun Kannan + Sachin Arvind | 12 |
+| Andrés Hisashi Suzuki Cabrera + Michel Andre Gonzaga Quijano | 12 |
 | Elias Miguel Acosta Acosta + Gustavo Riveiro | 12 |
 | Gennaro Monetti + Manuel Malvárez | 12 |
 | James Hamory + Michael Young | 12 |
 | James Hildreth + Yuxuan Chen | 12 |
 | Anders Berggren + Daniel Wallin | 11 |
 | Andreas Pung + Ivo Kruusamägi | 11 |
-| Andrés Hisashi Suzuki Cabrera + Michel Andre Gonzaga Quijano | 11 |
 | Björn Korbanka + Sébastien Auroux | 11 |
 | Chris Krueger + Fangyuan Chang (常方圆) | 11 |
 | Cristian Ezequiel Vega + Guido Dipietro | 11 |
