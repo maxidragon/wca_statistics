@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 12 November 2024*
+*Generated on 13 November 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -26,9 +26,9 @@ This statistic shows the number of competitions that two delegates have delegate
 | Cristian Franco Terrazas Flores + Rodrigo Ugarte | 19 |
 | Daniel Sheppard + James Molloy | 19 |
 | Mihai Căpăţinescu + Mihai Soare | 18 |
+| Areli Rubí Gordillo Martínez + Rocio Rodriguez Rivera | 17 |
 | Daniel Vædele Egdal + Henrik Buus Aagaard | 17 |
 | Ron van Bruchem + Ton Dennenbroek | 17 |
-| Areli Rubí Gordillo Martínez + Rocio Rodriguez Rivera | 16 |
 | Bence Barát + Dániel Varga | 16 |
 | Laura Ohrndorf + Sébastien Auroux | 15 |
 | Oleg Gritsenko + Tobias Peter | 15 |
@@ -65,6 +65,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Adrián Ramírez + Joel Hernández | 9 |
 | Alexander Mutch + Kristopher De Asis | 9 |
 | Arun Kannan + Sukesh Kumar | 9 |
+| Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 9 |
 | Dave Campbell + Sarah Strong | 9 |
 | Filippo Brancaleoni + Lorenzo Vigani Poli | 9 |
 | Fletcher Berry + Michael Conard | 9 |
@@ -77,7 +78,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Baocheng Wu (吴宝城) + Ming Zheng (郑鸣) | 8 |
 | Borislav Marchovski + Mihai Căpăţinescu | 8 |
 | Callum James Goodyear-Jørgensen + Daniel Vædele Egdal | 8 |
-| Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 8 |
 | Carter Kucala + Walker Welch | 8 |
 | Cel Adriane Lalo + Yuji Yoshida | 8 |
 | Chan Tak Chuen (陳德泉) + Ming Zheng (郑鸣) | 8 |
