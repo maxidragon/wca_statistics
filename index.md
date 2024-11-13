@@ -1,5 +1,5 @@
 - [Active team members by country](/active_teams_members_by_country.md)
-- [Announcement delay by month](/announcement_delay_by_month copy.md)
+- [Announcement delay by month](/announcement_delay_by_month.md)
 - [Fasted posted competitions](/fasted_posted_competitions.md)
 - [Most announced competitions](/most_announced_competitions.md)
 - [Most announced competitions in the last 3 months](/most_announced_competitions_in_the_last_3_months.md)

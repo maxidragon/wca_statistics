@@ -22,4 +22,4 @@ This statistic shows the average delay between the submission and posting of res
 | 2024-01 | 5.87 |
 | 2023-12 | 6.97 |
 | 2023-11 | 11.52 |
-| 2023-10 | 11.29 |
+| 2023-10 | 11.44 |
