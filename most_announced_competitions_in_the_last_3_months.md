@@ -5,7 +5,7 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 13 November 2024*
+*Generated on 14 November 2024*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -21,7 +21,7 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | Nevins Chan Pak Hoong (陈百鸿) | 11 |
 | Lars Johan Folde | 10 |
 | Chris Martin | 7 |
-| Peter Preston | 7 |
+| Peter Preston | 5 |
 | Daniel Vædele Egdal | 4 |
 | Modest Podzolkin | 4 |
 | Ng Kang Zhe (黄康哲) | 1 |
