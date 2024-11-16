@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 15 November 2024*
+*Generated on 16 November 2024*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -23,7 +23,7 @@ This statistic shows people who posted the most competitions.
 | Tim Reynolds | 391 |
 | Jungwoo Kim (김정우) | 313 |
 | Simon Kellum | 306 |
-| Zain Ali Behzaad | 292 |
+| Zain Ali Behzaad | 298 |
 | Sam Spendla | 271 |
 | Ivan Ros Godia | 261 |
 | Eleanor Sinnott | 244 |
@@ -35,10 +35,10 @@ This statistic shows people who posted the most competitions.
 | Timo Norrkniivilä | 184 |
 | John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀) | 184 |
 | Modest Podzolkin | 165 |
-| Maksymilian Gala | 163 |
+| Maksymilian Gala | 164 |
 | Rafael de Andrade Cinoto | 149 |
 | Cendy Cahyo Rahmat | 139 |
-| Jason Chang (章維祐) | 132 |
+| Jason Chang (章維祐) | 134 |
 | Philippe Virouleau | 124 |
 | Bob Burton | 91 |
 | Olivér Perge | 63 |
@@ -49,7 +49,7 @@ This statistic shows people who posted the most competitions.
 | Nguyễn Hải Dương | 29 |
 | Tyson Mao (毛台勝) | 28 |
 | Einar Martin Sandvik | 21 |
-| Piotr Olszewski | 20 |
+| Piotr Olszewski | 21 |
 | Ruud Pollé | 14 |
 | Sheen Oishi | 8 |
 | James Wang | 7 |

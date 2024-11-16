@@ -5,25 +5,25 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 15 November 2024*
+*Generated on 16 November 2024*
 
 | Person | Announced competitions |
 | --- | --- |
 | Roman Wofford | 1341 |
 | Ron van Bruchem | 1229 |
-| Daniel Vædele Egdal | 1027 |
-| Zeke Mackay | 926 |
+| Daniel Vædele Egdal | 1035 |
+| Zeke Mackay | 939 |
 | Shain Papalotl Longbehn | 784 |
 | Luis J. Iáñez | 664 |
 | Tyson Mao (毛台勝) | 507 |
-| Chris Martin | 504 |
+| Chris Martin | 505 |
 | Wilson Alvis (陈智胜) | 488 |
 | Ilkyoo Choi (최일규) | 477 |
 | Pedro Santos Guimarães | 410 |
 | Olivér Perge | 396 |
 | Clément Cherblanc | 358 |
 | Henrik Buus Aagaard | 347 |
-| Joyce Peh | 333 |
+| Joyce Peh | 334 |
 | Nevins Chan Pak Hoong (陈百鸿) | 317 |
 | Natán Riggenbach | 313 |
 | Bob Burton | 249 |
@@ -31,12 +31,12 @@ This statistic shows people who announced the most competitions.
 | Jacob Ambrose | 225 |
 | William Gan Wei Ren (颜伟仁) | 223 |
 | Lars Johan Folde | 214 |
-| Modest Podzolkin | 207 |
+| Modest Podzolkin | 208 |
 | Sofía Guerrero Neto | 195 |
 | Alberto Pérez de Rada Fiol | 171 |
 | Henry Savich | 145 |
 | Savion Romeo Matula | 137 |
-| Lisa Leukemans | 131 |
+| Lisa Leukemans | 132 |
 | WCA Board | 119 |
 | Ethan Pride | 117 |
 | Tim Reynolds | 111 |

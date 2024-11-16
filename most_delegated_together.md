@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 15 November 2024*
+*Generated on 16 November 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -81,6 +81,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Carter Kucala + Walker Welch | 8 |
 | Cel Adriane Lalo + Yuji Yoshida | 8 |
 | Chan Tak Chuen (陳德泉) + Ming Zheng (郑鸣) | 8 |
+| Daniel Wallin + Helmer Ewert | 8 |
 | Elizabeth Cutting + Stone Amsbaugh | 8 |
 | Geert Bicler + Lars Vandenbergh | 8 |
 | Ivan Lew Yi Wen (刘义文) + Wang Junwen (王俊文) | 8 |
@@ -96,7 +97,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Carter Kucala + Simon Kellum | 7 |
 | Daisuke Kochi (幸地大輔) + Ryutaro Miyazaki (宮崎隆太郎) | 7 |
 | Dan Smith + Katie Hinkley | 7 |
-| Daniel Wallin + Helmer Ewert | 7 |
 | Diego Alejandro Casas Jimenez + José Leonardo Chaparro Prieto | 7 |
 | Fangyuan Chang (常方圆) + Hao Wang (王皓) | 7 |
 | Gaurav Bachani + Sukesh Kumar | 7 |
