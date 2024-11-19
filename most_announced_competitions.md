@@ -5,11 +5,11 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 18 November 2024*
+*Generated on 19 November 2024*
 
 | Person | Announced competitions |
 | --- | --- |
-| Roman Wofford | 1341 |
+| Roman Wofford | 1345 |
 | Ron van Bruchem | 1229 |
 | Daniel Vædele Egdal | 1035 |
 | Zeke Mackay | 939 |
@@ -23,7 +23,7 @@ This statistic shows people who announced the most competitions.
 | Olivér Perge | 396 |
 | Clément Cherblanc | 358 |
 | Henrik Buus Aagaard | 347 |
-| Joyce Peh | 334 |
+| Joyce Peh | 336 |
 | Nevins Chan Pak Hoong (陈百鸿) | 317 |
 | Natán Riggenbach | 313 |
 | Bob Burton | 249 |
@@ -35,7 +35,7 @@ This statistic shows people who announced the most competitions.
 | Sofía Guerrero Neto | 195 |
 | Alberto Pérez de Rada Fiol | 171 |
 | Henry Savich | 145 |
-| Savion Romeo Matula | 137 |
+| Savion Romeo Matula | 140 |
 | Lisa Leukemans | 132 |
 | WCA Board | 119 |
 | Ethan Pride | 117 |

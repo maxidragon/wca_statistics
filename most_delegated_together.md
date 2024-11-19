@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 18 November 2024*
+*Generated on 19 November 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -35,6 +35,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Enrymar Cisneros + Rafael Antonio Sanchez | 14 |
 | Jacob Ambrose + Katie Hull | 14 |
 | Jernej Omulec + Petra Kobal Vogrinec | 14 |
+| Andrés Hisashi Suzuki Cabrera + Michel Andre Gonzaga Quijano | 13 |
 | Arun Kannan + Sachin Arvind | 13 |
 | Charlie van Ooran + Zak Kenny | 13 |
 | Chia-Leo Lin (林珈樂) + Rui-Jun Liu (劉睿鈞) | 13 |
@@ -42,7 +43,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Dennis Rosero + José Leonardo Chaparro Prieto | 13 |
 | Dennis Rosero + Michael Andres Castillo Lemus | 13 |
 | Evan Liu + Zach Ridall | 13 |
-| Andrés Hisashi Suzuki Cabrera + Michel Andre Gonzaga Quijano | 12 |
 | Elias Miguel Acosta Acosta + Gustavo Riveiro | 12 |
 | Gennaro Monetti + Manuel Malvárez | 12 |
 | James Hamory + Michael Young | 12 |
@@ -66,7 +66,9 @@ This statistic shows the number of competitions that two delegates have delegate
 | Alexander Mutch + Kristopher De Asis | 9 |
 | Arun Kannan + Sukesh Kumar | 9 |
 | Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 9 |
+| Daniel Wallin + Helmer Ewert | 9 |
 | Dave Campbell + Sarah Strong | 9 |
+| Evan Brown + Garrett Hadaway | 9 |
 | Filippo Brancaleoni + Lorenzo Vigani Poli | 9 |
 | Fletcher Berry + Michael Conard | 9 |
 | Henrik Buus Aagaard + Matias Rasmussen | 9 |
@@ -81,14 +83,15 @@ This statistic shows the number of competitions that two delegates have delegate
 | Carter Kucala + Walker Welch | 8 |
 | Cel Adriane Lalo + Yuji Yoshida | 8 |
 | Chan Tak Chuen (陳德泉) + Ming Zheng (郑鸣) | 8 |
-| Daniel Wallin + Helmer Ewert | 8 |
 | Elizabeth Cutting + Stone Amsbaugh | 8 |
 | Geert Bicler + Lars Vandenbergh | 8 |
 | Ivan Lew Yi Wen (刘义文) + Wang Junwen (王俊文) | 8 |
+| Lisa Kucala + Shain Papalotl Longbehn | 8 |
 | Lorenzo Vigani Poli + Matteo Colombo | 8 |
 | Matthew Dickman + Michael Young | 8 |
 | Oleg Gritsenko + Reto Bubendorf | 8 |
 | Olli Vikstedt + Tomi Ronkainen | 8 |
+| Akula Sai Kumar + Gaurav Bachani | 7 |
 | Alejandro Restrepo Echeverri + Andres Felipe Rodríguez Londoño | 7 |
 | Alex Asbery + James Macdiarmid | 7 |
 | Braden Richards + Evan Brown | 7 |
@@ -101,11 +104,8 @@ This statistic shows the number of competitions that two delegates have delegate
 | Fangyuan Chang (常方圆) + Hao Wang (王皓) | 7 |
 | Gaurav Bachani + Sukesh Kumar | 7 |
 | Jacob Oliver Bruun + Ulrik Bredland | 7 |
-| Lisa Kucala + Shain Papalotl Longbehn | 7 |
 | Roman Ostapenko (Роман Остапенко) + Serhii Koksharov (Сергій Кокшаров) | 7 |
 | Adam Polkowski + Przemysław Rogalski | 6 |
-| Akula Sai Kumar + Gaurav Bachani | 6 |
 | Braden Richards + Ricky Martin | 6 |
 | Bradley Sampson + Calvin Nielson | 6 |
 | Brian Acuña + Kirby Jay Caragan | 6 |
-| Cailyn Hoover + Peter Preston | 6 |
