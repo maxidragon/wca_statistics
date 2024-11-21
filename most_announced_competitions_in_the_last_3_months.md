@@ -5,7 +5,7 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 20 November 2024*
+*Generated on 21 November 2024*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -15,11 +15,11 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | Lisa Leukemans | 132 |
 | Zeke Mackay | 97 |
 | Daniel Fraser | 49 |
-| Joyce Peh | 38 |
+| Joyce Peh | 36 |
 | Hitesh Kumar Bhuwalka | 23 |
 | Sofía Guerrero Neto | 23 |
 | Daniel Vædele Egdal | 12 |
-| Nevins Chan Pak Hoong (陈百鸿) | 11 |
+| Nevins Chan Pak Hoong (陈百鸿) | 10 |
 | Chris Martin | 8 |
 | Lars Johan Folde | 5 |
 | Peter Preston | 5 |

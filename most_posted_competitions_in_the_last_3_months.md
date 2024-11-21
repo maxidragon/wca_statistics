@@ -5,14 +5,14 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 20 November 2024*
+*Generated on 21 November 2024*
 
 | Person | Posted competitions |
 | --- | --- |
 | Zain Ali Behzaad | 319 |
 | Maksymilian Gala | 169 |
 | Jason Chang (章維祐) | 140 |
-| Oliver Hexter | 40 |
+| Oliver Hexter | 35 |
 | Pranav Dandgaval | 33 |
 | Nguyễn Hải Dương | 29 |
 | Sukesh Kumar | 26 |
