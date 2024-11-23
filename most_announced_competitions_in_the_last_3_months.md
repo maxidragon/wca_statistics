@@ -5,12 +5,12 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 22 November 2024*
+*Generated on 23 November 2024*
 
 | Person | Announced competitions |
 | --- | --- |
 | Shain Papalotl Longbehn | 174 |
-| Roman Wofford | 162 |
+| Roman Wofford | 161 |
 | Savion Romeo Matula | 140 |
 | Lisa Leukemans | 134 |
 | Zeke Mackay | 97 |

@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 22 November 2024*
+*Generated on 23 November 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
