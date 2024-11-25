@@ -5,12 +5,12 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 24 November 2024*
+*Generated on 25 November 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
-| Niko Ronkainen + Tomi Ronkainen | 58 |
-| Dennis Rosero + Manuel Popayán | 45 |
+| Niko Ronkainen + Tomi Ronkainen | 59 |
+| Dennis Rosero + Manuel Popayán | 46 |
 | Krzysztof Bober + Przemysław Rogalski | 41 |
 | Dene Beardsley + Tim McMahon | 35 |
 | Daniel Wallin + Peter Hugosson-Miller | 34 |
@@ -47,18 +47,19 @@ This statistic shows the number of competitions that two delegates have delegate
 | Gennaro Monetti + Manuel Malvárez | 12 |
 | James Hamory + Michael Young | 12 |
 | James Hildreth + Yuxuan Chen | 12 |
+| Mustafa Çamlıca + Ömer Çetinkaya | 12 |
 | Anders Berggren + Daniel Wallin | 11 |
 | Andreas Pung + Ivo Kruusamägi | 11 |
 | Björn Korbanka + Sébastien Auroux | 11 |
 | Chris Krueger + Fangyuan Chang (常方圆) | 11 |
 | Cristian Ezequiel Vega + Guido Dipietro | 11 |
 | Fangyuan Chang (常方圆) + Ming Zheng (郑鸣) | 11 |
+| Jorge Miguel Trigo + Rodrigo Ugarte | 11 |
 | Maralgoo Ganbold (Ганболд Маралгоо) + Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж) | 11 |
-| Mustafa Çamlıca + Ömer Çetinkaya | 11 |
 | Amit Sheffer + Rotem Ifrach | 10 |
 | Austin Reed + Evan Liu | 10 |
+| Daniel Wallin + Helmer Ewert | 10 |
 | Davi de Andrade Iácono + Francisco Thales Rocha Sousa | 10 |
-| Jorge Miguel Trigo + Rodrigo Ugarte | 10 |
 | Joshua Feran + Walker Welch | 10 |
 | Adam Polkowski + Wojciech Szatanowski | 9 |
 | Adam Walker + Michael Young | 9 |
@@ -66,7 +67,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Alexander Mutch + Kristopher De Asis | 9 |
 | Arun Kannan + Sukesh Kumar | 9 |
 | Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 9 |
-| Daniel Wallin + Helmer Ewert | 9 |
 | Dave Campbell + Sarah Strong | 9 |
 | Evan Brown + Garrett Hadaway | 9 |
 | Filippo Brancaleoni + Lorenzo Vigani Poli | 9 |
