@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 26 November 2024*
+*Generated on 27 November 2024*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -34,7 +34,7 @@ This statistic shows people who posted the most competitions.
 | Pedro Santos Guimarães | 199 |
 | Timo Norrkniivilä | 184 |
 | John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀) | 184 |
-| Maksymilian Gala | 175 |
+| Maksymilian Gala | 176 |
 | Modest Podzolkin | 165 |
 | Jason Chang (章維祐) | 152 |
 | Rafael de Andrade Cinoto | 149 |

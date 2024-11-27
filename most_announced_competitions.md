@@ -5,11 +5,11 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 26 November 2024*
+*Generated on 27 November 2024*
 
 | Person | Announced competitions |
 | --- | --- |
-| Roman Wofford | 1354 |
+| Roman Wofford | 1355 |
 | Ron van Bruchem | 1229 |
 | Daniel Vædele Egdal | 1037 |
 | Zeke Mackay | 939 |
