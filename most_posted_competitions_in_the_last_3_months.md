@@ -5,7 +5,7 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 28 November 2024*
+*Generated on 29 November 2024*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -23,8 +23,8 @@ This statistic shows people who posted the most competitions in the last 3 month
 | James Wang | 7 |
 | Callum James Goodyear-Jørgensen | 7 |
 | Manu Vereecken | 6 |
-| Daniel M. James | 5 |
 | Clément Cherblanc | 5 |
+| Daniel M. James | 4 |
 | Philippe Virouleau | 3 |
 | Modest Podzolkin | 2 |
 | Brandon Reichman | 1 |
