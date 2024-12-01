@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 30 November 2024*
+*Generated on 01 December 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -61,10 +61,12 @@ This statistic shows the number of competitions that two delegates have delegate
 | Daniel Wallin + Helmer Ewert | 10 |
 | Davi de Andrade Iácono + Francisco Thales Rocha Sousa | 10 |
 | Joshua Feran + Walker Welch | 10 |
+| Kostas Papadopoulos + Pantos Pantos | 10 |
 | Adam Polkowski + Wojciech Szatanowski | 9 |
 | Adam Walker + Michael Young | 9 |
 | Adrián Ramírez + Joel Hernández | 9 |
 | Alexander Mutch + Kristopher De Asis | 9 |
+| Amir Hossein Nafisi (امیر حسین نفیسی) + Saeed Mostafavi Layegh (سعید مصطفوی لایق) | 9 |
 | Arun Kannan + Sukesh Kumar | 9 |
 | Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 9 |
 | Dave Campbell + Sarah Strong | 9 |
@@ -73,10 +75,8 @@ This statistic shows the number of competitions that two delegates have delegate
 | Fletcher Berry + Michael Conard | 9 |
 | Henrik Buus Aagaard + Matias Rasmussen | 9 |
 | Ioannis Papadopoulos + Oleg Gritsenko | 9 |
-| Kostas Papadopoulos + Pantos Pantos | 9 |
 | Lorenzo Vigani Poli + Simone Cantarelli | 9 |
 | Alejandro Nicolay + Rubén López de Juan | 8 |
-| Amir Hossein Nafisi (امیر حسین نفیسی) + Saeed Mostafavi Layegh (سعید مصطفوی لایق) | 8 |
 | Baocheng Wu (吴宝城) + Ming Zheng (郑鸣) | 8 |
 | Borislav Marchovski + Mihai Căpăţinescu | 8 |
 | Callum James Goodyear-Jørgensen + Daniel Vædele Egdal | 8 |
