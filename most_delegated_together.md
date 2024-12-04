@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 03 December 2024*
+*Generated on 04 December 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -25,8 +25,8 @@ This statistic shows the number of competitions that two delegates have delegate
 | Corey Sakowski + Keaton Ellis | 19 |
 | Cristian Franco Terrazas Flores + Rodrigo Ugarte | 19 |
 | Daniel Sheppard + James Molloy | 19 |
+| Areli Rubí Gordillo Martínez + Rocio Rodriguez Rivera | 18 |
 | Mihai Căpăţinescu + Mihai Soare | 18 |
-| Areli Rubí Gordillo Martínez + Rocio Rodriguez Rivera | 17 |
 | Daniel Vædele Egdal + Henrik Buus Aagaard | 17 |
 | Ron van Bruchem + Ton Dennenbroek | 17 |
 | Bence Barát + Dániel Varga | 16 |
@@ -42,11 +42,12 @@ This statistic shows the number of competitions that two delegates have delegate
 | Chris Brotzman + Kit Clement | 13 |
 | Dennis Rosero + José Leonardo Chaparro Prieto | 13 |
 | Dennis Rosero + Michael Andres Castillo Lemus | 13 |
+| Elias Miguel Acosta Acosta + Gustavo Riveiro | 13 |
 | Evan Liu + Zach Ridall | 13 |
-| Elias Miguel Acosta Acosta + Gustavo Riveiro | 12 |
 | Gennaro Monetti + Manuel Malvárez | 12 |
 | James Hamory + Michael Young | 12 |
 | James Hildreth + Yuxuan Chen | 12 |
+| Maralgoo Ganbold (Ганболд Маралгоо) + Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж) | 12 |
 | Mustafa Çamlıca + Ömer Çetinkaya | 12 |
 | Anders Berggren + Daniel Wallin | 11 |
 | Andreas Pung + Ivo Kruusamägi | 11 |
@@ -55,7 +56,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Cristian Ezequiel Vega + Guido Dipietro | 11 |
 | Fangyuan Chang (常方圆) + Ming Zheng (郑鸣) | 11 |
 | Jorge Miguel Trigo + Rodrigo Ugarte | 11 |
-| Maralgoo Ganbold (Ганболд Маралгоо) + Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж) | 11 |
 | Amit Sheffer + Rotem Ifrach | 10 |
 | Austin Reed + Evan Liu | 10 |
 | Daniel Wallin + Helmer Ewert | 10 |
@@ -84,6 +84,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Cel Adriane Lalo + Yuji Yoshida | 8 |
 | Chan Tak Chuen (陳德泉) + Ming Zheng (郑鸣) | 8 |
 | Elizabeth Cutting + Stone Amsbaugh | 8 |
+| Gaurav Bachani + Sukesh Kumar | 8 |
 | Geert Bicler + Lars Vandenbergh | 8 |
 | Ivan Lew Yi Wen (刘义文) + Wang Junwen (王俊文) | 8 |
 | Lisa Kucala + Shain Papalotl Longbehn | 8 |
@@ -102,7 +103,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Dan Smith + Katie Hinkley | 7 |
 | Diego Alejandro Casas Jimenez + José Leonardo Chaparro Prieto | 7 |
 | Fangyuan Chang (常方圆) + Hao Wang (王皓) | 7 |
-| Gaurav Bachani + Sukesh Kumar | 7 |
 | Jacob Oliver Bruun + Ulrik Bredland | 7 |
 | Roman Ostapenko (Роман Остапенко) + Serhii Koksharov (Сергій Кокшаров) | 7 |
 | Adam Polkowski + Przemysław Rogalski | 6 |
