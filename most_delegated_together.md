@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 06 December 2024*
+*Generated on 07 December 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -16,10 +16,10 @@ This statistic shows the number of competitions that two delegates have delegate
 | Daniel Wallin + Peter Hugosson-Miller | 34 |
 | Alex Asbery + Luke Heath-Edwards | 21 |
 | Helar Gomez Chalco + Natán Riggenbach | 21 |
+| Louie Jay Quibote + Yuji Yoshida | 21 |
 | Niki Placskó + Olivér Perge | 21 |
 | Jakub Hamkało + Karol Zakrzewski | 20 |
 | Kevin Matthews + Vianne Chang | 20 |
-| Louie Jay Quibote + Yuji Yoshida | 20 |
 | Takayuki Ookusa (大艸尊之) + Yohei Suzuki (鈴木洋平) | 20 |
 | Akash Rupela + Ujjawal Pabreja | 19 |
 | Corey Sakowski + Keaton Ellis | 19 |
@@ -58,6 +58,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Jorge Miguel Trigo + Rodrigo Ugarte | 11 |
 | Amit Sheffer + Rotem Ifrach | 10 |
 | Austin Reed + Evan Liu | 10 |
+| Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 10 |
 | Daniel Wallin + Helmer Ewert | 10 |
 | Davi de Andrade Iácono + Francisco Thales Rocha Sousa | 10 |
 | Joshua Feran + Walker Welch | 10 |
@@ -68,7 +69,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Alexander Mutch + Kristopher De Asis | 9 |
 | Amir Hossein Nafisi (امیر حسین نفیسی) + Saeed Mostafavi Layegh (سعید مصطفوی لایق) | 9 |
 | Arun Kannan + Sukesh Kumar | 9 |
-| Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 9 |
 | Dave Campbell + Sarah Strong | 9 |
 | Evan Brown + Garrett Hadaway | 9 |
 | Filippo Brancaleoni + Lorenzo Vigani Poli | 9 |
