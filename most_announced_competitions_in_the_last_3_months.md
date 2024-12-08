@@ -5,17 +5,17 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 07 December 2024*
+*Generated on 08 December 2024*
 
 | Person | Announced competitions |
 | --- | --- |
-| Shain Papalotl Longbehn | 187 |
+| Shain Papalotl Longbehn | 182 |
 | Savion Romeo Matula | 154 |
-| Lisa Leukemans | 145 |
+| Lisa Leukemans | 140 |
 | Roman Wofford | 131 |
-| Zeke Mackay | 108 |
+| Zeke Mackay | 107 |
 | Joyce Peh | 43 |
-| Daniel Fraser | 39 |
+| Daniel Fraser | 38 |
 | Hitesh Kumar Bhuwalka | 26 |
 | Daniel Vædele Egdal | 14 |
 | Chris Martin | 12 |
