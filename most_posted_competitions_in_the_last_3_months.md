@@ -5,7 +5,7 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 08 December 2024*
+*Generated on 09 December 2024*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -16,7 +16,7 @@ This statistic shows people who posted the most competitions in the last 3 month
 | Piotr Olszewski | 34 |
 | Nguyễn Hải Dương | 29 |
 | Einar Martin Sandvik | 26 |
-| James Holdsworth | 13 |
+| James Holdsworth | 11 |
 | James Wang | 7 |
 | Manu Vereecken | 6 |
 | Oliver Hexter | 6 |
