@@ -5,13 +5,13 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 09 December 2024*
+*Generated on 10 December 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
-| Niko Ronkainen + Tomi Ronkainen | 59 |
+| Niko Ronkainen + Tomi Ronkainen | 60 |
 | Dennis Rosero + Manuel Popayán | 46 |
-| Krzysztof Bober + Przemysław Rogalski | 41 |
+| Krzysztof Bober + Przemysław Rogalski | 42 |
 | Dene Beardsley + Tim McMahon | 35 |
 | Daniel Wallin + Peter Hugosson-Miller | 34 |
 | Alex Asbery + Luke Heath-Edwards | 21 |
@@ -56,6 +56,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Cristian Ezequiel Vega + Guido Dipietro | 11 |
 | Fangyuan Chang (常方圆) + Ming Zheng (郑鸣) | 11 |
 | Jorge Miguel Trigo + Rodrigo Ugarte | 11 |
+| Amir Hossein Nafisi (امیر حسین نفیسی) + Saeed Mostafavi Layegh (سعید مصطفوی لایق) | 10 |
 | Amit Sheffer + Rotem Ifrach | 10 |
 | Austin Reed + Evan Liu | 10 |
 | Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 10 |
@@ -66,8 +67,8 @@ This statistic shows the number of competitions that two delegates have delegate
 | Adam Polkowski + Wojciech Szatanowski | 9 |
 | Adam Walker + Michael Young | 9 |
 | Adrián Ramírez + Joel Hernández | 9 |
+| Alejandro Nicolay + Rubén López de Juan | 9 |
 | Alexander Mutch + Kristopher De Asis | 9 |
-| Amir Hossein Nafisi (امیر حسین نفیسی) + Saeed Mostafavi Layegh (سعید مصطفوی لایق) | 9 |
 | Arun Kannan + Sukesh Kumar | 9 |
 | Dave Campbell + Sarah Strong | 9 |
 | Evan Brown + Garrett Hadaway | 9 |
@@ -76,9 +77,10 @@ This statistic shows the number of competitions that two delegates have delegate
 | Henrik Buus Aagaard + Matias Rasmussen | 9 |
 | Ioannis Papadopoulos + Oleg Gritsenko | 9 |
 | Lorenzo Vigani Poli + Simone Cantarelli | 9 |
-| Alejandro Nicolay + Rubén López de Juan | 8 |
 | Baocheng Wu (吴宝城) + Ming Zheng (郑鸣) | 8 |
 | Borislav Marchovski + Mihai Căpăţinescu | 8 |
+| Braden Richards + Evan Brown | 8 |
+| Braden Richards + Mason Langenderfer | 8 |
 | Callum James Goodyear-Jørgensen + Daniel Vædele Egdal | 8 |
 | Carter Kucala + Walker Welch | 8 |
 | Cel Adriane Lalo + Yuji Yoshida | 8 |
@@ -95,8 +97,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Akula Sai Kumar + Gaurav Bachani | 7 |
 | Alejandro Restrepo Echeverri + Andres Felipe Rodríguez Londoño | 7 |
 | Alex Asbery + James Macdiarmid | 7 |
-| Braden Richards + Evan Brown | 7 |
-| Braden Richards + Mason Langenderfer | 7 |
 | Carlos Méndez García-Barroso + Josete Sánchez | 7 |
 | Carter Kucala + Simon Kellum | 7 |
 | Daisuke Kochi (幸地大輔) + Ryutaro Miyazaki (宮崎隆太郎) | 7 |
