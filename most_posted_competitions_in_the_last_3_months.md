@@ -5,7 +5,7 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 10 December 2024*
+*Generated on 11 December 2024*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -21,7 +21,6 @@ This statistic shows people who posted the most competitions in the last 3 month
 | Manu Vereecken | 6 |
 | Oliver Hexter | 6 |
 | Clément Cherblanc | 5 |
-| Sébastien Auroux | 4 |
 | Callum James Goodyear-Jørgensen | 2 |
 | Sukesh Kumar | 1 |
 | Brandon Reichman | 1 |
