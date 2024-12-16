@@ -5,13 +5,13 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 15 December 2024*
+*Generated on 16 December 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
 | Niko Ronkainen + Tomi Ronkainen | 60 |
 | Dennis Rosero + Manuel Popayán | 46 |
-| Krzysztof Bober + Przemysław Rogalski | 42 |
+| Krzysztof Bober + Przemysław Rogalski | 43 |
 | Dene Beardsley + Tim McMahon | 35 |
 | Daniel Wallin + Peter Hugosson-Miller | 34 |
 | Alex Asbery + Luke Heath-Edwards | 21 |
