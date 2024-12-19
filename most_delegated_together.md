@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 18 December 2024*
+*Generated on 19 December 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -32,6 +32,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | Bence Barát + Dániel Varga | 16 |
 | Laura Ohrndorf + Sébastien Auroux | 15 |
 | Oleg Gritsenko + Tobias Peter | 15 |
+| Dennis Rosero + Michael Andres Castillo Lemus | 14 |
 | Enrymar Cisneros + Rafael Antonio Sanchez | 14 |
 | Jacob Ambrose + Katie Hull | 14 |
 | Jernej Omulec + Petra Kobal Vogrinec | 14 |
@@ -41,7 +42,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Chia-Leo Lin (林珈樂) + Rui-Jun Liu (劉睿鈞) | 13 |
 | Chris Brotzman + Kit Clement | 13 |
 | Dennis Rosero + José Leonardo Chaparro Prieto | 13 |
-| Dennis Rosero + Michael Andres Castillo Lemus | 13 |
 | Elias Miguel Acosta Acosta + Gustavo Riveiro | 13 |
 | Evan Liu + Zach Ridall | 13 |
 | Gennaro Monetti + Manuel Malvárez | 12 |
