@@ -5,13 +5,13 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 22 December 2024*
+*Generated on 23 December 2024*
 
 | Person | Posted competitions |
 | --- | --- |
 | Zain Ali Behzaad | 468 |
 | Maksymilian Gala | 195 |
-| Jason Chang (章維祐) | 163 |
+| Jason Chang (章維祐) | 161 |
 | Piotr Olszewski | 48 |
 | Pranav Dandgaval | 28 |
 | Einar Martin Sandvik | 23 |
