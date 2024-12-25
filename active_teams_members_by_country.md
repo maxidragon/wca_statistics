@@ -3,17 +3,17 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 24 December 2024*
+*Generated on 25 December 2024*
 
 | Country | Number of active team members |
 | --- | --- |
-| USA | 33 |
+| USA | 39 |
 | India | 19 |
 | United Kingdom | 17 |
 | Australia | 10 |
 | Germany | 6 |
 | Spain | 6 |
-| China | 5 |
+| China | 6 |
 | France | 5 |
 | Brazil | 4 |
 | Ukraine | 3 |
@@ -21,21 +21,22 @@ title: Active team members by country
 | Poland | 3 |
 | Ireland | 3 |
 | Philippines | 3 |
+| Canada | 3 |
 | Malaysia | 3 |
-| Canada | 2 |
-| Belgium | 2 |
-| Russia | 2 |
-| Vietnam | 2 |
-| Uruguay | 2 |
-| Iran | 2 |
-| Italy | 2 |
-| Denmark | 2 |
 | Singapore | 2 |
-| Jordan | 1 |
-| Sweden | 1 |
-| Colombia | 1 |
-| Switzerland | 1 |
+| Denmark | 2 |
+| Italy | 2 |
+| Uruguay | 2 |
+| Vietnam | 2 |
+| Russia | 2 |
+| Belgium | 2 |
+| Iran | 2 |
+| Israel | 1 |
 | Pakistan | 1 |
+| Switzerland | 1 |
+| Colombia | 1 |
+| Sweden | 1 |
+| Jordan | 1 |
 | Romania | 1 |
 | Argentina | 1 |
 | Taiwan | 1 |

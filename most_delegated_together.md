@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 24 December 2024*
+*Generated on 25 December 2024*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -45,10 +45,11 @@ This statistic shows the number of competitions that two delegates have delegate
 | Elias Miguel Acosta Acosta + Gustavo Riveiro | 13 |
 | Evan Liu + Zach Ridall | 13 |
 | James Hildreth + Yuxuan Chen | 13 |
+| Mustafa Çamlıca + Ömer Çetinkaya | 13 |
 | Gennaro Monetti + Manuel Malvárez | 12 |
 | James Hamory + Michael Young | 12 |
 | Maralgoo Ganbold (Ганболд Маралгоо) + Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж) | 12 |
-| Mustafa Çamlıca + Ömer Çetinkaya | 12 |
+| Amir Hossein Nafisi (امیر حسین نفیسی) + Saeed Mostafavi Layegh (سعید مصطفوی لایق) | 11 |
 | Anders Berggren + Daniel Wallin | 11 |
 | Andreas Pung + Ivo Kruusamägi | 11 |
 | Björn Korbanka + Sébastien Auroux | 11 |
@@ -56,12 +57,12 @@ This statistic shows the number of competitions that two delegates have delegate
 | Cristian Ezequiel Vega + Guido Dipietro | 11 |
 | Fangyuan Chang (常方圆) + Ming Zheng (郑鸣) | 11 |
 | Jorge Miguel Trigo + Rodrigo Ugarte | 11 |
-| Amir Hossein Nafisi (امیر حسین نفیسی) + Saeed Mostafavi Layegh (سعید مصطفوی لایق) | 10 |
 | Amit Sheffer + Rotem Ifrach | 10 |
 | Austin Reed + Evan Liu | 10 |
 | Carlos Gabriel de Azevedo + Valfrido Torres Quintanilha Netto | 10 |
 | Daniel Wallin + Helmer Ewert | 10 |
 | Davi de Andrade Iácono + Francisco Thales Rocha Sousa | 10 |
+| Evan Brown + Garrett Hadaway | 10 |
 | Joshua Feran + Walker Welch | 10 |
 | Kostas Papadopoulos + Pantos Pantos | 10 |
 | Adam Polkowski + Wojciech Szatanowski | 9 |
@@ -71,7 +72,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | Alexander Mutch + Kristopher De Asis | 9 |
 | Arun Kannan + Sukesh Kumar | 9 |
 | Dave Campbell + Sarah Strong | 9 |
-| Evan Brown + Garrett Hadaway | 9 |
 | Filippo Brancaleoni + Lorenzo Vigani Poli | 9 |
 | Fletcher Berry + Michael Conard | 9 |
 | Henrik Buus Aagaard + Matias Rasmussen | 9 |
@@ -102,10 +102,10 @@ This statistic shows the number of competitions that two delegates have delegate
 | Daisuke Kochi (幸地大輔) + Ryutaro Miyazaki (宮崎隆太郎) | 7 |
 | Dan Smith + Katie Hinkley | 7 |
 | Diego Alejandro Casas Jimenez + José Leonardo Chaparro Prieto | 7 |
+| Evan Liu + Lauren Phung | 7 |
 | Fangyuan Chang (常方圆) + Hao Wang (王皓) | 7 |
 | Jacob Oliver Bruun + Ulrik Bredland | 7 |
 | Roman Ostapenko (Роман Остапенко) + Serhii Koksharov (Сергій Кокшаров) | 7 |
 | Adam Polkowski + Przemysław Rogalski | 6 |
 | Braden Richards + Ricky Martin | 6 |
 | Bradley Sampson + Calvin Nielson | 6 |
-| Brian Acuña + Kirby Jay Caragan | 6 |
