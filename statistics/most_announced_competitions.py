@@ -1,5 +1,10 @@
 sql = '''
-SELECT u.name, COUNT(*) AS announced_competitions 
+SELECT
+CASE 
+  WHEN u.wca_id IS NOT NULL THEN CONCAT('[', u.name, '](https://www.worldcubeassociation.org/persons/', u.wca_id, ')')
+  ELSE u.name 
+END AS member,
+COUNT(*) AS announced_competitions 
 FROM Competitions AS c LEFT JOIN users AS u ON c.announced_by=u.id 
 WHERE announced_by IS NOT NULL 
 GROUP BY announced_by 

@@ -11,9 +11,14 @@ SELECT
         ORDER BY sa.end_time DESC 
         LIMIT 1
     ), c.results_posted_at) / 3600 AS diff_in_hours, 
-    c.id, 
-    u.name as posted_by,
-    GROUP_CONCAT(d.name SEPARATOR ', ') AS delegates
+    CONCAT('[', c.id, '](https://www.worldcubeassociation.org/competitions/', c.id, ')') AS competition_id,
+    CASE 
+        WHEN u.wca_id IS NOT NULL THEN CONCAT('[', u.name, '](https://www.worldcubeassociation.org/persons/', u.wca_id, ')')
+        ELSE u.name 
+    END AS posted_by,
+    GROUP_CONCAT(
+        CONCAT('[', d.name, '](https://www.worldcubeassociation.org/persons/', d.wca_id, ')')
+        SEPARATOR ', ') AS delegates
 FROM 
     Competitions c
 JOIN 
