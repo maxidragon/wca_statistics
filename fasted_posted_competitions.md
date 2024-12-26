@@ -9,23 +9,23 @@ This statistic shows the competitions that were posted the fastest after last sc
 
 | Difference in hours | Competition ID | Posted by | Delegates |
 | --- | --- | --- | --- |
-| -5.3342 | GACubersWarmUp2024 | Jacob Ambrose | Katie Hull, Jacob Ambrose, Raymond Goslow, Clay Moore |
-| -3.2889 | DakshCubeOpen2019 | Daniel M. James | Daniel M. James |
-| -2.9500 | Ibague2024 | Piotr Olszewski | Dennis Rosero, Haiver Lenin Reyes Garcia |
-| -2.5850 | TKTKSideEventsII2024 | James Holdsworth | Oliver Pällo |
-| -2.5350 | SpeedcubingLaGuajira2024 | Pranav Dandgaval | Haiver Lenin Reyes Garcia |
-| -2.4714 | NemoconCundinamarca2024 | Maksymilian Gala | Dennis Rosero |
-| -2.0031 | JieyangWinter2019 | Sébastien Auroux | Ming Zheng (郑鸣), Baocheng Wu (吴宝城) |
-| -1.8725 | 5BLDMadnessSuwon2024 | Maksymilian Gala | Jae Park |
-| -1.8578 | VillapinzonalCuboOpenII2024 | Jason Chang (章維祐) | Dennis Rosero, Manuel Popayán |
-| -1.8128 | QubesDonLieBursa2022 | Jungwoo Kim (김정우) | Ömer Çetinkaya |
-| -1.4981 | VibraSocialCundinama2024 | Zain Ali Behzaad | Dennis Rosero |
-| -1.4792 | IITKanpurOpen2019 | Daniel M. James | Daniel M. James |
-| -1.4339 | BhejaFryDecBangalore2024 | Zain Ali Behzaad | Gaurav Bachani, Sukesh Kumar |
-| -1.3944 | MeridianoMosquera2024 | Zain Ali Behzaad | Dennis Rosero, Manuel Popayán |
-| -1.3736 | AntiNxNinStuttgart2024 | Zain Ali Behzaad | Annika Stein |
-| -1.2261 | GaleriasBogota2024 | Jason Chang (章維祐) | Dennis Rosero, Manuel Popayán |
-| -1.1114 | Cube4funDWSwidnik2024 | Maksymilian Gala | Hubert Hanusiak |
-| -0.9961 | NykopingSideEvents2023 | Callum James Goodyear-Jørgensen | Daniel Wallin, Leo Lindqvist, Peter Hugosson-Miller |
-| -0.9631 | FloridaSpringA2022 | Jacob Ambrose | Katie Hull, Jacob Ambrose, Zachary Ochs, Nathan Graves, Nancy Hartman |
-| -0.9531 | Cube4funDWLublin2024 | Maksymilian Gala | Hubert Hanusiak |
+| -5.3342 | [GACubersWarmUp2024](https://www.worldcubeassociation.org/competitions/GACubersWarmUp2024) | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01), [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01), [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01), [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) |
+| -3.2889 | [DakshCubeOpen2019](https://www.worldcubeassociation.org/competitions/DakshCubeOpen2019) | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) |
+| -2.9500 | [Ibague2024](https://www.worldcubeassociation.org/competitions/Ibague2024) | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03), [Haiver Lenin Reyes Garcia](https://www.worldcubeassociation.org/persons/2017GARC48) |
+| -2.5850 | [TKTKSideEventsII2024](https://www.worldcubeassociation.org/competitions/TKTKSideEventsII2024) | [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) |
+| -2.5350 | [SpeedcubingLaGuajira2024](https://www.worldcubeassociation.org/competitions/SpeedcubingLaGuajira2024) | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | [Haiver Lenin Reyes Garcia](https://www.worldcubeassociation.org/persons/2017GARC48) |
+| -2.4714 | [NemoconCundinamarca2024](https://www.worldcubeassociation.org/competitions/NemoconCundinamarca2024) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| -2.0031 | [JieyangWinter2019](https://www.worldcubeassociation.org/competitions/JieyangWinter2019) | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11), [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) |
+| -1.8725 | [5BLDMadnessSuwon2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSuwon2024) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24) |
+| -1.8578 | [VillapinzonalCuboOpenII2024](https://www.worldcubeassociation.org/competitions/VillapinzonalCuboOpenII2024) | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03), [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) |
+| -1.8128 | [QubesDonLieBursa2022](https://www.worldcubeassociation.org/competitions/QubesDonLieBursa2022) | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | [Ömer Çetinkaya](https://www.worldcubeassociation.org/persons/2013CETI01) |
+| -1.4981 | [VibraSocialCundinama2024](https://www.worldcubeassociation.org/competitions/VibraSocialCundinama2024) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
+| -1.4792 | [IITKanpurOpen2019](https://www.worldcubeassociation.org/competitions/IITKanpurOpen2019) | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) |
+| -1.4339 | [BhejaFryDecBangalore2024](https://www.worldcubeassociation.org/competitions/BhejaFryDecBangalore2024) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09), [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
+| -1.3944 | [MeridianoMosquera2024](https://www.worldcubeassociation.org/competitions/MeridianoMosquera2024) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03), [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) |
+| -1.3736 | [AntiNxNinStuttgart2024](https://www.worldcubeassociation.org/competitions/AntiNxNinStuttgart2024) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Annika Stein](https://www.worldcubeassociation.org/persons/2014STEI03) |
+| -1.2261 | [GaleriasBogota2024](https://www.worldcubeassociation.org/competitions/GaleriasBogota2024) | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03), [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) |
+| -1.1114 | [Cube4funDWSwidnik2024](https://www.worldcubeassociation.org/competitions/Cube4funDWSwidnik2024) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
+| -0.9961 | [NykopingSideEvents2023](https://www.worldcubeassociation.org/competitions/NykopingSideEvents2023) | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03), [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01), [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
+| -0.9631 | [FloridaSpringA2022](https://www.worldcubeassociation.org/competitions/FloridaSpringA2022) | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01), [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01), [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01), [Nathan Graves](https://www.worldcubeassociation.org/persons/2014GRAV02), [Nancy Hartman](https://www.worldcubeassociation.org/persons/2017HART11) |
+| -0.9531 | [Cube4funDWLublin2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |

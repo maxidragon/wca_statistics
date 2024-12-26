@@ -9,18 +9,18 @@ This statistic shows people who announced the most competitions in the last 3 mo
 
 | Person | Announced competitions |
 | --- | --- |
-| Roman Wofford | 188 |
-| Shain Papalotl Longbehn | 187 |
-| Savion Romeo Matula | 149 |
-| Lisa Leukemans | 118 |
-| Zeke Mackay | 93 |
-| Joyce Peh | 38 |
-| Hitesh Kumar Bhuwalka | 26 |
-| Daniel Vædele Egdal | 23 |
-| Daniel Fraser | 23 |
-| Sofía Guerrero Neto | 13 |
-| Chris Martin | 12 |
-| Nevins Chan Pak Hoong (陈百鸿) | 12 |
-| Lars Johan Folde | 4 |
-| Modest Podzolkin | 4 |
-| Peter Preston | 2 |
+| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 187 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 187 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 146 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 118 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 93 |
+| [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 38 |
+| [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 26 |
+| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 23 |
+| [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | 23 |
+| [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 13 |
+| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 12 |
+| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 12 |
+| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 4 |
+| [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 4 |
+| [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 2 |
