@@ -21,8 +21,8 @@ dpc AS (
     GROUP BY competition_id
 )
 SELECT DISTINCT 
-    CONCAT(dt1.d1name, " + ", dt2.name) AS Delegates, 
-    COUNT(dt2.id2) AS num_comps_together 
+    CONCAT(IF(dt1.d1name<dt2.name,dt1.d1name,dt2.name), " + ", IF(dt1.d1name<dt2.name,dt2.name,dt1.d1name)) AS Delegates, 
+    COUNT(dt2.id2) AS num_comps_together
 FROM dt1
 JOIN dpc ON dpc.competition_id = dt1.cid1
 JOIN dt2 ON dt2.cid2 = dt1.cid1   
