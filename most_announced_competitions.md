@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 30 December 2024*
+*Generated on 31 December 2024*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -30,12 +30,12 @@ This statistic shows people who announced the most competitions.
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 247 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 225 |
 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | 223 |
-| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 217 |
+| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 218 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 208 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 175 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 179 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 153 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 157 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
 | WCA Board | 119 |
 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | 117 |
@@ -49,7 +49,7 @@ This statistic shows people who announced the most competitions.
 | [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
-| [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 35 |
+| [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 37 |
 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 25 |
 | [Nitin Subramanian](https://www.worldcubeassociation.org/persons/2014SUBR04) | 17 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 13 |
