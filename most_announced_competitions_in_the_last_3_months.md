@@ -5,15 +5,15 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 02 January 2025*
+*Generated on 03 January 2025*
 
 | Person | Announced competitions |
 | --- | --- |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 200 |
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 176 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 139 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 117 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 89 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 135 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 114 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 88 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 38 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 31 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 23 |

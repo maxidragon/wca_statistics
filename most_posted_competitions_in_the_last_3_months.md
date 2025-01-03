@@ -5,13 +5,13 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 02 January 2025*
+*Generated on 03 January 2025*
 
 | Person | Posted competitions |
 | --- | --- |
 | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 473 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 187 |
-| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 146 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 185 |
+| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 143 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 52 |
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 25 |
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 19 |
@@ -20,7 +20,7 @@ This statistic shows people who posted the most competitions in the last 3 month
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 6 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 4 |
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | 4 |
-| [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | 3 |
+| [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | 2 |
 | [Brandon Reichman](https://www.worldcubeassociation.org/persons/2015REIC02) | 1 |
 | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | 1 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 1 |

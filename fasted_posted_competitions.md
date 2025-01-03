@@ -5,7 +5,7 @@ title: Fasted posted competitions
 ## Fasted posted competitions
 This statistic shows the competitions that were posted the fastest after last schedule activity ended. The difference is calculated in hours.
 
-*Generated on 02 January 2025*
+*Generated on 03 January 2025*
 
 | Difference in hours | Competition ID | Posted by | Delegates |
 | --- | --- | --- | --- |
