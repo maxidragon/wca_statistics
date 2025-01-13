@@ -5,17 +5,17 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 12 January 2025*
+*Generated on 13 January 2025*
 
 | Person | Announced competitions |
 | --- | --- |
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1454 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1047 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 957 |
-| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 877 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 964 |
+| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 883 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 664 |
-| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 510 |
+| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 511 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 507 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 491 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 477 |
@@ -33,7 +33,7 @@ This statistic shows people who announced the most competitions.
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 219 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 208 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 180 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 189 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 158 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
@@ -50,7 +50,7 @@ This statistic shows people who announced the most competitions.
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 38 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
-| [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 37 |
+| [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 38 |
 | [Nitin Subramanian](https://www.worldcubeassociation.org/persons/2014SUBR04) | 17 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 13 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 13 |
