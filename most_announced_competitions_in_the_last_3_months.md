@@ -5,11 +5,11 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 19 January 2025*
+*Generated on 20 January 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 233 |
+| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 228 |
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 163 |
 | [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 117 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 96 |
