@@ -5,14 +5,14 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 21 January 2025*
+*Generated on 22 January 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 217 |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 163 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 117 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 96 |
+| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 233 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 161 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 118 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 99 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 94 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 41 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 27 |
@@ -21,7 +21,7 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 15 |
 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 15 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 12 |
-| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 10 |
+| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 12 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 10 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 4 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 3 |

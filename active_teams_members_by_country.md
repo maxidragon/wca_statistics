@@ -3,7 +3,7 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 21 January 2025*
+*Generated on 22 January 2025*
 
 | Country | Number of active team members |
 | --- | --- |
@@ -33,7 +33,6 @@ title: Active team members by country
 | Pakistan | 1 |
 | Switzerland | 1 |
 | Colombia | 1 |
-| Sweden | 1 |
 | Jordan | 1 |
 | Romania | 1 |
 | Argentina | 1 |
