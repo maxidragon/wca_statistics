@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 27 January 2025*
+*Generated on 28 January 2025*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -13,7 +13,7 @@ This statistic shows people who announced the most competitions.
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1047 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 990 |
-| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 935 |
+| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 952 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 664 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 514 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 507 |
@@ -32,10 +32,10 @@ This statistic shows people who announced the most competitions.
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 225 |
 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | 223 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 210 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 204 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 209 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 175 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 169 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
 | WCA Board | 119 |
 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | 117 |

@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 27 January 2025*
+*Generated on 28 January 2025*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -15,7 +15,7 @@ This statistic shows people who posted the most competitions.
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 843 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 781 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 708 |
-| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 604 |
+| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 632 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 562 |
 | [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | 518 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 432 |
@@ -30,9 +30,9 @@ This statistic shows people who posted the most competitions.
 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 239 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 234 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 233 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 231 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 233 |
+| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 203 |
 | [Brandon Reichman](https://www.worldcubeassociation.org/persons/2015REIC02) | 203 |
-| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 200 |
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 199 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | 184 |
 | [John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀)](https://www.worldcubeassociation.org/persons/2010UBAL01) | 184 |
@@ -42,10 +42,10 @@ This statistic shows people who posted the most competitions.
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 124 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 91 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 63 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 57 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 58 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 54 |
 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 49 |
-| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 42 |
+| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 46 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 38 |
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 31 |
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 28 |
@@ -54,7 +54,7 @@ This statistic shows people who posted the most competitions.
 | [Ruud Pollé](https://www.worldcubeassociation.org/persons/2019POLL04) | 14 |
 | [Sheen Oishi](https://www.worldcubeassociation.org/persons/2017OISH01) | 8 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 6 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 5 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 6 |
 | [Jim Mertens](https://www.worldcubeassociation.org/persons/2006MERT01) | 3 |
 | WCA Board | 1 |
 | [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 1 |
