@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 30 January 2025*
+*Generated on 31 January 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -14,9 +14,9 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 45 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) + [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 36 |
 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) + [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 35 |
+| [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 22 |
 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) + [Luke Heath-Edwards](https://www.worldcubeassociation.org/persons/2018HEAT01) | 21 |
 | [Helar Gomez Chalco](https://www.worldcubeassociation.org/persons/2015CHAL01) + [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 21 |
-| [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 21 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) + [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 21 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) + [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 20 |
 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) + [Vianne Chang](https://www.worldcubeassociation.org/persons/2017CHAN47) | 20 |
