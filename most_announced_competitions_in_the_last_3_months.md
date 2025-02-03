@@ -5,7 +5,7 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 02 February 2025*
+*Generated on 03 February 2025*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -21,7 +21,7 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 15 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 12 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 10 |
-| [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | 6 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 5 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 4 |
+| [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | 3 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 3 |
