@@ -5,11 +5,11 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 03 February 2025*
+*Generated on 04 February 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1465 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1468 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1047 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 996 |
@@ -34,7 +34,7 @@ This statistic shows people who announced the most competitions.
 | [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 216 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 210 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 175 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 183 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
 | WCA Board | 119 |
@@ -47,8 +47,8 @@ This statistic shows people who announced the most competitions.
 | [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02) | 47 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 45 |
 | [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
+| [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 43 |
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |
-| [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 38 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 38 |
 | [Nitin Subramanian](https://www.worldcubeassociation.org/persons/2014SUBR04) | 17 |
