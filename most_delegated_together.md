@@ -5,14 +5,14 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 06 February 2025*
+*Generated on 07 February 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) + [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 63 |
 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) + [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | 46 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 45 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) + [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 36 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) + [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 37 |
 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) + [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 35 |
 | [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 23 |
 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) + [Luke Heath-Edwards](https://www.worldcubeassociation.org/persons/2018HEAT01) | 21 |
@@ -106,6 +106,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) + [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | 7 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) + [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | 7 |
 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) + [Hao Wang (王皓)](https://www.worldcubeassociation.org/persons/2009WANG43) | 7 |
+| [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) + [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 7 |
 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) + [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 7 |
 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) + [Matheus Casassa](https://www.worldcubeassociation.org/persons/2017VIAN01) | 7 |
-| [Roman Ostapenko (Роман Остапенко)](https://www.worldcubeassociation.org/persons/2009OSTA01) + [Serhii Koksharov (Сергій Кокшаров)](https://www.worldcubeassociation.org/persons/2013KOKS01) | 7 |
