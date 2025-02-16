@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 15 February 2025*
+*Generated on 16 February 2025*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -41,9 +41,9 @@ This statistic shows people who posted the most competitions.
 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) | 139 |
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 124 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 91 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 66 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 67 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 63 |
-| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 60 |
+| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 63 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 54 |
 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 49 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 38 |
@@ -52,9 +52,9 @@ This statistic shows people who posted the most competitions.
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 28 |
 | [James Wang](https://www.worldcubeassociation.org/persons/2015WANG87) | 21 |
 | [Ruud Pollé](https://www.worldcubeassociation.org/persons/2019POLL04) | 14 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 9 |
+| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 8 |
 | [Sheen Oishi](https://www.worldcubeassociation.org/persons/2017OISH01) | 8 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 7 |
-| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 6 |
 | [Jim Mertens](https://www.worldcubeassociation.org/persons/2006MERT01) | 3 |
 | [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 1 |
 | WCA Board | 1 |
