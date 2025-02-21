@@ -5,17 +5,17 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 20 February 2025*
+*Generated on 21 February 2025*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 509 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 123 |
-| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 104 |
+| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 497 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 118 |
+| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 102 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 57 |
-| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 43 |
+| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 41 |
 | [James Wang](https://www.worldcubeassociation.org/persons/2015WANG87) | 21 |
-| [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 19 |
+| [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 18 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 14 |
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | 8 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 5 |
@@ -23,7 +23,6 @@ This statistic shows people who posted the most competitions in the last 3 month
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 2 |
 | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | 1 |
 | [Brandon Reichman](https://www.worldcubeassociation.org/persons/2015REIC02) | 1 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 1 |
 | [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 1 |
 | [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 1 |
 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 1 |
