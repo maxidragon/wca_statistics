@@ -5,7 +5,7 @@ title: Fasted posted competitions
 ## Fasted posted competitions
 This statistic shows the competitions that were posted the fastest after last schedule activity ended. The difference is calculated in hours.
 
-*Generated on 24 February 2025*
+*Generated on 25 February 2025*
 
 | Difference in hours | Competition ID | Posted by | Delegates |
 | --- | --- | --- | --- |
@@ -28,4 +28,4 @@ This statistic shows the competitions that were posted the fastest after last sc
 | -1.2261 | [GaleriasBogota2024](https://www.worldcubeassociation.org/competitions/GaleriasBogota2024) | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03), [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) |
 | -1.1539 | [Cube4funinTylmanowa2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | -1.1114 | [Cube4funDWSwidnik2024](https://www.worldcubeassociation.org/competitions/Cube4funDWSwidnik2024) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
-| -0.9961 | [NykopingSideEvents2023](https://www.worldcubeassociation.org/competitions/NykopingSideEvents2023) | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03), [Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01), [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) |
+| -1.0394 | [Cube4funLublinSunday2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSunday2025) | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
