@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 26 February 2025*
+*Generated on 27 February 2025*
 
 | Person | Posted competitions |
 | --- | --- |
