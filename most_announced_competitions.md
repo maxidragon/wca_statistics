@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 03 March 2025*
+*Generated on 04 March 2025*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -15,7 +15,7 @@ This statistic shows people who announced the most competitions.
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1031 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 1001 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 664 |
-| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 525 |
+| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 526 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 507 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 491 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 477 |
@@ -24,15 +24,15 @@ This statistic shows people who announced the most competitions.
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 369 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 358 |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 347 |
-| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 333 |
+| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 340 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 313 |
 | [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 267 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 249 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 247 |
+| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 227 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 226 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 225 |
-| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 225 |
 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | 223 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 221 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 210 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
@@ -45,8 +45,8 @@ This statistic shows people who announced the most competitions.
 | [Ng Kang Zhe (黄康哲)](https://www.worldcubeassociation.org/persons/2016KANG02) | 59 |
 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | 49 |
 | [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02) | 47 |
-| [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 45 |
 | [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
+| [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 45 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 45 |
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
@@ -58,7 +58,7 @@ This statistic shows people who announced the most competitions.
 | [James Stephen Sarmiento Cubarol](https://www.worldcubeassociation.org/persons/2016CUBA02) | 10 |
 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) | 5 |
 | [Marco Belotti](https://www.worldcubeassociation.org/persons/2010BELO01) | 4 |
-| [Lauren Clement](https://www.worldcubeassociation.org/persons/2013KLEM01) | 1 |
-| [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) | 1 |
-| [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 1 |
 | Ernő Rubik | 1 |
+| [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 1 |
+| [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) | 1 |
+| [Lauren Clement](https://www.worldcubeassociation.org/persons/2013KLEM01) | 1 |

@@ -5,7 +5,7 @@ title: Fasted posted competitions
 ## Fasted posted competitions
 This statistic shows the competitions that were posted the fastest after last schedule activity ended. The difference is calculated in hours.
 
-*Generated on 03 March 2025*
+*Generated on 04 March 2025*
 
 | Difference in hours | Competition ID | Posted by | Delegates |
 | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ This statistic shows the competitions that were posted the fastest after last sc
 | -1.4339 | [BhejaFryDecBangalore2024](https://www.worldcubeassociation.org/competitions/BhejaFryDecBangalore2024) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09), [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
 | -1.3944 | [MeridianoMosquera2024](https://www.worldcubeassociation.org/competitions/MeridianoMosquera2024) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03), [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) |
 | -1.3736 | [AntiNxNinStuttgart2024](https://www.worldcubeassociation.org/competitions/AntiNxNinStuttgart2024) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Annika Stein](https://www.worldcubeassociation.org/persons/2014STEI03) |
+| -1.3414 | [RomandieRookies2025](https://www.worldcubeassociation.org/competitions/RomandieRookies2025) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01), [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) |
 | -1.2261 | [GaleriasBogota2024](https://www.worldcubeassociation.org/competitions/GaleriasBogota2024) | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03), [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) |
 | -1.1539 | [Cube4funinTylmanowa2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
-| -1.1114 | [Cube4funDWSwidnik2024](https://www.worldcubeassociation.org/competitions/Cube4funDWSwidnik2024) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
-| -1.0394 | [Cube4funLublinSunday2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSunday2025) | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
+| -1.1458 | [Only3x3sinHyderabad2025](https://www.worldcubeassociation.org/competitions/Only3x3sinHyderabad2025) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) |
