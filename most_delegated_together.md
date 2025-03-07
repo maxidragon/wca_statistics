@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 06 March 2025*
+*Generated on 07 March 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -108,4 +108,4 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) + [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | 7 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) + [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | 7 |
 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) + [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 7 |
-| [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) + [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 7 |
+| [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) + [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 7 |
