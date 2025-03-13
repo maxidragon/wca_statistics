@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 12 March 2025*
+*Generated on 13 March 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -56,6 +56,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) + [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 11 |
 | [Andreas Pung](https://www.worldcubeassociation.org/persons/2009PUNG01) + [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) | 11 |
 | [Björn Korbanka](https://www.worldcubeassociation.org/persons/2009KORB01) + [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 11 |
+| [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) + [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 11 |
 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) + [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) | 11 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) + [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 11 |
 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) + [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 11 |
@@ -65,7 +66,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) + [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 10 |
 | [Amit Sheffer](https://www.worldcubeassociation.org/persons/2010SHEF01) + [Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01) | 10 |
 | [Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01) + [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 10 |
-| [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) + [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 10 |
 | [Davi de Andrade Iácono](https://www.worldcubeassociation.org/persons/2015IACO01) + [Francisco Thales Rocha Sousa](https://www.worldcubeassociation.org/persons/2013SOUS03) | 10 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) + [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 10 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) + [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 9 |
