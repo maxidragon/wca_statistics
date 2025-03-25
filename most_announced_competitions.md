@@ -5,13 +5,13 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 24 March 2025*
+*Generated on 25 March 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1509 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1510 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
-| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1067 |
+| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1073 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1034 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 1001 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 664 |
@@ -26,7 +26,7 @@ This statistic shows people who announced the most competitions.
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 347 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 346 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 313 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 297 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 307 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 263 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 249 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 247 |
