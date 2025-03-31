@@ -3,11 +3,11 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 30 March 2025*
+*Generated on 31 March 2025*
 
 | Country | Number of active team members |
 | --- | --- |
-| USA | 45 |
+| USA | 46 |
 | India | 22 |
 | United Kingdom | 17 |
 | Australia | 10 |

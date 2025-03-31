@@ -5,11 +5,11 @@ title: Announcement delay by month
 ## Announcement delay by month
 This statistic shows the average delay between confirming competition by WCA Delegate and announcing it by the WCAT.
 
-*Generated on 30 March 2025*
+*Generated on 31 March 2025*
 
 | Month | Announcement delay (hours) |
 | --- | --- |
-| 2025-03 | 17.96 |
+| 2025-03 | 18.61 |
 | 2025-02 | 9.89 |
 | 2025-01 | 7.10 |
 | 2024-12 | 10.82 |
