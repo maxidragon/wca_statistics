@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 03 April 2025*
+*Generated on 04 April 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -64,11 +64,11 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) + [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 11 |
 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) + [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 11 |
 | [Jorge Miguel Trigo](https://www.worldcubeassociation.org/persons/2015TRIG02) + [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) | 11 |
+| [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) + [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 11 |
 | [Akula Sai Kumar](https://www.worldcubeassociation.org/persons/2012KUMA02) + [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) | 10 |
 | [Amit Sheffer](https://www.worldcubeassociation.org/persons/2010SHEF01) + [Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01) | 10 |
 | [Davi de Andrade Iácono](https://www.worldcubeassociation.org/persons/2015IACO01) + [Francisco Thales Rocha Sousa](https://www.worldcubeassociation.org/persons/2013SOUS03) | 10 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) + [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 10 |
-| [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) + [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 10 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) + [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 9 |
 | [Adam Walker](https://www.worldcubeassociation.org/persons/2012WALK02) + [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | 9 |
 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) + [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | 9 |
@@ -95,6 +95,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) + [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 8 |
 | [Geert Bicler](https://www.worldcubeassociation.org/persons/2010BICL01) + [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 8 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) + [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 8 |
+| [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) + [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 8 |
 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) + [Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03) | 8 |
 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) + [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | 8 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) + [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | 8 |
@@ -108,4 +109,3 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Dan Smith](https://www.worldcubeassociation.org/persons/2018SMIT42) + [Katie Hinkley](https://www.worldcubeassociation.org/persons/2016HINK01) | 7 |
 | [Dan Smith](https://www.worldcubeassociation.org/persons/2018SMIT42) + [Lydia Workman](https://www.worldcubeassociation.org/persons/2018WORK01) | 7 |
 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) + [José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01) | 7 |
-| [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) + [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | 7 |
