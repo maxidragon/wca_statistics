@@ -5,23 +5,24 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 06 April 2025*
+*Generated on 07 April 2025*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 569 |
+| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 591 |
 | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 68 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 61 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 44 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 62 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 42 |
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 34 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 28 |
 | [James Wang](https://www.worldcubeassociation.org/persons/2015WANG87) | 26 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 24 |
-| [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 15 |
+| [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 17 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 11 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 5 |
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 5 |
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | 5 |
 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 2 |
+| [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 2 |
 | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | 1 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 1 |
 | [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 1 |
