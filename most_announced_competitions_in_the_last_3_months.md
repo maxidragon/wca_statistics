@@ -5,18 +5,18 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 13 April 2025*
+*Generated on 14 April 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 185 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 184 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 183 |
+| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 182 |
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 153 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 127 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 98 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 63 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 54 |
-| [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 45 |
+| [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 44 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 33 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 19 |
 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 13 |
