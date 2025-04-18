@@ -9,10 +9,10 @@ This statistic shows people who announced the most competitions.
 
 | Person | Announced competitions |
 | --- | --- |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1556 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1559 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1093 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1050 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1057 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 1001 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 664 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 573 |
@@ -20,7 +20,7 @@ This statistic shows people who announced the most competitions.
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 492 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 477 |
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 410 |
-| [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 396 |
+| [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 403 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 396 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 358 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 350 |
