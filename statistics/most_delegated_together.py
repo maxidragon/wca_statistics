@@ -26,9 +26,9 @@ SELECT DISTINCT
 FROM dt1
 JOIN dpc ON dpc.competition_id = dt1.cid1
 JOIN dt2 ON dt2.cid2 = dt1.cid1   
-JOIN Competitions ON Competitions.id = dt1.cid1  
+JOIN competitions ON competitions.id = dt1.cid1  
 WHERE NOT dt1.id1 = dt2.id2 
-  AND Competitions.results_posted_at IS NOT NULL 
+  AND competitions.results_posted_at IS NOT NULL 
   AND num_d = 2
 GROUP BY id1, id2
 ORDER BY num_comps_together DESC

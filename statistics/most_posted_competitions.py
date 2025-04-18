@@ -5,7 +5,7 @@ CASE
   ELSE u.name 
 END AS posted_by,
 COUNT(*) AS posted_competitions 
-FROM Competitions AS c LEFT JOIN users AS u ON c.results_posted_by=u.id 
+FROM competitions AS c LEFT JOIN users AS u ON c.results_posted_by=u.id 
 WHERE results_posted_by IS NOT NULL 
 GROUP BY results_posted_by 
 ORDER BY posted_competitions DESC;

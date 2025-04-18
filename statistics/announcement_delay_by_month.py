@@ -2,7 +2,7 @@ sql = '''
 SELECT 
     DATE_FORMAT(announced_at, "%Y-%m") month, 
     ROUND(AVG(TIMESTAMPDIFF(SECOND, confirmed_at, announced_at)) / 3600, 2) announcement_delay_h
-FROM Competitions c
+FROM competitions c
 WHERE confirmed_at < announced_at
 AND TIMESTAMPDIFF(MONTH, announced_at, CURRENT_TIMESTAMP) <= 12
 GROUP BY month 

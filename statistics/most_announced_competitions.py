@@ -5,7 +5,7 @@ CASE
   ELSE u.name 
 END AS member,
 COUNT(*) AS announced_competitions 
-FROM Competitions AS c LEFT JOIN users AS u ON c.announced_by=u.id 
+FROM competitions AS c LEFT JOIN users AS u ON c.announced_by=u.id 
 WHERE announced_by IS NOT NULL 
 GROUP BY announced_by 
 ORDER BY announced_competitions DESC;

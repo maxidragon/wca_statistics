@@ -20,7 +20,7 @@ SELECT
         CONCAT('[', d.name, '](https://www.worldcubeassociation.org/persons/', d.wca_id, ')')
         SEPARATOR ', ') AS delegates
 FROM 
-    Competitions c
+    competitions c
 JOIN 
     users u ON c.results_posted_by = u.id
 LEFT JOIN 

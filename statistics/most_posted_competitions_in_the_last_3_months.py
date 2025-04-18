@@ -5,7 +5,7 @@ CASE
   ELSE u.name 
 END AS member,
 COUNT(*) AS results_posted
-FROM Competitions c
+FROM competitions c
 INNER JOIN users u
 ON c.results_posted_by = u.id
 WHERE TIMESTAMPDIFF(MONTH, results_posted_at, CURRENT_TIMESTAMP) <= 3

@@ -2,7 +2,7 @@ sql = '''
 SELECT 
     DATE_FORMAT(results_posted_at, "%Y-%m") month, 
     ROUND(AVG(TIMESTAMPDIFF(SECOND, results_submitted_at, results_posted_at)) / 3600, 2) posting_delay_h
-FROM Competitions c
+FROM competitions c
 WHERE results_submitted_at < results_posted_at
 AND TIMESTAMPDIFF(MONTH, results_posted_at, CURRENT_TIMESTAMP) <= 12
 GROUP BY month 

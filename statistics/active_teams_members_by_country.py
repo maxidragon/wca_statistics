@@ -1,11 +1,11 @@
 sql = '''
-SELECT p.countryId, COUNT(*) AS count 
+SELECT p.country_id, COUNT(*) AS count 
 FROM user_roles ur JOIN users u ON ur.user_id=u.id 
-JOIN Persons p on u.wca_id = p.wca_id
+JOIN persons p on u.wca_id = p.wca_id
 JOIN user_groups ug on ur.group_id = ug.id
 WHERE ur.metadata_type = "RolesMetadataTeamsCommittees" 
 AND ur.end_date IS NULL
-GROUP BY p.countryId ORDER BY count DESC;
+GROUP BY p.country_id ORDER BY count DESC;
 '''
 title = 'Active team members by country'
 description = ''
