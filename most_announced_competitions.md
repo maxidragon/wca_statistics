@@ -5,11 +5,11 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 21 April 2025*
+*Generated on 22 April 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1561 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1563 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1093 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1057 |
@@ -22,15 +22,15 @@ This statistic shows people who announced the most competitions.
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 410 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 403 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 396 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 366 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 358 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 352 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 350 |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 347 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 313 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 280 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 281 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 249 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 247 |
-| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 229 |
+| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 232 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 225 |
 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | 223 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 212 |
