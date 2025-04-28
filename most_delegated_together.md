@@ -5,14 +5,14 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 27 April 2025*
+*Generated on 28 April 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) + [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 71 |
-| [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) + [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | 50 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) + [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 73 |
+| [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) + [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | 51 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 46 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) + [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 41 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) + [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 42 |
 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) + [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 35 |
 | [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 25 |
 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) + [Luke Heath-Edwards](https://www.worldcubeassociation.org/persons/2018HEAT01) | 21 |
@@ -26,8 +26,8 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) + [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | 19 |
 | [Cristian Franco Terrazas Flores](https://www.worldcubeassociation.org/persons/2015FLOR04) + [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) | 19 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) + [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 19 |
+| [Maralgoo Ganbold (Ганболд Маралгоо)](https://www.worldcubeassociation.org/persons/2018GANB02) + [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | 19 |
 | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) + [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 18 |
-| [Maralgoo Ganbold (Ганболд Маралгоо)](https://www.worldcubeassociation.org/persons/2018GANB02) + [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | 18 |
 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) + [Mihai Soare](https://www.worldcubeassociation.org/persons/2019SOAR03) | 18 |
 | [Mustafa Çamlıca](https://www.worldcubeassociation.org/persons/2018CAML01) + [Ömer Çetinkaya](https://www.worldcubeassociation.org/persons/2013CETI01) | 18 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) + [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | 17 |
@@ -104,8 +104,8 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) + [Rahul Venkatesan](https://www.worldcubeassociation.org/persons/2014VENK02) | 8 |
 | [RJ Gohn](https://www.worldcubeassociation.org/persons/2016GOHN01) + [Seth Talbot](https://www.worldcubeassociation.org/persons/2015TALB01) | 8 |
 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) + [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | 7 |
+| [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) + [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 7 |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) + [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 7 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) + [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 7 |
 | [Daisuke Kochi (幸地大輔)](https://www.worldcubeassociation.org/persons/2019KOCH05) + [Ryutaro Miyazaki (宮崎隆太郎)](https://www.worldcubeassociation.org/persons/2017MIYA04) | 7 |
 | [Dan Smith](https://www.worldcubeassociation.org/persons/2018SMIT42) + [Katie Hinkley](https://www.worldcubeassociation.org/persons/2016HINK01) | 7 |
-| [Dan Smith](https://www.worldcubeassociation.org/persons/2018SMIT42) + [Lydia Workman](https://www.worldcubeassociation.org/persons/2018WORK01) | 7 |
