@@ -5,18 +5,18 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 13 May 2025*
+*Generated on 14 May 2025*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 632 |
-| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 64 |
-| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 43 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 41 |
+| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 627 |
+| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 63 |
+| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 42 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 40 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 29 |
 | [James Wang](https://www.worldcubeassociation.org/persons/2015WANG87) | 27 |
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 24 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 22 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 21 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 12 |
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 11 |
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | 5 |
