@@ -5,17 +5,17 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 15 May 2025*
+*Generated on 16 May 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1581 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1583 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1095 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1080 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1081 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 1001 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 664 |
-| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 574 |
+| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 575 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 507 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 492 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 477 |
@@ -51,19 +51,19 @@ This statistic shows people who announced the most competitions.
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 38 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 20 |
 | [Nitin Subramanian](https://www.worldcubeassociation.org/persons/2014SUBR04) | 17 |
-| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 13 |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 13 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 16 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 13 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 12 |
+| [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 13 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 10 |
 | [James Stephen Sarmiento Cubarol](https://www.worldcubeassociation.org/persons/2016CUBA02) | 10 |
 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) | 5 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 4 |
 | [Marco Belotti](https://www.worldcubeassociation.org/persons/2010BELO01) | 4 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 3 |
+| [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 4 |
 | [Lauren Clement](https://www.worldcubeassociation.org/persons/2013KLEM01) | 1 |
 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) | 1 |
-| [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 1 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 1 |
 | Ernő Rubik | 1 |
 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 1 |
