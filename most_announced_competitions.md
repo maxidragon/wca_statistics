@@ -5,14 +5,14 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 18 May 2025*
+*Generated on 19 May 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1583 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1584 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1095 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1081 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1083 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 1001 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 664 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 575 |
@@ -22,8 +22,8 @@ This statistic shows people who announced the most competitions.
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 410 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 404 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 396 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 381 |
-| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 368 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 383 |
+| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 371 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 358 |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 347 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 313 |
@@ -49,19 +49,19 @@ This statistic shows people who announced the most competitions.
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 45 |
 | [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |
-| [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 38 |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 20 |
+| [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 24 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 21 |
 | [Nitin Subramanian](https://www.worldcubeassociation.org/persons/2014SUBR04) | 17 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 16 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 13 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 13 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 10 |
 | [James Stephen Sarmiento Cubarol](https://www.worldcubeassociation.org/persons/2016CUBA02) | 10 |
 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) | 5 |
+| [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 5 |
 | [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 4 |
 | [Marco Belotti](https://www.worldcubeassociation.org/persons/2010BELO01) | 4 |
-| [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 4 |
 | [Lauren Clement](https://www.worldcubeassociation.org/persons/2013KLEM01) | 1 |
 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) | 1 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 1 |
