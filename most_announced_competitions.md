@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 24 May 2025*
+*Generated on 25 May 2025*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -45,23 +45,23 @@ This statistic shows people who announced the most competitions.
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 61 |
 | [Ng Kang Zhe (黄康哲)](https://www.worldcubeassociation.org/persons/2016KANG02) | 59 |
 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | 49 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 49 |
 | [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02) | 47 |
 | [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 45 |
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 40 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 38 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 25 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 30 |
 | [Nitin Subramanian](https://www.worldcubeassociation.org/persons/2014SUBR04) | 17 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 13 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 13 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 10 |
 | [James Stephen Sarmiento Cubarol](https://www.worldcubeassociation.org/persons/2016CUBA02) | 10 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 6 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 9 |
+| [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 6 |
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 5 |
 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) | 5 |
-| [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 5 |
 | [Marco Belotti](https://www.worldcubeassociation.org/persons/2010BELO01) | 4 |
 | [Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01) | 1 |
 | [Lauren Clement](https://www.worldcubeassociation.org/persons/2013KLEM01) | 1 |

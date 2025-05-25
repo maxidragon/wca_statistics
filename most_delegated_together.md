@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 24 May 2025*
+*Generated on 25 May 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -97,6 +97,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Geert Bicler](https://www.worldcubeassociation.org/persons/2010BICL01) + [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 8 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) + [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 8 |
 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) + [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 8 |
+| [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) + [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | 8 |
 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) + [Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03) | 8 |
 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) + [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | 8 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) + [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | 8 |
@@ -108,4 +109,3 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) + [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 7 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) + [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 7 |
 | [Daisuke Kochi (幸地大輔)](https://www.worldcubeassociation.org/persons/2019KOCH05) + [Ryutaro Miyazaki (宮崎隆太郎)](https://www.worldcubeassociation.org/persons/2017MIYA04) | 7 |
-| [Dan Smith](https://www.worldcubeassociation.org/persons/2018SMIT42) + [Katie Hinkley](https://www.worldcubeassociation.org/persons/2016HINK01) | 7 |
