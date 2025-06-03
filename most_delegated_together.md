@@ -5,16 +5,16 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 29 May 2025*
+*Generated on 03 June 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
-| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) + [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 75 |
-| [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) + [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | 53 |
+| [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) + [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 76 |
+| [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) + [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | 55 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 46 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) + [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 43 |
 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) + [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 35 |
-| [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 26 |
+| [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 27 |
 | [Maralgoo Ganbold (Ганболд Маралгоо)](https://www.worldcubeassociation.org/persons/2018GANB02) + [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | 23 |
 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) + [Luke Heath-Edwards](https://www.worldcubeassociation.org/persons/2018HEAT01) | 21 |
 | [Helar Gomez Chalco](https://www.worldcubeassociation.org/persons/2015CHAL01) + [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 21 |
@@ -38,7 +38,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) + [Zach Ridall](https://www.worldcubeassociation.org/persons/2018RIDA01) | 15 |
 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) + [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 15 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) + [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 15 |
-| [Carlos Gabriel de Azevedo](https://www.worldcubeassociation.org/persons/2016AZEV03) + [Valfrido Torres Quintanilha Netto](https://www.worldcubeassociation.org/persons/2015QUIN09) | 14 |
 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) + [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 14 |
 | [Enrymar Cisneros](https://www.worldcubeassociation.org/persons/2013CISN01) + [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) | 14 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) + [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 14 |
@@ -56,6 +55,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Amir Hossein Nafisi (امیر حسین نفیسی)](https://www.worldcubeassociation.org/persons/2012NAFI01) + [Saeed Mostafavi Layegh (سعید مصطفوی لایق)](https://www.worldcubeassociation.org/persons/2011LAYE01) | 12 |
 | [Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01) + [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 12 |
 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) + [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 12 |
+| [Carlos Gabriel de Azevedo](https://www.worldcubeassociation.org/persons/2016AZEV03) + [Valfrido Torres Quintanilha Netto](https://www.worldcubeassociation.org/persons/2015QUIN09) | 12 |
 | [Chris Krueger](https://www.worldcubeassociation.org/persons/2006KRUE01) + [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) | 12 |
 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) + [Garrett Hadaway](https://www.worldcubeassociation.org/persons/2015HADA01) | 12 |
 | [James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01) + [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | 12 |
@@ -79,7 +79,9 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Arun Kannan](https://www.worldcubeassociation.org/persons/2014KANN02) + [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 9 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) + [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 9 |
 | [Cel Adriane Lalo](https://www.worldcubeassociation.org/persons/2012LALO01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 9 |
+| [Chenxi Shan (单晨曦)](https://www.worldcubeassociation.org/persons/2010SHAN02) + [Xinyu Chen (陈鑫雨)](https://www.worldcubeassociation.org/persons/2012CHEN26) | 9 |
 | [Dave Campbell](https://www.worldcubeassociation.org/persons/2005CAMP01) + [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 9 |
+| [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) + [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | 9 |
 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) + [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) | 9 |
 | [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) + [Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01) | 9 |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) + [Matias Rasmussen](https://www.worldcubeassociation.org/persons/2013RASM02) | 9 |
@@ -90,8 +92,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Borislav Marchovski](https://www.worldcubeassociation.org/persons/2012MARC01) + [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | 8 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) + [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 8 |
 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) + [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 8 |
-| [Chenxi Shan (单晨曦)](https://www.worldcubeassociation.org/persons/2010SHAN02) + [Xinyu Chen (陈鑫雨)](https://www.worldcubeassociation.org/persons/2012CHEN26) | 8 |
-| [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) + [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | 8 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) + [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | 8 |
 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) + [Hao Wang (王皓)](https://www.worldcubeassociation.org/persons/2009WANG43) | 8 |
 | [Geert Bicler](https://www.worldcubeassociation.org/persons/2010BICL01) + [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 8 |

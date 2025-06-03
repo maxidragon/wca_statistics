@@ -5,20 +5,20 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 29 May 2025*
+*Generated on 03 June 2025*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 583 |
-| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 80 |
-| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 55 |
+| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 575 |
+| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 90 |
+| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 65 |
+| [James Wang](https://www.worldcubeassociation.org/persons/2015WANG87) | 42 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 38 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 36 |
-| [James Wang](https://www.worldcubeassociation.org/persons/2015WANG87) | 35 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 31 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 33 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 32 |
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 26 |
-| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 15 |
-| [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 11 |
+| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 17 |
+| [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 13 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 7 |
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | 5 |
 | [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 4 |
