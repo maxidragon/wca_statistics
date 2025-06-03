@@ -4,7 +4,7 @@ SELECT
         SELECT end_time 
         FROM (
             schedule_activities sa 
-            JOIN venue_rooms vr ON (sa.holder_id = vr.id AND sa.holder_type = 'VenueRoom')
+            JOIN venue_rooms vr ON sa.venue_room_id = vr.id
         ) 
         JOIN competition_venues cv ON vr.competition_venue_id = cv.id
         WHERE cv.competition_id = c.id 
