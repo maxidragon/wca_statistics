@@ -28,7 +28,7 @@ HAVING
 ORDER BY 
     avg_submission_time_hours ASC;
 '''
-title = 'Average results submission time by delegate"
+title = 'Average results submission time by delegate'
 description = 'This statistic shows the average results submission time by delegate, time is calculated between last schedule activity and results submission time.'
 headers = ['Name', 'Average time']
 
