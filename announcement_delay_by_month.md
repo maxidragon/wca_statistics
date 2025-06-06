@@ -22,4 +22,4 @@ This statistic shows the average delay between confirming competition by WCA Del
 | 2024-08 | 9.37 |
 | 2024-07 | 5.96 |
 | 2024-06 | 8.73 |
-| 2024-05 | 5.59 |
+| 2024-05 | 5.61 |

@@ -1,5 +1,7 @@
 - [Active team members by country](/active_teams_members_by_country.md)
 - [Announcement delay by month](/announcement_delay_by_month.md)
+- [Average results submission time by delegate](/avg_results_submission_time_by_delegate.md)
+- [Delegated a competition in most countries](/delegated_a_competition_in_most_countries.md)
 - [Fasted posted competitions](/fasted_posted_competitions.md)
 - [Most announced competitions](/most_announced_competitions.md)
 - [Most announced competitions in the last 3 months](/most_announced_competitions_in_the_last_3_months.md)

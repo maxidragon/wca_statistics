@@ -13,7 +13,7 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 129 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 102 |
 | [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 87 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 87 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 86 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 61 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 49 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 48 |
@@ -24,6 +24,5 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 10 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 8 |
 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 8 |
-| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 3 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 2 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 1 |
