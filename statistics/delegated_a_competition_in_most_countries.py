@@ -20,7 +20,7 @@ HAVING
 ORDER BY 
     num_countries DESC;
 '''
-title = 'Delegated a competition in most countries"
+title = 'Delegated a competition in most countries'
 description = 'This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.'
 headers = ['Name', 'Countries']
 
