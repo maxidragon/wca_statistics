@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 06 June 2025*
+*Generated on 07 June 2025*
 
 | Name | Countries |
 | --- | --- |
