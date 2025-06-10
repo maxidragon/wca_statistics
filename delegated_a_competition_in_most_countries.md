@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 09 June 2025*
+*Generated on 10 June 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -94,6 +94,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 4 |
 | [Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01) | 4 |
 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) | 4 |
+| [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01) | 4 |
 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) | 4 |
 | [Baha Alshwaiki](https://www.worldcubeassociation.org/persons/2017ALSH03) | 4 |
 | [Borislav Marchovski](https://www.worldcubeassociation.org/persons/2012MARC01) | 4 |
@@ -151,7 +152,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | 3 |
 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) | 3 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3 |
-| [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01) | 3 |
 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) | 3 |
 | [Marvin Solano](https://www.worldcubeassociation.org/persons/2018SOLA08) | 3 |
 | [Artem Kuminov](https://www.worldcubeassociation.org/persons/2017KUMI02) | 3 |
@@ -167,6 +167,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Mihai Soare](https://www.worldcubeassociation.org/persons/2019SOAR03) | 3 |
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | 3 |
 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) | 3 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 3 |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 2 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 2 |
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 2 |
@@ -348,7 +349,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 2 |
 | [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) | 2 |
 | [Sherry Tao (陶心仪)](https://www.worldcubeassociation.org/persons/2022TAOS01) | 2 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 2 |
 | [Lucas Dantas de Sousa](https://www.worldcubeassociation.org/persons/2022SOUS04) | 2 |
 | [Yusuf Talha Sayed Karim](https://www.worldcubeassociation.org/persons/2022KARI02) | 2 |
 | [Dylan Govic](https://www.worldcubeassociation.org/persons/2015GOVI01) | 2 |
