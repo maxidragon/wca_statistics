@@ -5,7 +5,7 @@ title: Average results submission time by delegate
 ## Average results submission time by delegate
 This statistic shows the average results submission time by delegate, time is calculated between last schedule activity and results submission time.
 
-*Generated on 10 June 2025*
+*Generated on 11 June 2025*
 
 | Name | Average time |
 | --- | --- |
