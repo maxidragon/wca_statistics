@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 12 June 2025*
+*Generated on 13 June 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -53,6 +53,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 5 |
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 5 |
 | [Mahmoud Ibrahim](https://www.worldcubeassociation.org/persons/2014IBRA01) | 5 |
+| [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 5 |
 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) | 5 |
 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) | 5 |
 | [Emma Beranová](https://www.worldcubeassociation.org/persons/2019BERA01) | 5 |
@@ -88,7 +89,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 4 |
 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) | 4 |
 | [Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24) | 4 |
-| [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 4 |
 | [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | 4 |
 | [José Antonio Gaete Rozas-Peña](https://www.worldcubeassociation.org/persons/2017GAET01) | 4 |
 | [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 4 |
