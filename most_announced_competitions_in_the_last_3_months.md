@@ -5,21 +5,21 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 15 June 2025*
+*Generated on 16 June 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 147 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 139 |
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 126 |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 123 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 84 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 73 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 124 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 82 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 75 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 61 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 55 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 60 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 51 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 47 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 45 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 23 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 24 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 18 |
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 13 |
 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 9 |
