@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 18 June 2025*
+*Generated on 19 June 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -255,6 +255,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Muhammad Syahmi](https://www.worldcubeassociation.org/persons/2010SYAH03) | 2 |
 | [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | 2 |
 | [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | 2 |
+| [Carmen Teo Bin Jie (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) | 2 |
 | [Samuel Mema](https://www.worldcubeassociation.org/persons/2018MEMA01) | 2 |
 | [Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01) | 2 |
 | [Soufiane Lakhlifi](https://www.worldcubeassociation.org/persons/2017LAKH02) | 2 |
