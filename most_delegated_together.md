@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 22 June 2025*
+*Generated on 23 June 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -105,7 +105,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) + [Tomi Ronkainen](https://www.worldcubeassociation.org/persons/2012RONK01) | 8 |
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) + [Rahul Venkatesan](https://www.worldcubeassociation.org/persons/2014VENK02) | 8 |
 | [RJ Gohn](https://www.worldcubeassociation.org/persons/2016GOHN01) + [Seth Talbot](https://www.worldcubeassociation.org/persons/2015TALB01) | 8 |
+| [Aleksa Radovanović](https://www.worldcubeassociation.org/persons/2016RADO01) + [Đorđe Timotijević](https://www.worldcubeassociation.org/persons/2016TIMO02) | 7 |
 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) + [James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03) | 7 |
 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) + [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 7 |
 | [Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04) + [Kirby Jay Caragan](https://www.worldcubeassociation.org/persons/2017CARA04) | 7 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) + [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 7 |

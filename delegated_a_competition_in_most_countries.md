@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 22 June 2025*
+*Generated on 23 June 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -100,6 +100,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Borislav Marchovski](https://www.worldcubeassociation.org/persons/2012MARC01) | 4 |
 | [Aleksandar Arsovski](https://www.worldcubeassociation.org/persons/2018ARSO01) | 4 |
 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 4 |
+| [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | 4 |
 | [Šimon Borovský](https://www.worldcubeassociation.org/persons/2019BORO03) | 4 |
 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) | 4 |
 | [Rayan Parmar](https://www.worldcubeassociation.org/persons/2022PARM03) | 4 |
@@ -160,7 +161,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Jan Křížka](https://www.worldcubeassociation.org/persons/2018KRIZ01) | 3 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 3 |
 | [Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS06) | 3 |
-| [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | 3 |
 | [Daniyal Suleimen](https://www.worldcubeassociation.org/persons/2019SULE01) | 3 |
 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) | 3 |
 | [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 3 |
@@ -239,6 +239,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Akula Sai Kumar](https://www.worldcubeassociation.org/persons/2012KUMA02) | 2 |
 | [Marjorie Nunes](https://www.worldcubeassociation.org/persons/2015MARB01) | 2 |
 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 2 |
+| [Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02) | 2 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 2 |
 | [Alberto Masó Molina](https://www.worldcubeassociation.org/persons/2011MOLI01) | 2 |
 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | 2 |
@@ -309,6 +310,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Derek White](https://www.worldcubeassociation.org/persons/2017WHIT01) | 2 |
 | [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) | 2 |
 | [Gennaro Monetti](https://www.worldcubeassociation.org/persons/2017MONE01) | 2 |
+| [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) | 2 |
 | [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | 2 |
 | [Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04) | 2 |
 | [Ricardo Olea Catalán](https://www.worldcubeassociation.org/persons/2017CATA04) | 2 |
