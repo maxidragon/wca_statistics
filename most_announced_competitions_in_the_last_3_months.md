@@ -5,21 +5,21 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 25 June 2025*
+*Generated on 26 June 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 148 |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 143 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 163 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 141 |
 | [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 131 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 76 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 70 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 67 |
-| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 58 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 82 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 66 |
+| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 55 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 54 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 46 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 40 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 39 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 27 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 30 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 17 |
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 13 |
 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 9 |
