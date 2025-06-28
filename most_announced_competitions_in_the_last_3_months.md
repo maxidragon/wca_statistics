@@ -5,23 +5,23 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 27 June 2025*
+*Generated on 28 June 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 163 |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 140 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 131 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 82 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 167 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 148 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 127 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 86 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 66 |
+| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 54 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 54 |
-| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 50 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 46 |
-| [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 40 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 39 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 30 |
+| [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 37 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 31 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 17 |
-| [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 13 |
+| [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 15 |
 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 9 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 8 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 2 |

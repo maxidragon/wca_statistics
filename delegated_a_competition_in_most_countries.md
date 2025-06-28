@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 27 June 2025*
+*Generated on 28 June 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -148,7 +148,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03) | 3 |
 | [Bence Kiácz](https://www.worldcubeassociation.org/persons/2016KIAC01) | 3 |
 | [Carlo Glod](https://www.worldcubeassociation.org/persons/2017GLOD01) | 3 |
-| [João Vinícius de A. Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | 3 |
+| [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | 3 |
 | [Zachary Miller](https://www.worldcubeassociation.org/persons/2017MILL04) | 3 |
 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | 3 |
 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) | 3 |
