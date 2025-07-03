@@ -5,7 +5,7 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 02 July 2025*
+*Generated on 03 July 2025*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -23,6 +23,6 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 16 |
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 15 |
 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 9 |
-| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 8 |
+| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 6 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 2 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 1 |
