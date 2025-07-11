@@ -5,24 +5,24 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 10 July 2025*
+*Generated on 11 July 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 177 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 189 |
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 147 |
 | [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 107 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 98 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 54 |
-| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 53 |
-| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 53 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 101 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 52 |
+| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 50 |
+| [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 50 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 37 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 35 |
 | [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 34 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 27 |
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 16 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 16 |
-| [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 11 |
+| [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | 13 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 6 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 2 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 1 |
