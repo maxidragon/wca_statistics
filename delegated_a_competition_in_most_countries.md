@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 18 July 2025*
+*Generated on 19 July 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -159,7 +159,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3 |
 | [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | 3 |
 | [Jan Křížka](https://www.worldcubeassociation.org/persons/2018KRIZ01) | 3 |
-| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 3 |
 | [Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS06) | 3 |
 | [Daniyal Suleimen](https://www.worldcubeassociation.org/persons/2019SULE01) | 3 |
 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) | 3 |
@@ -332,6 +331,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 2 |
 | [Laura Plourde](https://www.worldcubeassociation.org/persons/2014PLOU01) | 2 |
 | [Kalani Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV28) | 2 |
+| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 2 |
 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) | 2 |
 | [Ekaterina Kaneva](https://www.worldcubeassociation.org/persons/2018KANE03) | 2 |
 | [Peter Osudar](https://www.worldcubeassociation.org/persons/2017OSUD01) | 2 |

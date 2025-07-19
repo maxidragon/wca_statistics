@@ -5,12 +5,12 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 18 July 2025*
+*Generated on 19 July 2025*
 
 | Person | Posted competitions |
 | --- | --- |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 1406 |
-| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 1376 |
+| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 1384 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 923 |
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | 867 |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 843 |
@@ -45,8 +45,8 @@ This statistic shows people who posted the most competitions.
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 91 |
 | [James Wang](https://www.worldcubeassociation.org/persons/2015WANG87) | 88 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 63 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 56 |
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 56 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 55 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 54 |
 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 49 |
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 46 |
