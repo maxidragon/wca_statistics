@@ -5,7 +5,7 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 19 July 2025*
+*Generated on 20 July 2025*
 
 | Person | Posted competitions |
 | --- | --- |
