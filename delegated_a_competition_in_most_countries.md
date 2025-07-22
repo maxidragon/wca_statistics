@@ -5,15 +5,15 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 21 July 2025*
+*Generated on 22 July 2025*
 
 | Name | Countries |
 | --- | --- |
-| [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 58 |
+| [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 59 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 16 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 14 |
 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | 14 |
-| [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 13 |
+| [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 14 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 12 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 10 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 10 |
@@ -343,6 +343,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Rémi Chrétien](https://www.worldcubeassociation.org/persons/2016CHRE01) | 2 |
 | [Tim Lugtigheid](https://www.worldcubeassociation.org/persons/2019LUGT01) | 2 |
 | [Diogo Miguel Alves Guerreiro](https://www.worldcubeassociation.org/persons/2019GUER03) | 2 |
+| [Nantenaina Ralambomahay](https://www.worldcubeassociation.org/persons/2019RALA02) | 2 |
 | [Théo Naedenoen](https://www.worldcubeassociation.org/persons/2019NAED01) | 2 |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 2 |
 | [Maxime Lefebvre](https://www.worldcubeassociation.org/persons/2019LEFE02) | 2 |
