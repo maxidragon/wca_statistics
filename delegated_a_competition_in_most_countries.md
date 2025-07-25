@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 24 July 2025*
+*Generated on 25 July 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -353,6 +353,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 2 |
 | [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) | 2 |
 | [Sherry Tao (陶心仪)](https://www.worldcubeassociation.org/persons/2022TAOS01) | 2 |
+| [Anthony Kalaya Rush](https://www.worldcubeassociation.org/persons/2022RUSH01) | 2 |
 | [Lucas Dantas de Sousa](https://www.worldcubeassociation.org/persons/2022SOUS04) | 2 |
 | [Yusuf Talha Sayed Karim](https://www.worldcubeassociation.org/persons/2022KARI02) | 2 |
 | [Dylan Govic](https://www.worldcubeassociation.org/persons/2015GOVI01) | 2 |
