@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 27 July 2025*
+*Generated on 28 July 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -79,6 +79,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) | 4 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | 4 |
 | [Annika Stein](https://www.worldcubeassociation.org/persons/2014STEI03) | 4 |
+| [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 4 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | 4 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 4 |
 | [Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01) | 4 |
@@ -128,7 +129,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01) | 3 |
 | [Wilson José Duarte Espitia](https://www.worldcubeassociation.org/persons/2011DUAR02) | 3 |
 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | 3 |
-| [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 3 |
 | [Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01) | 3 |
 | [Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01) | 3 |
 | [Thaynara Santana de Oliveira](https://www.worldcubeassociation.org/persons/2011OLIV03) | 3 |
@@ -238,6 +238,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Akula Sai Kumar](https://www.worldcubeassociation.org/persons/2012KUMA02) | 2 |
 | [Marjorie Nunes](https://www.worldcubeassociation.org/persons/2015MARB01) | 2 |
 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 2 |
+| [Alberto Romero](https://www.worldcubeassociation.org/persons/2015ROME03) | 2 |
 | [Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02) | 2 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 2 |
 | [Alberto Masó Molina](https://www.worldcubeassociation.org/persons/2011MOLI01) | 2 |
