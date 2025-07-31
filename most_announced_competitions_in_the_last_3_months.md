@@ -5,7 +5,7 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 30 July 2025*
+*Generated on 31 July 2025*
 
 | Person | Announced competitions |
 | --- | --- |
