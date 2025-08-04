@@ -5,15 +5,15 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 03 August 2025*
+*Generated on 04 August 2025*
 
 | Name | Countries |
 | --- | --- |
-| [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 59 |
+| [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 60 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 16 |
+| [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 15 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 14 |
 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | 14 |
-| [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 14 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 12 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 10 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 10 |
