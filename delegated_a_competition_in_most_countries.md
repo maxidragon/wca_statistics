@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 06 August 2025*
+*Generated on 07 August 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -116,6 +116,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) | 3 |
 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | 3 |
 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | 3 |
+| [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) | 3 |
 | [Uladzislau Piatnitsa (Владислав Пятница)](https://www.worldcubeassociation.org/persons/2014PYAT01) | 3 |
 | [Nikolai Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) | 3 |
 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 3 |
@@ -212,7 +213,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) | 2 |
 | [Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02) | 2 |
 | [Lina Weyer](https://www.worldcubeassociation.org/persons/2009TISS01) | 2 |
-| [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) | 2 |
 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) | 2 |
 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) | 2 |
 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | 2 |
