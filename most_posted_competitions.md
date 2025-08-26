@@ -5,11 +5,11 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 19 August 2025*
+*Generated on 26 August 2025*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 1446 |
+| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 1495 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 1407 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 923 |
 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | 867 |
@@ -22,40 +22,40 @@ This statistic shows people who posted the most competitions.
 | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | 423 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 405 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 391 |
-| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 339 |
+| [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 359 |
 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | 313 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 308 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 292 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 297 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 272 |
 | [Ivan Ros Godia](https://www.worldcubeassociation.org/persons/2018GODI01) | 261 |
 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | 244 |
 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 241 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 234 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 233 |
-| [Brandon Reichman](https://www.worldcubeassociation.org/persons/2015REIC02) | 203 |
+| [Brandon Reichman](https://www.worldcubeassociation.org/persons/2015REIC02) | 205 |
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 199 |
 | [John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀)](https://www.worldcubeassociation.org/persons/2010UBAL01) | 184 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | 184 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 175 |
 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | 149 |
+| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 148 |
 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) | 139 |
-| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 138 |
+| [James Wang](https://www.worldcubeassociation.org/persons/2015WANG87) | 135 |
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 124 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 114 |
-| [James Wang](https://www.worldcubeassociation.org/persons/2015WANG87) | 104 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 115 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 91 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 70 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 72 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 63 |
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 56 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 54 |
+| [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 51 |
 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 49 |
-| [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 47 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 38 |
-| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 31 |
+| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 36 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 28 |
 | [Ruud Pollé](https://www.worldcubeassociation.org/persons/2019POLL04) | 14 |
 | [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 14 |
 | [Sheen Oishi](https://www.worldcubeassociation.org/persons/2017OISH01) | 8 |
+| [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 4 |
 | [Jim Mertens](https://www.worldcubeassociation.org/persons/2006MERT01) | 3 |
-| [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 3 |
 | WCA Board | 1 |

@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 19 August 2025*
+*Generated on 26 August 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -56,6 +56,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 5 |
 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) | 5 |
 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) | 5 |
+| [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01) | 5 |
 | [Emma Beranová](https://www.worldcubeassociation.org/persons/2019BERA01) | 5 |
 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | 5 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 4 |
@@ -95,12 +96,12 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 4 |
 | [Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01) | 4 |
 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) | 4 |
-| [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01) | 4 |
 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) | 4 |
 | [Baha Alshwaiki](https://www.worldcubeassociation.org/persons/2017ALSH03) | 4 |
 | [Borislav Marchovski](https://www.worldcubeassociation.org/persons/2012MARC01) | 4 |
 | [Aleksandar Arsovski](https://www.worldcubeassociation.org/persons/2018ARSO01) | 4 |
 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 4 |
+| [Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS06) | 4 |
 | [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | 4 |
 | [Šimon Borovský](https://www.worldcubeassociation.org/persons/2019BORO03) | 4 |
 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) | 4 |
@@ -160,7 +161,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3 |
 | [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | 3 |
 | [Jan Křížka](https://www.worldcubeassociation.org/persons/2018KRIZ01) | 3 |
-| [Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS06) | 3 |
 | [Daniyal Suleimen](https://www.worldcubeassociation.org/persons/2019SULE01) | 3 |
 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) | 3 |
 | [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 3 |
@@ -317,7 +317,8 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Somya Srivastava](https://www.worldcubeassociation.org/persons/2014SRIV05) | 2 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 2 |
 | [Kritika KC](https://www.worldcubeassociation.org/persons/2017KCKR01) | 2 |
-| [Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07) | 2 |
+| [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 2 |
+| [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 2 |
 | [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 2 |
 | [Ronny Morocho](https://www.worldcubeassociation.org/persons/2018MORO01) | 2 |
 | [Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48) | 2 |
@@ -345,6 +346,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Tim Lugtigheid](https://www.worldcubeassociation.org/persons/2019LUGT01) | 2 |
 | [Diogo Miguel Alves Guerreiro](https://www.worldcubeassociation.org/persons/2019GUER03) | 2 |
 | [Nantenaina Ralambomahay](https://www.worldcubeassociation.org/persons/2019RALA02) | 2 |
+| [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) | 2 |
 | [Théo Naedenoen](https://www.worldcubeassociation.org/persons/2019NAED01) | 2 |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 2 |
 | [Maxime Lefebvre](https://www.worldcubeassociation.org/persons/2019LEFE02) | 2 |
