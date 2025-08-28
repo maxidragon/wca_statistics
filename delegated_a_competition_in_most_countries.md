@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 27 August 2025*
+*Generated on 28 August 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -40,6 +40,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01) | 6 |
 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) | 6 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 6 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 6 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 6 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 6 |
 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | 6 |
@@ -48,7 +49,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 5 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 5 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 5 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 5 |
 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 5 |
 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 5 |
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 5 |
