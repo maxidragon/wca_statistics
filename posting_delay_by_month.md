@@ -5,11 +5,11 @@ title: Results posting delay by month
 ## Results posting delay by month
 This statistic shows the average delay between the submission and posting of results for each month. The delay is calculated in hours.
 
-*Generated on 29 August 2025*
+*Generated on 30 August 2025*
 
 | Month | Posting delay (hours) |
 | --- | --- |
-| 2025-08 | 2.48 |
+| 2025-08 | 2.49 |
 | 2025-07 | 3.04 |
 | 2025-06 | 2.35 |
 | 2025-05 | 1.85 |
@@ -22,4 +22,4 @@ This statistic shows the average delay between the submission and posting of res
 | 2024-10 | 0.68 |
 | 2024-09 | 0.51 |
 | 2024-08 | 6.28 |
-| 2024-07 | 16.30 |
+| 2024-07 | 12.10 |
