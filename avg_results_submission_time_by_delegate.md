@@ -5,7 +5,7 @@ title: Average results submission time by delegate
 ## Average results submission time by delegate
 This statistic shows the average results submission time by delegate, time is calculated between last schedule activity and results submission time.
 
-*Generated on 06 September 2025*
+*Generated on 07 September 2025*
 
 | Name | Average time |
 | --- | --- |
@@ -92,9 +92,10 @@ This statistic shows the average results submission time by delegate, time is ca
 | [JaeYoung Chun (천재영)](https://www.worldcubeassociation.org/persons/2006JAEY01) | 8.62745556 |
 | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 8.93685484 |
 | [Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01) | 9.00832222 |
-| [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) | 9.16150366 |
+| [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) | 9.09515301 |
 | [Ignacio Naval](https://www.worldcubeassociation.org/persons/2016NAVA14) | 9.18253810 |
 | [Paulo Henrique Matos de Moraes](https://www.worldcubeassociation.org/persons/2018MORA03) | 9.19620606 |
+| [Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01) | 9.26994000 |
 | [Sherry Tao (陶心仪)](https://www.worldcubeassociation.org/persons/2022TAOS01) | 9.32270625 |
 | [Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01) | 9.41741944 |
 | [Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01) | 9.41762857 |
@@ -116,7 +117,6 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Cláudio Vidal da Silva Morais](https://www.worldcubeassociation.org/persons/2023MORA23) | 11.03960000 |
 | [Sakae Tokuda (徳田栄)](https://www.worldcubeassociation.org/persons/2006TOKU01) | 11.15963333 |
 | [Luke Selle](https://www.worldcubeassociation.org/persons/2022SELL05) | 11.16773333 |
-| [Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01) | 11.19930000 |
 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 11.25695000 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 11.29927222 |
 | [Nicholas McKee](https://www.worldcubeassociation.org/persons/2015MCKE02) | 11.38116596 |
@@ -139,10 +139,11 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Seth Talbot](https://www.worldcubeassociation.org/persons/2015TALB01) | 13.39659487 |
 | [Jaden Thompson](https://www.worldcubeassociation.org/persons/2016THOM01) | 13.43125000 |
 | [Preston Schwartz](https://www.worldcubeassociation.org/persons/2019SCHW07) | 13.43125000 |
+| [Carmen Teo Bin Jie (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) | 13.43902000 |
+| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 13.67452381 |
 | [Vivaldo Cristóvão Roque](https://www.worldcubeassociation.org/persons/2023ROQU03) | 13.71545000 |
 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | 13.77273939 |
 | [Adam Leyton](https://www.worldcubeassociation.org/persons/2024LEYT01) | 13.80840000 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 13.80904135 |
 | [Dominik Vidaković](https://www.worldcubeassociation.org/persons/2013VIDA03) | 13.81945000 |
 | [Ronny Morocho](https://www.worldcubeassociation.org/persons/2018MORO01) | 13.93181250 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 14.00795789 |
@@ -151,10 +152,9 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01) | 14.14542500 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 14.26241067 |
 | [Sebastian Robbins](https://www.worldcubeassociation.org/persons/2014ROBB01) | 14.33924211 |
-| [Carmen Teo Bin Jie (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) | 14.52620000 |
 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 14.53331043 |
+| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 14.62626984 |
 | [Samuel Mema](https://www.worldcubeassociation.org/persons/2018MEMA01) | 14.86385000 |
-| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 14.86726290 |
 | [Dylan Govic](https://www.worldcubeassociation.org/persons/2015GOVI01) | 14.89023023 |
 | [RJ Gohn](https://www.worldcubeassociation.org/persons/2016GOHN01) | 14.94483462 |
 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | 15.05990213 |
@@ -206,12 +206,12 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01) | 19.00890526 |
 | [Orion Donovan](https://www.worldcubeassociation.org/persons/2016DONO02) | 19.07802903 |
 | [Skylar Porter](https://www.worldcubeassociation.org/persons/2021PORT02) | 19.21431429 |
+| [Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03) | 19.26160435 |
 | [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 19.39831154 |
 | [Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01) | 19.43629231 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 19.46076471 |
 | [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04) | 19.55170000 |
 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) | 19.67648542 |
-| [Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03) | 20.06656364 |
 | [Kaoushik Murugan](https://www.worldcubeassociation.org/persons/2013MURU01) | 20.16262500 |
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | 20.23915135 |
 | [Amrik Singh Chana](https://www.worldcubeassociation.org/persons/2019CHAN06) | 20.24140000 |
@@ -227,7 +227,6 @@ This statistic shows the average results submission time by delegate, time is ca
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 20.94492333 |
 | [Sergio Andres Guillen Ibarra](https://www.worldcubeassociation.org/persons/2014IBAR01) | 20.95132500 |
 | [Alexander Katyukov (Александр Катюков)](https://www.worldcubeassociation.org/persons/2015KATY01) | 20.97993846 |
-| [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) | 21.15271739 |
 | [Kevin Timmons](https://www.worldcubeassociation.org/persons/2019TIMM01) | 21.32956667 |
 | [Matthew Flay](https://www.worldcubeassociation.org/persons/2011FLAY02) | 21.36558571 |
 | [Bruno da Silva Neves](https://www.worldcubeassociation.org/persons/2023NEVE02) | 21.38055000 |
@@ -271,6 +270,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Michelle Brewster](https://www.worldcubeassociation.org/persons/2016BREW04) | 24.18885000 |
 | [Chris Brotzman](https://www.worldcubeassociation.org/persons/2013BROT01) | 24.20335000 |
 | [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | 24.21635699 |
+| [Oliver Pällo](https://www.worldcubeassociation.org/persons/2020PALL01) | 24.24932917 |
 | [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) | 24.32076780 |
 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) | 24.40468485 |
 | [Jair Sosa](https://www.worldcubeassociation.org/persons/2018SOSA08) | 24.48195000 |
@@ -307,11 +307,11 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 26.46327534 |
 | [Roxana Johnson](https://www.worldcubeassociation.org/persons/2019JOHN03) | 26.47849737 |
 | [Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04) | 26.54852424 |
+| [Tyler Williams](https://www.worldcubeassociation.org/persons/2017WILL05) | 26.68350000 |
 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 26.76394118 |
 | [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03) | 26.92181266 |
 | [Adam Walker](https://www.worldcubeassociation.org/persons/2012WALK02) | 27.00077241 |
 | [Felix Williams](https://www.worldcubeassociation.org/persons/2023WILL26) | 27.05305000 |
-| [Tyler Williams](https://www.worldcubeassociation.org/persons/2017WILL05) | 27.06007500 |
 | [Ryan Driscoll](https://www.worldcubeassociation.org/persons/2015DRIS02) | 27.07104000 |
 | [Francisco García](https://www.worldcubeassociation.org/persons/2013GARC02) | 27.07912857 |
 | [Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01) | 27.35822250 |
@@ -328,6 +328,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Yohei Suzuki (鈴木洋平)](https://www.worldcubeassociation.org/persons/2006SUZU03) | 28.02481667 |
 | [Giovane Rubin Fioravanti](https://www.worldcubeassociation.org/persons/2016FIOR01) | 28.08666667 |
 | [Roger Nataniel Issassa dos Santos](https://www.worldcubeassociation.org/persons/2023SANT32) | 28.10405000 |
+| [Matheus Casassa](https://www.worldcubeassociation.org/persons/2017VIAN01) | 28.15157500 |
 | [Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01) | 28.20230400 |
 | [Francisco Thales Rocha Sousa](https://www.worldcubeassociation.org/persons/2013SOUS03) | 28.27231538 |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 28.36005143 |
@@ -339,7 +340,6 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Lachlan Cooke](https://www.worldcubeassociation.org/persons/2021COOK03) | 28.65939091 |
 | [Gabe McBee](https://www.worldcubeassociation.org/persons/2016MCBE02) | 28.70425000 |
 | [Paul Luciw](https://www.worldcubeassociation.org/persons/2015LUCI02) | 28.73661429 |
-| [Matheus Casassa](https://www.worldcubeassociation.org/persons/2017VIAN01) | 28.75620000 |
 | [Maxime Lefebvre](https://www.worldcubeassociation.org/persons/2019LEFE02) | 28.82391020 |
 | [Philippe Lucien](https://www.worldcubeassociation.org/persons/2011LUCI01) | 28.84322857 |
 | [James Holdsworth](https://www.worldcubeassociation.org/persons/2015HOLD01) | 28.85716875 |
@@ -360,6 +360,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01) | 29.97765636 |
 | [Clément Gallet](https://www.worldcubeassociation.org/persons/2004GALL02) | 30.12420000 |
 | [Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01) | 30.15500444 |
+| [Diogo Miguel Alves Guerreiro](https://www.worldcubeassociation.org/persons/2019GUER03) | 30.19640625 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) | 30.24902452 |
 | [Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04) | 30.33713214 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 30.39990000 |
@@ -381,7 +382,6 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02) | 32.01247111 |
 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) | 32.07510000 |
 | [Jesse Mailloux](https://www.worldcubeassociation.org/persons/2014MAIL01) | 32.08234500 |
-| [Diogo Miguel Alves Guerreiro](https://www.worldcubeassociation.org/persons/2019GUER03) | 32.10600000 |
 | [Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01) | 32.20326000 |
 | [Daniel Atlas](https://www.worldcubeassociation.org/persons/2016ATLA01) | 32.23612000 |
 | [Draco Tong](https://www.worldcubeassociation.org/persons/2020TONG02) | 32.27314878 |
@@ -467,20 +467,19 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Luan Ferreira](https://www.worldcubeassociation.org/persons/2017BARR24) | 37.25761875 |
 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 37.42790753 |
 | [Brayden Adams](https://www.worldcubeassociation.org/persons/2018ADAM06) | 37.53281714 |
+| [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | 37.72142308 |
 | [Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01) | 37.79040000 |
 | [Katie Hinkley](https://www.worldcubeassociation.org/persons/2016HINK01) | 37.81884400 |
 | [Luke Meszar](https://www.worldcubeassociation.org/persons/2016MESZ01) | 37.86981034 |
 | [Nico Bezzerides](https://www.worldcubeassociation.org/persons/2019BEZZ01) | 37.87765333 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | 38.12801522 |
 | [Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01) | 38.26590789 |
-| [Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01) | 38.31497344 |
 | [João Pedro dos Santos Costa](https://www.worldcubeassociation.org/persons/2016COST03) | 38.33624000 |
 | [Amir Hossein Nafisi (امیر حسین نفیسی)](https://www.worldcubeassociation.org/persons/2012NAFI01) | 38.36631667 |
 | [Saeed Mostafavi Layegh (سعید مصطفوی لایق)](https://www.worldcubeassociation.org/persons/2011LAYE01) | 38.40967692 |
 | [Catherine Rush](https://www.worldcubeassociation.org/persons/2023RUSH01) | 38.42904545 |
 | [Alimzhan Kenesbek (Алимжан Кенесбек)](https://www.worldcubeassociation.org/persons/2018KENE01) | 38.60570000 |
 | [Alex Mutch](https://www.worldcubeassociation.org/persons/2014MUTC01) | 38.63262453 |
-| [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) | 38.64441034 |
 | [Dallas McNeil](https://www.worldcubeassociation.org/persons/2017MCNE01) | 38.71385897 |
 | [Aston Culf](https://www.worldcubeassociation.org/persons/2016CULF01) | 38.73035909 |
 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | 38.87253250 |
@@ -492,6 +491,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01) | 39.12579091 |
 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) | 39.21601471 |
 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 39.48924655 |
+| [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) | 39.60757966 |
 | [Miles Walcott](https://www.worldcubeassociation.org/persons/2021WALC02) | 39.88575625 |
 | [Benjamin Christie](https://www.worldcubeassociation.org/persons/2014CHRI04) | 39.92026000 |
 | [Yuxuan Chen](https://www.worldcubeassociation.org/persons/2011CHEN54) | 39.92875581 |
@@ -517,16 +517,16 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 41.83955385 |
 | [Martin Henry](https://www.worldcubeassociation.org/persons/2013HENR01) | 42.10588125 |
 | [Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02) | 42.11401000 |
-| [Helar Gomez Chalco](https://www.worldcubeassociation.org/persons/2015CHAL01) | 42.17469744 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 42.23805417 |
 | [Elmer Alexander Johnsen](https://www.worldcubeassociation.org/persons/2018JOHN03) | 42.68111765 |
 | [Christian de Sena Fortunato](https://www.worldcubeassociation.org/persons/2013FORT01) | 42.99278667 |
 | [Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01) | 43.03086429 |
-| [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | 43.15285938 |
 | [Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01) | 43.17352500 |
 | [António Gomes](https://www.worldcubeassociation.org/persons/2014GOME07) | 43.41320000 |
+| [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 43.71747222 |
 | [Erick Lemus Fuentes](https://www.worldcubeassociation.org/persons/2013FUEN01) | 43.85661667 |
 | [Fiona Wang](https://www.worldcubeassociation.org/persons/2015WANF02) | 43.86906000 |
+| [Helar Gomez Chalco](https://www.worldcubeassociation.org/persons/2015CHAL01) | 43.90905250 |
 | [Shamil Magomedov](https://www.worldcubeassociation.org/persons/2017MAGO02) | 43.91457143 |
 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | 44.00266522 |
 | [Pierce Tickle](https://www.worldcubeassociation.org/persons/2022TICK01) | 44.05155111 |
@@ -535,9 +535,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Anuj Menta](https://www.worldcubeassociation.org/persons/2013MENT01) | 44.09837000 |
 | [Divnoor Bajwa](https://www.worldcubeassociation.org/persons/2016BAJW01) | 44.15151364 |
 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) | 44.25828810 |
-| [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 44.28174085 |
 | [Chris Deng](https://www.worldcubeassociation.org/persons/2015DENG08) | 44.33592308 |
-| [David McLean](https://www.worldcubeassociation.org/persons/2017MCLE03) | 44.35756667 |
 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | 44.44501667 |
 | [Rayan Parmar](https://www.worldcubeassociation.org/persons/2022PARM03) | 44.49913125 |
 | [Ivan Vanek](https://www.worldcubeassociation.org/persons/2015VANE01) | 44.51942857 |
@@ -546,13 +544,13 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Ilona Ansel](https://www.worldcubeassociation.org/persons/2016ANSE02) | 44.64827500 |
 | [Michael Chai (柴天方)](https://www.worldcubeassociation.org/persons/2016CHAI03) | 44.65391892 |
 | [David Lim](https://www.worldcubeassociation.org/persons/2010LIMD01) | 44.66385357 |
+| [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | 44.73826970 |
 | [Kelvin Githiari Waturi](https://www.worldcubeassociation.org/persons/2023GITH01) | 45.01666667 |
 | [Daniel Patton](https://www.worldcubeassociation.org/persons/2019PATT06) | 45.08525833 |
-| [Andrés Hisashi Suzuki Cabrera](https://www.worldcubeassociation.org/persons/2016SUZU03) | 45.15872222 |
 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) | 45.17670377 |
 | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | 45.32809333 |
+| [David McLean](https://www.worldcubeassociation.org/persons/2017MCLE03) | 45.55267027 |
 | [Saiyam Jain](https://www.worldcubeassociation.org/persons/2015JAIN21) | 45.60798095 |
-| [Hao Do](https://www.worldcubeassociation.org/persons/2017DOHA01) | 45.96818000 |
 | [Danyang Chen (陈丹阳)](https://www.worldcubeassociation.org/persons/2007DANY01) | 45.98127273 |
 | [Todor Enikov](https://www.worldcubeassociation.org/persons/2012ENIK01) | 46.00715000 |
 | [Plamen Mahladzhanov](https://www.worldcubeassociation.org/persons/2016MAHL01) | 46.00715000 |
@@ -562,6 +560,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Jan Křížka](https://www.worldcubeassociation.org/persons/2018KRIZ01) | 46.24616250 |
 | [Andrey Robota](https://www.worldcubeassociation.org/persons/2012ROBO02) | 46.26370909 |
 | [Bille Janssen Lagarde](https://www.worldcubeassociation.org/persons/2014LAGA02) | 46.32765000 |
+| [Andrés Hisashi Suzuki Cabrera](https://www.worldcubeassociation.org/persons/2016SUZU03) | 46.36581636 |
 | [Borislav Marchovski](https://www.worldcubeassociation.org/persons/2012MARC01) | 46.52665769 |
 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) | 46.55629091 |
 | [Guilherme Santana Campos](https://www.worldcubeassociation.org/persons/2019CAMP10) | 46.63484615 |
@@ -577,7 +576,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Uladzislau Piatnitsa (Владислав Пятница)](https://www.worldcubeassociation.org/persons/2014PYAT01) | 47.55289231 |
 | [Yurii Riabov (Юрій Рябов)](https://www.worldcubeassociation.org/persons/2018RIAB01) | 47.80102500 |
 | [Aysha Jamsheer](https://www.worldcubeassociation.org/persons/2017JAMS01) | 47.96660000 |
-| [Jhonatan Reategui](https://www.worldcubeassociation.org/persons/2016REAT01) | 48.34835714 |
+| [Hao Do](https://www.worldcubeassociation.org/persons/2017DOHA01) | 47.99714286 |
 | [Chen Kang (亢晨)](https://www.worldcubeassociation.org/persons/2011KANG05) | 48.39192500 |
 | [Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03) | 48.44880909 |
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | 48.53898689 |
@@ -590,7 +589,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Jaustin Gudbrandsen](https://www.worldcubeassociation.org/persons/2021GUDB01) | 49.80930000 |
 | [Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01) | 49.81275385 |
 | [Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03) | 49.94520000 |
-| [Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS06) | 50.23603333 |
+| [Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS06) | 50.21751111 |
 | [Henrique Rojas Moreno de Almeida](https://www.worldcubeassociation.org/persons/2019ALME04) | 50.44360909 |
 | [Daniel Houghton](https://www.worldcubeassociation.org/persons/2016HOUG03) | 50.55576667 |
 | [Tommy Chestnutt](https://www.worldcubeassociation.org/persons/2022CHES04) | 50.91867391 |
@@ -607,7 +606,9 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Nathan Nairn](https://www.worldcubeassociation.org/persons/2019NAIR04) | 51.97244000 |
 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 52.00533056 |
 | [Leow Yi Jun (廖艺畯)](https://www.worldcubeassociation.org/persons/2010JUNL02) | 52.02238226 |
+| [Lachlan Manson](https://www.worldcubeassociation.org/persons/2023MANS04) | 52.06391000 |
 | [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | 52.21467561 |
+| [Jhonatan Reategui](https://www.worldcubeassociation.org/persons/2016REAT01) | 52.56172667 |
 | [Hayden Ng (吳宇晞)](https://www.worldcubeassociation.org/persons/2018NGHA02) | 52.73894615 |
 | [Chandler Pike](https://www.worldcubeassociation.org/persons/2018PIKE01) | 52.86343810 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 52.88578846 |
@@ -615,13 +616,13 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 53.12100917 |
 | [Konrad Julian Jefferson Krafft](https://www.worldcubeassociation.org/persons/2021KRAF01) | 53.24047500 |
 | [Vincent Chen](https://www.worldcubeassociation.org/persons/2018CHEN17) | 53.36406500 |
-| [Pedro Luis Mamani Suclla](https://www.worldcubeassociation.org/persons/2015SUCL01) | 53.77170000 |
 | [Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48) | 54.08574545 |
 | [Serhii Koksharov (Сергій Кокшаров)](https://www.worldcubeassociation.org/persons/2013KOKS01) | 54.23237308 |
 | [Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01) | 54.33661000 |
 | [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) | 54.43213636 |
 | [Arun Kannan](https://www.worldcubeassociation.org/persons/2014KANN02) | 54.63827821 |
 | [Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04) | 54.99290000 |
+| [Regan Roberts](https://www.worldcubeassociation.org/persons/2021ROBE04) | 55.16147778 |
 | [Mayis Jraghatspanyan](https://www.worldcubeassociation.org/persons/2015JRAG01) | 55.16961250 |
 | [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 55.85627941 |
 | [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | 55.93394783 |
@@ -632,14 +633,13 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Kalani Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV28) | 56.61928400 |
 | [Tyler Rose](https://www.worldcubeassociation.org/persons/2022ROSE07) | 56.66212500 |
 | [Mehdi Pourmotalleb (مهدی پورمطلب)](https://www.worldcubeassociation.org/persons/2011POUR01) | 56.80064444 |
-| [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | 56.85384222 |
 | [Jakob Jernsletten](https://www.worldcubeassociation.org/persons/2018JERN01) | 56.86246000 |
-| [Lachlan Manson](https://www.worldcubeassociation.org/persons/2023MANS04) | 57.22708889 |
 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) | 57.23000000 |
 | [Teddy Mbingo](https://www.worldcubeassociation.org/persons/2022MBIN01) | 57.45610000 |
 | [Dhruv Babulal Pankhania](https://www.worldcubeassociation.org/persons/2024PANK05) | 57.45610000 |
 | [Jorge Contento](https://www.worldcubeassociation.org/persons/2017CONT01) | 57.54721481 |
 | [David Woner](https://www.worldcubeassociation.org/persons/2008WONE01) | 58.12223333 |
+| [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | 58.35991304 |
 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | 58.72339091 |
 | [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | 59.08787179 |
 | [Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03) | 59.17710000 |
@@ -650,9 +650,9 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01) | 60.32341087 |
 | [Xavier Antonio Balderrama](https://www.worldcubeassociation.org/persons/2015BALD03) | 60.35587619 |
 | [Siddharth Suresh](https://www.worldcubeassociation.org/persons/2017SURE01) | 60.37029412 |
+| [Pedro Luis Mamani Suclla](https://www.worldcubeassociation.org/persons/2015SUCL01) | 60.99385000 |
 | [Seth Rowell](https://www.worldcubeassociation.org/persons/2014ROWE03) | 61.26553243 |
 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | 61.28895214 |
-| [Regan Roberts](https://www.worldcubeassociation.org/persons/2021ROBE04) | 61.35725000 |
 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 61.44260000 |
 | [Maria Zhits](https://www.worldcubeassociation.org/persons/2016ZHIT01) | 61.48050833 |
 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 61.98602000 |
@@ -676,7 +676,6 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Tim Lugtigheid](https://www.worldcubeassociation.org/persons/2019LUGT01) | 64.20651111 |
 | [Kirby Jay Caragan](https://www.worldcubeassociation.org/persons/2017CARA04) | 64.22399286 |
 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) | 64.38825806 |
-| [Tommas Austin-Milne](https://www.worldcubeassociation.org/persons/2016AUST04) | 64.70900000 |
 | [Caleb Hall](https://www.worldcubeassociation.org/persons/2019HALL04) | 65.03430909 |
 | [Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05) | 65.10733636 |
 | [David Krasne](https://www.worldcubeassociation.org/persons/2023KRAS01) | 65.26832000 |
@@ -689,6 +688,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Liam Wadek](https://www.worldcubeassociation.org/persons/2017WADE01) | 66.60775185 |
 | [Serhii Mormul (Сергій Мормуль)](https://www.worldcubeassociation.org/persons/2012MORM01) | 66.60830000 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 66.60830000 |
+| [Tommas Austin-Milne](https://www.worldcubeassociation.org/persons/2016AUST04) | 66.87876364 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 66.95935616 |
 | [Elijah Rain Phelps](https://www.worldcubeassociation.org/persons/2019PHEL01) | 67.02961667 |
 | [Xinyu Chen (陈鑫雨)](https://www.worldcubeassociation.org/persons/2012CHEN26) | 67.08717188 |
@@ -700,12 +700,12 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Donglei Li (李冬雷)](https://www.worldcubeassociation.org/persons/2009LIDO01) | 68.13015000 |
 | [Mohammad Siwom Chowdhury](https://www.worldcubeassociation.org/persons/2017CHOW09) | 68.38350000 |
 | [Slater Metz](https://www.worldcubeassociation.org/persons/2011METZ01) | 68.68440000 |
-| [Michel Andre Gonzaga Quijano](https://www.worldcubeassociation.org/persons/2018QUIJ01) | 68.90666481 |
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 69.12351875 |
 | [Baden Forster](https://www.worldcubeassociation.org/persons/2017FORS02) | 69.27408750 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 69.40332750 |
 | [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) | 69.42478182 |
 | [Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02) | 69.60166250 |
+| [Michel Andre Gonzaga Quijano](https://www.worldcubeassociation.org/persons/2018QUIJ01) | 69.68197818 |
 | [Éder dos Santos Silva](https://www.worldcubeassociation.org/persons/2009SILV01) | 69.69730000 |
 | [Enrymar Cisneros](https://www.worldcubeassociation.org/persons/2013CISN01) | 69.71450263 |
 | [Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)](https://www.worldcubeassociation.org/persons/2013GHOD01) | 69.72749286 |
@@ -723,7 +723,6 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Felipe Andres Rojas Garces](https://www.worldcubeassociation.org/persons/2009GARC02) | 72.47671892 |
 | [Muhammad Haris Aamir](https://www.worldcubeassociation.org/persons/2018AAMI02) | 72.49530000 |
 | [Jorge Miguel Trigo](https://www.worldcubeassociation.org/persons/2015TRIG02) | 72.74063409 |
-| [Bruno Alonso Villacorta Montoya](https://www.worldcubeassociation.org/persons/2016MONT33) | 73.02584286 |
 | [Pamulapati Sai Teja](https://www.worldcubeassociation.org/persons/2014TEJA05) | 73.29786667 |
 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) | 73.35572353 |
 | [Aurelien Marion](https://www.worldcubeassociation.org/persons/2017MARI20) | 73.69425769 |
@@ -733,6 +732,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Clara Verbraeken](https://www.worldcubeassociation.org/persons/2019VERB02) | 74.43943750 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 74.50651951 |
 | [Daniyal Suleimen](https://www.worldcubeassociation.org/persons/2019SULE01) | 74.65183333 |
+| [Bruno Alonso Villacorta Montoya](https://www.worldcubeassociation.org/persons/2016MONT33) | 74.77689091 |
 | [Ainslie Bell](https://www.worldcubeassociation.org/persons/2022BELL13) | 74.97190000 |
 | [Micah Stairs](https://www.worldcubeassociation.org/persons/2011STAI01) | 75.23295000 |
 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 75.25220000 |
@@ -772,7 +772,6 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Théo Naedenoen](https://www.worldcubeassociation.org/persons/2019NAED01) | 85.62888571 |
 | [Kamel Hammouri](https://www.worldcubeassociation.org/persons/2019HAMM04) | 87.00210000 |
 | [Mohd Al Hanafi Bin Jamian](https://www.worldcubeassociation.org/persons/2017JAMI01) | 87.26940000 |
-| [Luis David Hernández Mejía](https://www.worldcubeassociation.org/persons/2017MEJI03) | 87.64712083 |
 | [Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04) | 87.86123158 |
 | [Joshua Christian Marais](https://www.worldcubeassociation.org/persons/2019MARA05) | 88.14510000 |
 | [Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02) | 88.15890000 |
@@ -783,6 +782,7 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | 88.76311000 |
 | [Spondon Nath](https://www.worldcubeassociation.org/persons/2015NATH01) | 88.96609143 |
 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | 89.10575921 |
+| [Luis David Hernández Mejía](https://www.worldcubeassociation.org/persons/2017MEJI03) | 89.18656000 |
 | [Lucian Mihai Cremeneanu](https://www.worldcubeassociation.org/persons/2023CREM01) | 89.29832500 |
 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 89.48611250 |
 | [André Pereira do Nascimento](https://www.worldcubeassociation.org/persons/2019NASC01) | 89.51044000 |
@@ -811,8 +811,8 @@ This statistic shows the average results submission time by delegate, time is ca
 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 100.19856406 |
 | [Pantos Pantos](https://www.worldcubeassociation.org/persons/2018PANT04) | 100.65935500 |
 | [Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05) | 100.70175000 |
-| [Marvin Solano](https://www.worldcubeassociation.org/persons/2018SOLA08) | 100.79588800 |
 | [Kostas Papadopoulos](https://www.worldcubeassociation.org/persons/2015PAPA02) | 101.36844167 |
+| [Marvin Solano](https://www.worldcubeassociation.org/persons/2018SOLA08) | 102.28739231 |
 | [Alberto Masó Molina](https://www.worldcubeassociation.org/persons/2011MOLI01) | 102.44063571 |
 | [Hafizh Dary Faridhan Hudoyo](https://www.worldcubeassociation.org/persons/2015HUDO01) | 103.07403333 |
 | [Vako Marchilashvili (ვაკო მარჩილაშვილი)](https://www.worldcubeassociation.org/persons/2013MARC05) | 103.88438421 |
