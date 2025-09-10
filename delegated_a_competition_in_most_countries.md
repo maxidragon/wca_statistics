@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 09 September 2025*
+*Generated on 10 September 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -102,7 +102,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Aleksandar Arsovski](https://www.worldcubeassociation.org/persons/2018ARSO01) | 4 |
 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 4 |
 | [Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS06) | 4 |
-| [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | 4 |
 | [Šimon Borovský](https://www.worldcubeassociation.org/persons/2019BORO03) | 4 |
 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) | 4 |
 | [Rayan Parmar](https://www.worldcubeassociation.org/persons/2022PARM03) | 4 |
@@ -161,6 +160,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3 |
 | [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | 3 |
 | [Jan Křížka](https://www.worldcubeassociation.org/persons/2018KRIZ01) | 3 |
+| [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | 3 |
 | [Daniyal Suleimen](https://www.worldcubeassociation.org/persons/2019SULE01) | 3 |
 | [Patrick Kleverlaan](https://www.worldcubeassociation.org/persons/2019KLEV01) | 3 |
 | [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 3 |
