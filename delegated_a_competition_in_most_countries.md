@@ -5,13 +5,13 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 18 September 2025*
+*Generated on 19 September 2025*
 
 | Name | Countries |
 | --- | --- |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 60 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 16 |
-| [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 15 |
+| [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 16 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 14 |
 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | 14 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 12 |
@@ -25,11 +25,11 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | 9 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 8 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 8 |
+| [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 8 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 8 |
 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | 8 |
 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 7 |
 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | 7 |
-| [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 7 |
 | [Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01) | 7 |
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | 7 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 7 |
