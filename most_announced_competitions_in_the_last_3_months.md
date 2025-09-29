@@ -5,18 +5,18 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 28 September 2025*
+*Generated on 29 September 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 343 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 127 |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 105 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 105 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 340 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 125 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 104 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 104 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 56 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 42 |
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 38 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 32 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 30 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 22 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 15 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 10 |
