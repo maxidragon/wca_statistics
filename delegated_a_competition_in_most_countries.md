@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 30 September 2025*
+*Generated on 01 October 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -54,6 +54,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 5 |
 | [Mahmoud Ibrahim](https://www.worldcubeassociation.org/persons/2014IBRA01) | 5 |
 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 5 |
+| [Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01) | 5 |
 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) | 5 |
 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) | 5 |
 | [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01) | 5 |
@@ -95,7 +96,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [José Antonio Gaete Rozas-Peña](https://www.worldcubeassociation.org/persons/2017GAET01) | 4 |
 | [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 4 |
 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) | 4 |
-| [Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01) | 4 |
 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) | 4 |
 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) | 4 |
 | [Baha Alshwaiki](https://www.worldcubeassociation.org/persons/2017ALSH03) | 4 |
