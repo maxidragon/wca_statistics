@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 12 October 2025*
+*Generated on 13 October 2025*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -19,7 +19,7 @@ This statistic shows people who announced the most competitions.
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 507 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 492 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 477 |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 423 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 437 |
 | [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 415 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 415 |
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 410 |
@@ -39,7 +39,7 @@ This statistic shows people who announced the most competitions.
 | [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 175 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 133 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 135 |
 | WCA Board | 119 |
 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | 117 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 111 |
@@ -48,8 +48,8 @@ This statistic shows people who announced the most competitions.
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 62 |
 | [Ng Kang Zhe (黄康哲)](https://www.worldcubeassociation.org/persons/2016KANG02) | 59 |
 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | 49 |
+| [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 48 |
 | [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02) | 47 |
-| [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 46 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 45 |
 | [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |

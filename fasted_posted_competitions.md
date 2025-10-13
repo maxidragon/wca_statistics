@@ -5,7 +5,7 @@ title: Fasted posted competitions
 ## Fasted posted competitions
 This statistic shows the competitions that were posted the fastest after last schedule activity ended. The difference is calculated in hours.
 
-*Generated on 12 October 2025*
+*Generated on 13 October 2025*
 
 | Difference in hours | Competition ID | Posted by | Delegates |
 | --- | --- | --- | --- |
@@ -19,6 +19,7 @@ This statistic shows the competitions that were posted the fastest after last sc
 | -2.4478 | [GalleriaBangaloreOpenB2025](https://www.worldcubeassociation.org/competitions/GalleriaBangaloreOpenB2025) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) |
 | -2.1917 | [TarazOpen2025](https://www.worldcubeassociation.org/competitions/TarazOpen2025) | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
 | -2.0031 | [JieyangWinter2019](https://www.worldcubeassociation.org/competitions/JieyangWinter2019) | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11), [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) |
+| -1.8844 | [Cube4funinNowaSarzyna2025](https://www.worldcubeassociation.org/competitions/Cube4funinNowaSarzyna2025) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | -1.8725 | [5BLDMadnessSuwon2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSuwon2024) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24) |
 | -1.8578 | [VillapinzonalCuboOpenII2024](https://www.worldcubeassociation.org/competitions/VillapinzonalCuboOpenII2024) | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03), [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) |
 | -1.8292 | [ManchesterSpring2025](https://www.worldcubeassociation.org/competitions/ManchesterSpring2025) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20), [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04), [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
@@ -28,4 +29,3 @@ This statistic shows the competitions that were posted the fastest after last sc
 | -1.4981 | [VibraSocialCundinama2024](https://www.worldcubeassociation.org/competitions/VibraSocialCundinama2024) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03) |
 | -1.4792 | [IITKanpurOpen2019](https://www.worldcubeassociation.org/competitions/IITKanpurOpen2019) | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) |
 | -1.4339 | [BhejaFryDecBangalore2024](https://www.worldcubeassociation.org/competitions/BhejaFryDecBangalore2024) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09), [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) |
-| -1.3950 | [QBERSLeagueInAstana2025](https://www.worldcubeassociation.org/competitions/QBERSLeagueInAstana2025) | [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
