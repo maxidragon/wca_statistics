@@ -5,13 +5,13 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 14 October 2025*
+*Generated on 15 October 2025*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 313 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 118 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 111 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 316 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 120 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 113 |
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 96 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 82 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 56 |
