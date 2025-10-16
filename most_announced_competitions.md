@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 15 October 2025*
+*Generated on 16 October 2025*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -20,8 +20,8 @@ This statistic shows people who announced the most competitions.
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 492 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 477 |
 | [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 440 |
+| [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 418 |
 | [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 415 |
-| [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 415 |
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 410 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 396 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 396 |
@@ -39,7 +39,7 @@ This statistic shows people who announced the most competitions.
 | [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 177 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 137 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 139 |
 | WCA Board | 119 |
 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | 117 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 111 |
