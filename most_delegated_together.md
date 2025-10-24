@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 23 October 2025*
+*Generated on 24 October 2025*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -97,6 +97,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) + [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | 9 |
 | [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) + [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | 9 |
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) + [Rahul Venkatesan](https://www.worldcubeassociation.org/persons/2014VENK02) | 9 |
+| [Aleksa Radovanović](https://www.worldcubeassociation.org/persons/2016RADO01) + [Đorđe Timotijević](https://www.worldcubeassociation.org/persons/2016TIMO02) | 8 |
 | [Borislav Marchovski](https://www.worldcubeassociation.org/persons/2012MARC01) + [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | 8 |
 | [Carmen Teo Bin Jie (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) + [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) | 8 |
 | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) + [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 8 |
@@ -108,4 +109,3 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) + [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 8 |
 | [Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01) + [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 8 |
 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) + [Kalani Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV28) | 8 |
-| [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) + [Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03) | 8 |
