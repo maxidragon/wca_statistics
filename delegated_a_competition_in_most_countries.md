@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 28 October 2025*
+*Generated on 29 October 2025*
 
 | Name | Countries |
 | --- | --- |
@@ -333,6 +333,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Arnab Banik](https://www.worldcubeassociation.org/persons/2017BANI03) | 2 |
 | [Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03) | 2 |
 | [Chandler Pike](https://www.worldcubeassociation.org/persons/2018PIKE01) | 2 |
+| [Charles-Olivier Rivard](https://www.worldcubeassociation.org/persons/2019RIVA02) | 2 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 2 |
 | [Laura Plourde](https://www.worldcubeassociation.org/persons/2014PLOU01) | 2 |
 | [Kalani Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV28) | 2 |

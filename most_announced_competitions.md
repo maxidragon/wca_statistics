@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 28 October 2025*
+*Generated on 29 October 2025*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -19,9 +19,9 @@ This statistic shows people who announced the most competitions.
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 507 |
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 492 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 477 |
-| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 475 |
+| [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 476 |
+| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 421 |
 | [Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01) | 418 |
-| [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 415 |
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 410 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 402 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 396 |
