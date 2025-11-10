@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 09 November 2025*
+*Generated on 10 November 2025*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -38,7 +38,7 @@ This statistic shows people who announced the most competitions.
 | [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 203 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
-| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 159 |
+| [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 160 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
 | WCA Board | 119 |
 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | 117 |
