@@ -5,11 +5,11 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 12 November 2025*
+*Generated on 13 November 2025*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 403 |
+| [Zain Ali Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 396 |
 | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 121 |
 | [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 110 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 70 |
@@ -20,8 +20,8 @@ This statistic shows people who posted the most competitions in the last 3 month
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 10 |
 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 6 |
 | [Brandon Reichman](https://www.worldcubeassociation.org/persons/2015REIC02) | 2 |
-| [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 2 |
 | [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 2 |
 | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | 2 |
+| [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 1 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 1 |
 | [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 1 |
