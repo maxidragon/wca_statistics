@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  
+      - main
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
@@ -11,32 +11,46 @@ on:
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
+    
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD || 'password' }}
+          MYSQL_DATABASE: wca_development
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd "mysqladmin ping -h 127.0.0.1 -u root -p${{ secrets.MYSQL_ROOT_PASSWORD || 'password' }}"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Activate MySQL
-        run: sudo systemctl start mysql.service
-
-      - name: Download WCA Developer Database Dump
+      - name: Download, Unzip, and Import WCA Database Dump
         run: |
+          DB_PASSWORD=${{ secrets.MYSQL_ROOT_PASSWORD || 'password' }}
+          
+          echo "Downloading and unzipping database dump..."
           wget --quiet https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
           unzip wca-developer-database-dump.zip
-
-      - name: Create MySQL Database
-        run: |
-          mysql --host=127.0.01 --port=3306 --user=root --password=root -e "CREATE DATABASE wca_development"
-
-      - name: Import WCA Database Dump
-        run: |
-          mysql --host=127.0.0.1 --port=3306 --user=root --password=root wca_development < wca-developer-database-dump.sql
+          
+          echo "Importing data to database wca_development..."
+          mysql --host=mysql --port=3306 --user=root --password="${DB_PASSWORD}" wca_development < wca-developer-database-dump.sql
+          
+          echo "Delete zip file..."
+          rm wca-developer-database-dump.zip
+          rm wca-developer-database-dump.sql
+          df -h
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-
+          
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
