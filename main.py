@@ -6,10 +6,11 @@ import datetime
 GITHUB_URL = "https://github.com/maxidragon/wca_statistics"
 
 db = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="root",
-    database="wca_development"
+    host=os.environ.get("DB_HOST", "localhost"),
+    port=int(os.environ.get("DB_PORT", "3306")),
+    user=os.environ.get("DB_USER", "root"),
+    password=os.environ.get("DB_PASSWORD", "root"),
+    database=os.environ.get("DB_NAME", "wca_development")
 )
 
 if db.is_connected():

@@ -8,10 +8,17 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+env:
+  DB_HOST: 127.0.0.1
+  DB_PORT: 3306
+  DB_USER: root
+  DB_PASSWORD: password
+  DB_NAME: wca_development
+
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
-    
+
     services:
       mysql:
         image: mysql:8.0
@@ -21,36 +28,48 @@ jobs:
         ports:
           - 3306:3306
         options: >-
-          --health-cmd "mysqladmin ping -h 127.0.0.1 -u root -p 'password'"
+          --health-cmd "mysqladmin ping -h 127.0.0.1 -u root -ppassword"
           --health-interval 10s
           --health-timeout 5s
-          --health-retries 5
+          --health-retries 10
+          --health-start-period 30s
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Download, Unzip, and Import WCA Database Dump
+      - name: Free Up Disk Space
         run: |
-          DB_PASSWORD=${{ secrets.MYSQL_ROOT_PASSWORD || 'password' }}
-          
-          echo "Downloading and unzipping database dump..."
-          wget --quiet https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
-          unzip wca-developer-database-dump.zip
-          
-          echo "Importing data to database wca_development..."
-          mysql --host=mysql --port=3306 --user=root --password="${DB_PASSWORD}" wca_development < wca-developer-database-dump.sql
-          
+          echo "Disk usage before cleanup:"
+          df -h /
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc \
+                      /opt/hostedtoolcache/CodeQL /usr/local/share/boost
+          echo "Disk usage after cleanup:"
+          df -h /
+
+      - name: Download and Import WCA Database Dump
+        shell: bash
+        run: |
+          echo "Downloading database dump..."
+          wget --quiet -O wca-developer-database-dump.zip \
+            https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
+
+          # Stream the dump straight into MySQL so the ~10 GB .sql is never
+          # written to the runner's disk.
+          echo "Importing data to database ${DB_NAME}..."
+          unzip -p wca-developer-database-dump.zip wca-developer-database-dump.sql \
+            | mysql --host="${DB_HOST}" --port="${DB_PORT}" \
+                    --user="${DB_USER}" --password="${DB_PASSWORD}" "${DB_NAME}"
+
           echo "Delete zip file..."
-          rm wca-developer-database-dump.zip
-          rm wca-developer-database-dump.sql
-          df -h
+          rm -f wca-developer-database-dump.zip
+          df -h /
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-          
+
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
