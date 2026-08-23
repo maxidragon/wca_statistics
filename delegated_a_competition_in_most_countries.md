@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 22 August 2026*
+*Generated on 23 August 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -64,7 +64,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5 |
 | [Mahmoud Ibrahim](https://www.worldcubeassociation.org/persons/2014IBRA01) | 5 |
 | [José Antonio Gaete](https://www.worldcubeassociation.org/persons/2017GAET01) | 5 |
-| [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | 5 |
 | [Javier Gonzalez-Napoleoni](https://www.worldcubeassociation.org/persons/2011GONZ04) | 5 |
 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) | 5 |
 | [Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01) | 5 |
@@ -108,6 +107,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24) | 4 |
 | [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | 4 |
 | [Carlo Glod](https://www.worldcubeassociation.org/persons/2017GLOD01) | 4 |
+| [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | 4 |
 | [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 4 |
 | [Zachary Miller](https://www.worldcubeassociation.org/persons/2017MILL04) | 4 |
 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) | 4 |
@@ -305,6 +305,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Can Ersoy](https://www.worldcubeassociation.org/persons/2015ERSO01) | 2 |
 | [Louis Meunier](https://www.worldcubeassociation.org/persons/2016MEUN01) | 2 |
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | 2 |
+| [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 2 |
 | [Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01) | 2 |
 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) | 2 |
 | [Amaury Miguel Caballero](https://www.worldcubeassociation.org/persons/2016CABA07) | 2 |
