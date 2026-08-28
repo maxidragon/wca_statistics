@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 27 August 2026*
+*Generated on 28 August 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -81,6 +81,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) | 4 |
 | [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | 4 |
 | [İskender Aznavur](https://www.worldcubeassociation.org/persons/2013AZNA01) | 4 |
+| [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) | 4 |
 | [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | 4 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | 4 |
 | [Serhii Koksharov (Сергій Кокшаров)](https://www.worldcubeassociation.org/persons/2013KOKS01) | 4 |
@@ -130,7 +131,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) | 3 |
 | [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | 3 |
 | [David Lim](https://www.worldcubeassociation.org/persons/2010LIMD01) | 3 |
-| [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) | 3 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 3 |
 | [Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01) | 3 |
 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | 3 |

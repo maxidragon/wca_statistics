@@ -3,7 +3,7 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 27 August 2026*
+*Generated on 28 August 2026*
 
 | Country | Number of active team members |
 | --- | --- |
@@ -21,27 +21,27 @@ title: Active team members by country
 | Netherlands | 4 |
 | Belgium | 3 |
 | Philippines | 2 |
+| Macau | 2 |
 | Singapore | 2 |
 | Malaysia | 2 |
-| Macau | 2 |
 | New Zealand | 2 |
 | Portugal | 2 |
+| Czech Republic | 2 |
 | Hungary | 2 |
 | South Africa | 2 |
 | Vietnam | 2 |
 | Slovenia | 1 |
+| Azerbaijan | 1 |
 | Pakistan | 1 |
-| Czech Republic | 1 |
-| Colombia | 1 |
+| Bolivia | 1 |
 | Brazil | 1 |
 | Russia | 1 |
-| Azerbaijan | 1 |
+| Colombia | 1 |
+| Switzerland | 1 |
 | Thailand | 1 |
-| Bolivia | 1 |
 | Korea | 1 |
 | Hong Kong | 1 |
 | Israel | 1 |
-| Switzerland | 1 |
 | Jordan | 1 |
 | Italy | 1 |
 | Romania | 1 |
