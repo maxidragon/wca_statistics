@@ -5,7 +5,7 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 28 August 2026*
+*Generated on 29 August 2026*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -14,7 +14,7 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 117 |
 | [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 74 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 49 |
-| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 49 |
+| [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 46 |
 | [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | 38 |
 | [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 34 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 32 |
@@ -28,4 +28,4 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 13 |
 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) | 9 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 7 |
-| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 6 |
+| [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1 |
