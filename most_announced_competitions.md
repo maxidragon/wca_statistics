@@ -5,15 +5,15 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 30 August 2026*
+*Generated on 31 August 2026*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1803 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 1804 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 1438 |
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1176 |
-| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 1033 |
+| [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 1035 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 822 |
 | [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 727 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 664 |
@@ -37,29 +37,29 @@ This statistic shows people who announced the most competitions.
 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | 223 |
 | [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 217 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 212 |
+| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 198 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
-| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 197 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
 | [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 137 |
+| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 121 |
 | WCA Board | 119 |
-| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 117 |
 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | 117 |
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 112 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 111 |
 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 106 |
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 80 |
-| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 74 |
+| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 75 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 68 |
 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) | 61 |
 | [Ng Kang Zhe (黄康哲)](https://www.worldcubeassociation.org/persons/2016KANG02) | 59 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 49 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 54 |
 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | 49 |
 | [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02) | 47 |
-| [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 45 |
+| [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
+| [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | 41 |
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |
-| [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | 38 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
 | [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 38 |
 | [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 32 |
