@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 31 August 2026*
+*Generated on 01 September 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -307,7 +307,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Can Ersoy](https://www.worldcubeassociation.org/persons/2015ERSO01) | 2 |
 | [Louis Meunier](https://www.worldcubeassociation.org/persons/2016MEUN01) | 2 |
 | [Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01) | 2 |
-| [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 2 |
 | [Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01) | 2 |
 | [Ruby Lu (卢红)](https://www.worldcubeassociation.org/persons/2022LURU01) | 2 |
 | [Amaury Miguel Caballero](https://www.worldcubeassociation.org/persons/2016CABA07) | 2 |
