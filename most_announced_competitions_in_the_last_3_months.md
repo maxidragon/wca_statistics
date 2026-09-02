@@ -5,7 +5,7 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 01 September 2026*
+*Generated on 02 September 2026*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -19,13 +19,13 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 41 |
 | [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 33 |
 | [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 33 |
-| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 23 |
+| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 20 |
 | [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 20 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 19 |
 | [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 19 |
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 15 |
 | [Julius Achilles Wilson](https://www.worldcubeassociation.org/persons/2023WILS18) | 14 |
 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) | 9 |
-| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 7 |
+| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 6 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 4 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1 |
