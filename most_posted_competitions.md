@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 02 September 2026*
+*Generated on 03 September 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -54,18 +54,18 @@ This statistic shows people who posted the most competitions.
 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 49 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 38 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 28 |
+| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 16 |
+| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 14 |
 | [Ruud Pollé](https://www.worldcubeassociation.org/persons/2019POLL04) | 14 |
-| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 13 |
-| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 12 |
-| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 9 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 8 |
+| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 12 |
+| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 11 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 10 |
 | [Sheen Oishi](https://www.worldcubeassociation.org/persons/2017OISH01) | 8 |
-| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 8 |
 | [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 6 |
 | [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 5 |
+| [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 4 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 4 |
 | [Jim Mertens](https://www.worldcubeassociation.org/persons/2006MERT01) | 3 |
-| [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 2 |
+| [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 3 |
 | [Scott Hunter](https://www.worldcubeassociation.org/persons/2024HUNT04) | 2 |
-| [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 2 |
 | WCA Board | 1 |
