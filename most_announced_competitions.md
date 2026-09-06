@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 05 September 2026*
+*Generated on 06 September 2026*
 
 | Person | Announced competitions |
 | --- | --- |

@@ -5,7 +5,7 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 05 September 2026*
+*Generated on 06 September 2026*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -23,8 +23,8 @@ This statistic shows people who announced the most competitions in the last 3 mo
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 19 |
 | [Savion Romeo Matula](https://www.worldcubeassociation.org/persons/2019MATU03) | 19 |
 | [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 16 |
-| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 15 |
 | [Julius Achilles Wilson](https://www.worldcubeassociation.org/persons/2023WILS18) | 14 |
+| [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 14 |
 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) | 9 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 6 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 5 |
