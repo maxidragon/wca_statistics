@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 07 September 2026*
+*Generated on 09 September 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -55,10 +55,10 @@ This statistic shows people who posted the most competitions.
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 38 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 28 |
 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 21 |
-| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 18 |
-| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 16 |
-| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 15 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 15 |
+| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 21 |
+| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 19 |
+| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 18 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 16 |
 | [Ruud Pollé](https://www.worldcubeassociation.org/persons/2019POLL04) | 14 |
 | [Sheen Oishi](https://www.worldcubeassociation.org/persons/2017OISH01) | 8 |
 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 7 |
