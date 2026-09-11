@@ -5,13 +5,13 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 10 September 2026*
+*Generated on 11 September 2026*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Zain Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 191 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 130 |
+| [Zain Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 180 |
 | [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 123 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 121 |
 | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 99 |
 | [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 44 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 43 |
@@ -26,7 +26,6 @@ This statistic shows people who posted the most competitions in the last 3 month
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 15 |
 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 7 |
 | [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 7 |
-| [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 6 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 5 |
 | [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 3 |
 | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | 3 |
