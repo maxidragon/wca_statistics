@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 11 September 2026*
+*Generated on 13 September 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -54,15 +54,15 @@ This statistic shows people who posted the most competitions.
 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 49 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 38 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 28 |
-| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 22 |
-| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 21 |
-| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 21 |
-| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 19 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 16 |
+| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 23 |
+| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 23 |
+| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 23 |
+| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 22 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 17 |
 | [Ruud Pollé](https://www.worldcubeassociation.org/persons/2019POLL04) | 14 |
 | [Sheen Oishi](https://www.worldcubeassociation.org/persons/2017OISH01) | 8 |
+| [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 8 |
 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 7 |
-| [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 7 |
 | [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 5 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 5 |
 | [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 3 |
