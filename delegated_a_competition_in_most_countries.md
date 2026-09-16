@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 15 September 2026*
+*Generated on 16 September 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -21,19 +21,19 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 10 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 10 |
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 10 |
+| [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) | 10 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 9 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 9 |
 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) | 9 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 9 |
 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | 9 |
+| [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | 9 |
 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) | 9 |
-| [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) | 9 |
 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 8 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 8 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 8 |
 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | 8 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 8 |
-| [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | 8 |
 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 8 |
 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | 7 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 7 |
@@ -398,6 +398,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Zakarya Otair](https://www.worldcubeassociation.org/persons/2021OTAI01) | 2 |
 | [Richard Yiheng Tao](https://www.worldcubeassociation.org/persons/2020TAOR01) | 2 |
 | [Ognian Baruh](https://www.worldcubeassociation.org/persons/2022BARU03) | 2 |
+| [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) | 2 |
 | [Tyler Rose](https://www.worldcubeassociation.org/persons/2022ROSE07) | 2 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 2 |
 | [Thomas Pierroz](https://www.worldcubeassociation.org/persons/2021PIER01) | 2 |
