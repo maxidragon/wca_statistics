@@ -5,17 +5,17 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 17 September 2026*
+*Generated on 18 September 2026*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Zain Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 170 |
-| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 119 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 115 |
+| [Zain Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 163 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 112 |
+| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 108 |
 | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 92 |
 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 43 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 42 |
-| [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 39 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 40 |
+| [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 35 |
 | [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 33 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 28 |
 | [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 26 |
