@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 18 September 2026*
+*Generated on 19 September 2026*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -34,7 +34,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01) + [Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01) | 19 |
 | [Cristian Franco Terrazas Flores](https://www.worldcubeassociation.org/persons/2015FLOR04) + [Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01) | 19 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) + [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 19 |
-| [Enrymar Cisneros](https://www.worldcubeassociation.org/persons/2013CISN01) + [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) | 18 |
+| [Enrymar Cisneros](https://www.worldcubeassociation.org/persons/2013CISN01) + [Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19) | 19 |
 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) + [Mihai Soare](https://www.worldcubeassociation.org/persons/2019SOAR03) | 18 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) + [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 17 |
 | [Elias Miguel Acosta Acosta](https://www.worldcubeassociation.org/persons/2016ACOS08) + [Gustavo Riveiro](https://www.worldcubeassociation.org/persons/2016RIVE01) | 17 |
@@ -74,13 +74,13 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01) + [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 12 |
 | [Barbara Kralj](https://www.worldcubeassociation.org/persons/2019KRAL01) + [David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01) | 12 |
 | [Carlos Gabriel de Azevedo](https://www.worldcubeassociation.org/persons/2016AZEV03) + [Valfrido Torres Quintanilha Netto](https://www.worldcubeassociation.org/persons/2015QUIN09) | 12 |
+| [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) + [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 12 |
 | [Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04) + [Garrett Hadaway](https://www.worldcubeassociation.org/persons/2015HADA01) | 12 |
 | [James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01) + [Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02) | 12 |
 | [Lisa Kucala](https://www.worldcubeassociation.org/persons/2019KUCA01) + [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 12 |
 | [Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02) + [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 11 |
 | [Andreas Pung](https://www.worldcubeassociation.org/persons/2009PUNG01) + [Ivo Kruusamägi](https://www.worldcubeassociation.org/persons/2018KRUU01) | 11 |
 | [Björn Korbanka](https://www.worldcubeassociation.org/persons/2009KORB01) + [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 11 |
-| [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) + [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 11 |
 | [Chenxi Shan (单晨曦)](https://www.worldcubeassociation.org/persons/2010SHAN02) + [Xinyu Chen (陈鑫雨)](https://www.worldcubeassociation.org/persons/2012CHEN26) | 11 |
 | [Dan Smith](https://www.worldcubeassociation.org/persons/2018SMIT42) + [Lydia Workman](https://www.worldcubeassociation.org/persons/2018WORK01) | 11 |
 | [Fabian Tomasović](https://www.worldcubeassociation.org/persons/2020TOMA01) + [Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01) | 11 |
@@ -90,6 +90,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Aleksa Radovanović](https://www.worldcubeassociation.org/persons/2016RADO01) + [Đorđe Timotijević](https://www.worldcubeassociation.org/persons/2016TIMO02) | 10 |
 | [Amit Sheffer](https://www.worldcubeassociation.org/persons/2010SHEF01) + [Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01) | 10 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) + [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 10 |
+| [Damir Issakov](https://www.worldcubeassociation.org/persons/2018ISAK06) + [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 10 |
 | [Davi de Andrade Iácono](https://www.worldcubeassociation.org/persons/2015IACO01) + [Francisco Thales Rocha Sousa](https://www.worldcubeassociation.org/persons/2013SOUS03) | 10 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) + [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | 10 |
 | [Fangyuan Chang (常方圆)](https://www.worldcubeassociation.org/persons/2009CHAN04) + [Hao Wang (王皓)](https://www.worldcubeassociation.org/persons/2009WANG43) | 10 |
@@ -104,7 +105,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Arun Kannan](https://www.worldcubeassociation.org/persons/2014KANN02) + [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 9 |
 | [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) + [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 9 |
 | [Cel Adriane Lalo](https://www.worldcubeassociation.org/persons/2012LALO01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 9 |
-| [Damir Issakov](https://www.worldcubeassociation.org/persons/2018ISAK06) + [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 9 |
 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) + [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) | 9 |
 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) + [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | 9 |
 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) + [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) | 9 |

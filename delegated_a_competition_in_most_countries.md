@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 18 September 2026*
+*Generated on 19 September 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -267,6 +267,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Akula Sai Kumar](https://www.worldcubeassociation.org/persons/2012KUMA02) | 2 |
 | [Marjorie Nunes](https://www.worldcubeassociation.org/persons/2015MARB01) | 2 |
 | [Garrett Hadaway](https://www.worldcubeassociation.org/persons/2015HADA01) | 2 |
+| [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | 2 |
 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 2 |
 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 2 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 2 |
@@ -408,6 +409,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Anthony Kalaya Rush](https://www.worldcubeassociation.org/persons/2022RUSH01) | 2 |
 | [Kévin Ky](https://www.worldcubeassociation.org/persons/2022KYKE01) | 2 |
 | [Lucas Dantas de Sousa](https://www.worldcubeassociation.org/persons/2022SOUS04) | 2 |
+| [Awki Giménez](https://www.worldcubeassociation.org/persons/2023GIME03) | 2 |
 | [Marc Dullemond](https://www.worldcubeassociation.org/persons/2022DULL01) | 2 |
 | [Hussain Merza](https://www.worldcubeassociation.org/persons/2022MERZ01) | 2 |
 | [Jakub Jurika](https://www.worldcubeassociation.org/persons/2023JURI01) | 2 |
