@@ -3,7 +3,7 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 19 September 2026*
+*Generated on 20 September 2026*
 
 | Country | Number of active team members |
 | --- | --- |
