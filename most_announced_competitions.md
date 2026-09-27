@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 26 September 2026*
+*Generated on 27 September 2026*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -40,7 +40,7 @@ This statistic shows people who announced the most competitions.
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 212 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
-| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 160 |
+| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 162 |
 | [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 155 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
 | WCA Board | 119 |
@@ -49,7 +49,7 @@ This statistic shows people who announced the most competitions.
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 111 |
 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 106 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 96 |
-| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 94 |
+| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 95 |
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 80 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 68 |
 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) | 61 |

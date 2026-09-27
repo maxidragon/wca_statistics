@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 26 September 2026*
+*Generated on 27 September 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -41,7 +41,7 @@ This statistic shows people who posted the most competitions.
 | [John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀)](https://www.worldcubeassociation.org/persons/2010UBAL01) | 184 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | 184 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 179 |
-| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 160 |
+| [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 161 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 150 |
 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | 149 |
 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) | 139 |
@@ -51,12 +51,12 @@ This statistic shows people who posted the most competitions.
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 66 |
 | [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 64 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 63 |
+| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 56 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 54 |
-| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 54 |
 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 49 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 38 |
-| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 35 |
-| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 31 |
+| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 36 |
+| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 33 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 29 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 28 |
 | [Ruud Pollé](https://www.worldcubeassociation.org/persons/2019POLL04) | 14 |
