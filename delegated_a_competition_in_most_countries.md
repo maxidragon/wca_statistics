@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 27 September 2026*
+*Generated on 28 September 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -338,6 +338,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Adam Zamora](https://www.worldcubeassociation.org/persons/2004ZAMO01) | 2 |
 | [Alex Mutch](https://www.worldcubeassociation.org/persons/2014MUTC01) | 2 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | 2 |
+| [Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03) | 2 |
 | [Manuel Popayán](https://www.worldcubeassociation.org/persons/2017POPA01) | 2 |
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 2 |
 | [Derek White](https://www.worldcubeassociation.org/persons/2017WHIT01) | 2 |

@@ -3,7 +3,7 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 27 September 2026*
+*Generated on 28 September 2026*
 
 | Country | Number of active team members |
 | --- | --- |
@@ -12,9 +12,9 @@ title: Active team members by country
 | United Kingdom | 13 |
 | Australia | 11 |
 | Poland | 10 |
+| Germany | 8 |
 | China | 8 |
 | Canada | 8 |
-| Germany | 7 |
 | Spain | 6 |
 | Norway | 5 |
 | France | 4 |
