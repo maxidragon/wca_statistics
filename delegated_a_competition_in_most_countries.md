@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 29 September 2026*
+*Generated on 30 September 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -21,6 +21,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 10 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 10 |
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 10 |
+| [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | 10 |
 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) | 10 |
 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 9 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 9 |
@@ -29,7 +30,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 9 |
 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | 9 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 9 |
-| [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | 9 |
 | [Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01) | 9 |
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 8 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 8 |

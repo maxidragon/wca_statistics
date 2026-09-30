@@ -5,22 +5,22 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 29 September 2026*
+*Generated on 30 September 2026*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 261 |
+| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 262 |
 | [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 162 |
-| [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 153 |
+| [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 159 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 99 |
-| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 88 |
+| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 90 |
 | [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | 50 |
+| [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 50 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 47 |
-| [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 47 |
 | [Julius Achilles Wilson](https://www.worldcubeassociation.org/persons/2023WILS18) | 14 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 9 |
-| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 7 |
-| [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) | 7 |
+| [Christofer Alejandro Aguirre Robledo](https://www.worldcubeassociation.org/persons/2016ROBL05) | 6 |
+| [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) | 6 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 5 |
 | [Roman Wofford](https://www.worldcubeassociation.org/persons/2017WOFF01) | 4 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 4 |
