@@ -5,26 +5,26 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 30 September 2026*
+*Generated on 01 October 2026*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Zain Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 123 |
-| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 98 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 93 |
+| [Zain Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 114 |
 | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 92 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 88 |
+| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 86 |
 | [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 86 |
 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 63 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 40 |
-| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 39 |
+| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 42 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 39 |
 | [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 39 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 38 |
 | [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 32 |
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 26 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 26 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 16 |
-| [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 13 |
 | [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 11 |
+| [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 9 |
 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 7 |
 | [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 7 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 5 |

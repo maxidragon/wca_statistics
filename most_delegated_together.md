@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 30 September 2026*
+*Generated on 01 October 2026*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -102,10 +102,10 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02) + [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | 9 |
 | [Ale Restrepo](https://www.worldcubeassociation.org/persons/2017ECHE04) + [Andres Felipe Rodríguez Londoño](https://www.worldcubeassociation.org/persons/2019LOND02) | 9 |
 | [Alex Mutch](https://www.worldcubeassociation.org/persons/2014MUTC01) + [Kristopher De Asis](https://www.worldcubeassociation.org/persons/2008ASIS01) | 9 |
+| [Amitai Ziv](https://www.worldcubeassociation.org/persons/2022ZIVA01) + [Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01) | 9 |
 | [Arun Kannan](https://www.worldcubeassociation.org/persons/2014KANN02) + [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 9 |
 | [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) + [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 9 |
 | [Cel Adriane Lalo](https://www.worldcubeassociation.org/persons/2012LALO01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 9 |
 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) + [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) | 9 |
 | [Elizabeth Cutting](https://www.worldcubeassociation.org/persons/2019CUTT01) + [Stone Amsbaugh](https://www.worldcubeassociation.org/persons/2018AMSB02) | 9 |
 | [Filippo Brancaleoni](https://www.worldcubeassociation.org/persons/2008BRAN01) + [Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01) | 9 |
-| [Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01) + [Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01) | 9 |
