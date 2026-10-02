@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 01 October 2026*
+*Generated on 02 October 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -147,6 +147,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Stepan Dzhurylo (Степан Джурило)](https://www.worldcubeassociation.org/persons/2015DZHU01) | 3 |
 | [Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01) | 3 |
 | [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | 3 |
+| [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | 3 |
 | [Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02) | 3 |
 | [Wilson José Duarte Espitia](https://www.worldcubeassociation.org/persons/2011DUAR02) | 3 |
 | [Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01) | 3 |
@@ -267,7 +268,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Akula Sai Kumar](https://www.worldcubeassociation.org/persons/2012KUMA02) | 2 |
 | [Marjorie Nunes](https://www.worldcubeassociation.org/persons/2015MARB01) | 2 |
 | [Garrett Hadaway](https://www.worldcubeassociation.org/persons/2015HADA01) | 2 |
-| [Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01) | 2 |
 | [Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01) | 2 |
 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 2 |
 | [Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01) | 2 |
