@@ -8,9 +8,9 @@ AND TIMESTAMPDIFF(MONTH, results_posted_at, CURRENT_TIMESTAMP) <= 12
 GROUP BY month 
 ORDER BY month DESC
 '''
-title = 'Results posting delay by month'
-description = 'This statistic shows the average delay between the submission and posting of results for each month. The delay is calculated in hours.'
-headers = ['Month', 'Posting delay (hours)']
+title = 'Results posting processing time by month'
+description = 'This statistic shows the average time between the submission and posting of results for each month, calculated in hours.'
+headers = ['Month', 'Results processing time (hours)']
 
 def execute(db):
   cursor = db.cursor()
