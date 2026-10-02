@@ -21,7 +21,7 @@ This statistic shows people who posted the most competitions in the last 3 month
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 38 |
 | [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 28 |
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 26 |
-| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 26 |
+| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 23 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 16 |
 | [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 11 |
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 9 |
