@@ -8,9 +8,9 @@ AND TIMESTAMPDIFF(MONTH, announced_at, CURRENT_TIMESTAMP) <= 12
 GROUP BY month 
 ORDER BY month DESC
 '''
-title = 'Announcement delay by month'
-description = 'This statistic shows the average delay between confirming competition by WCA Delegate and announcing it by the WCAT.'
-headers = ['Month', 'Announcement delay (hours)']
+title = 'Announcement processing time by month'
+description = 'This statistic shows the average processing time between confirming competition by WCA Delegate and announcing it by the WCAT.'
+headers = ['Month', 'Announcement processing time (hours)']
 
 def execute(db):
   cursor = db.cursor()
