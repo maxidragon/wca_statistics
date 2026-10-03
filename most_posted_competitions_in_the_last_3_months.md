@@ -5,15 +5,15 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 02 October 2026*
+*Generated on 03 October 2026*
 
 | Person | Posted competitions |
 | --- | --- |
 | [Zain Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 114 |
 | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 92 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 88 |
-| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 86 |
 | [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 86 |
+| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 83 |
 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 63 |
 | [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 42 |
 | [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 41 |
