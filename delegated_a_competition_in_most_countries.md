@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 03 October 2026*
+*Generated on 04 October 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -51,6 +51,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 6 |
 | [Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02) | 6 |
 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 6 |
+| [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 6 |
 | [Aysha Jamsheer](https://www.worldcubeassociation.org/persons/2017JAMS01) | 6 |
 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) | 6 |
 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 6 |
@@ -60,7 +61,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 5 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | 5 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | 5 |
-| [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 5 |
 | [Luis David Hernández Mejía](https://www.worldcubeassociation.org/persons/2017MEJI03) | 5 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5 |
 | [Mahmoud Ibrahim](https://www.worldcubeassociation.org/persons/2014IBRA01) | 5 |
@@ -107,6 +107,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) | 4 |
 | [Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24) | 4 |
 | [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | 4 |
+| [Rocio Rodriguez Rivera](https://www.worldcubeassociation.org/persons/2016RIVE14) | 4 |
 | [Carlo Glod](https://www.worldcubeassociation.org/persons/2017GLOD01) | 4 |
 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | 4 |
 | [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 4 |
@@ -176,7 +177,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Heron Sato](https://www.worldcubeassociation.org/persons/2011SATO01) | 3 |
 | [Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03) | 3 |
 | [Bence Kiácz](https://www.worldcubeassociation.org/persons/2016KIAC01) | 3 |
-| [Rocio Rodriguez Rivera](https://www.worldcubeassociation.org/persons/2016RIVE14) | 3 |
 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | 3 |
 | [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) | 3 |
 | [Somya Srivastava](https://www.worldcubeassociation.org/persons/2014SRIV05) | 3 |
