@@ -5,7 +5,7 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 08 October 2026*
+*Generated on 09 October 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -14,13 +14,13 @@ This statistic shows people who posted the most competitions in the last 3 month
 | [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 86 |
 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 83 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 81 |
-| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 79 |
+| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 75 |
 | [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 57 |
 | [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 49 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 49 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 32 |
-| [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 28 |
-| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 26 |
+| [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 26 |
+| [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 24 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 24 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 16 |
 | [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 13 |
