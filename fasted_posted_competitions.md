@@ -5,7 +5,7 @@ title: Fasted posted competitions
 ## Fasted posted competitions
 This statistic shows the competitions that were posted the fastest after last schedule activity ended. The difference is calculated in hours.
 
-*Generated on 09 October 2026*
+*Generated on 10 October 2026*
 
 | Difference in hours | Competition ID | Posted by | Delegates |
 | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ This statistic shows the competitions that were posted the fastest after last sc
 | -2.4478 | [GalleriaBangaloreOpenB2025](https://www.worldcubeassociation.org/competitions/GalleriaBangaloreOpenB2025) | [Zain Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) |
 | -2.2731 | [OKCUnorthodoxWinter2026](https://www.worldcubeassociation.org/competitions/OKCUnorthodoxWinter2026) | [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | [Michael S. Lander](https://www.worldcubeassociation.org/persons/2018LAND03) |
 | -2.1917 | [TarazOpen2025](https://www.worldcubeassociation.org/competitions/TarazOpen2025) | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) |
-| -2.0786 | [SeabrookOpen2026](https://www.worldcubeassociation.org/competitions/SeabrookOpen2026) | [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02), [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03), [Derek White](https://www.worldcubeassociation.org/persons/2017WHIT01), [Chandler Pike](https://www.worldcubeassociation.org/persons/2018PIKE01) |
+| -2.0786 | [SeabrookOpen2026](https://www.worldcubeassociation.org/competitions/SeabrookOpen2026) | [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01), [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02), [Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03), [Derek White](https://www.worldcubeassociation.org/persons/2017WHIT01), [Chandler Pike](https://www.worldcubeassociation.org/persons/2018PIKE01) |
 | -2.0172 | [LAUnorthodoxTwistgiving2025](https://www.worldcubeassociation.org/competitions/LAUnorthodoxTwistgiving2025) | [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | [Seth Talbot](https://www.worldcubeassociation.org/persons/2015TALB01), [RJ Gohn](https://www.worldcubeassociation.org/persons/2016GOHN01), [Jeremy Falanga](https://www.worldcubeassociation.org/persons/2024FALA01), [Shawn Parker](https://www.worldcubeassociation.org/persons/2024PARK60) |
 | -2.0031 | [JieyangWinter2019](https://www.worldcubeassociation.org/competitions/JieyangWinter2019) | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11), [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) |
 | -1.8844 | [Cube4funinNowaSarzyna2025](https://www.worldcubeassociation.org/competitions/Cube4funinNowaSarzyna2025) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |

@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 09 October 2026*
+*Generated on 10 October 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -48,24 +48,24 @@ This statistic shows people who posted the most competitions.
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 124 |
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 100 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 91 |
-| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 86 |
-| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 83 |
+| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 88 |
+| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 85 |
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 66 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 63 |
-| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 57 |
+| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 60 |
 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | 54 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 49 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 50 |
+| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 50 |
 | [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 49 |
-| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 49 |
 | [Jeremy Fleischman](https://www.worldcubeassociation.org/persons/2005FLEI01) | 38 |
 | [Tyson Mao (毛台勝)](https://www.worldcubeassociation.org/persons/2004MAOT02) | 28 |
+| [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 14 |
 | [Ruud Pollé](https://www.worldcubeassociation.org/persons/2019POLL04) | 14 |
-| [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 13 |
 | [Sheen Oishi](https://www.worldcubeassociation.org/persons/2017OISH01) | 8 |
-| [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 7 |
+| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 7 |
 | [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 7 |
+| [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 7 |
 | [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 5 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 5 |
 | [Jim Mertens](https://www.worldcubeassociation.org/persons/2006MERT01) | 3 |
 | [Scott Hunter](https://www.worldcubeassociation.org/persons/2024HUNT04) | 2 |
 | WCA Board | 1 |
