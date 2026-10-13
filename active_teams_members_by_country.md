@@ -3,7 +3,7 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 12 October 2026*
+*Generated on 13 October 2026*
 
 | Country | Number of active team members |
 | --- | --- |
@@ -38,7 +38,6 @@ title: Active team members by country
 | Colombia | 1 |
 | Brazil | 1 |
 | Switzerland | 1 |
-| Russia | 1 |
 | Thailand | 1 |
 | Korea | 1 |
 | Hong Kong | 1 |
