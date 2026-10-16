@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 15 October 2026*
+*Generated on 16 October 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -14,8 +14,8 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 16 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 15 |
 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | 15 |
+| [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 12 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 12 |
-| [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 11 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 10 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 10 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 10 |
