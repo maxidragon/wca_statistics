@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 16 October 2026*
+*Generated on 17 October 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -26,12 +26,12 @@ This statistic shows people who posted the most competitions.
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 405 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 391 |
 | [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 364 |
-| [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 361 |
+| [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 362 |
 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | 313 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 308 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 272 |
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 268 |
-| [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 264 |
+| [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 265 |
 | [Ivan Ros Godia](https://www.worldcubeassociation.org/persons/2018GODI01) | 261 |
 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | 245 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 234 |
@@ -48,8 +48,8 @@ This statistic shows people who posted the most competitions.
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 124 |
 | [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 109 |
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 100 |
+| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 91 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 91 |
-| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 90 |
 | [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 66 |
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 66 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 63 |
