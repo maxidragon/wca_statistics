@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 18 October 2026*
+*Generated on 19 October 2026*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -16,7 +16,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Maralgoo Ganbold (Ганболд Маралгоо)](https://www.worldcubeassociation.org/persons/2018GANB02) + [Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01) | 40 |
 | [Dene Beardsley](https://www.worldcubeassociation.org/persons/2009BEAR01) + [Tim McMahon](https://www.worldcubeassociation.org/persons/2009MCMA01) | 35 |
 | [Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 32 |
-| [Carmen Teo Bin Jie (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) + [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) | 29 |
+| [Carmen Teo Bin Jie (张斌婕)](https://www.worldcubeassociation.org/persons/2012JIET01) + [Zhou Yichen (周奕臣)](https://www.worldcubeassociation.org/persons/2009YICH01) | 30 |
 | [Akula Sai Kumar](https://www.worldcubeassociation.org/persons/2012KUMA02) + [Gaurav Bachani](https://www.worldcubeassociation.org/persons/2017BACH09) | 23 |
 | [Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08) + [Rocio Rodriguez Rivera](https://www.worldcubeassociation.org/persons/2016RIVE14) | 23 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) + [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | 22 |
@@ -55,6 +55,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) + [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01) | 14 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) + [Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01) | 14 |
 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) + [Petra Kobal Vogrinec](https://www.worldcubeassociation.org/persons/2010VOGR01) | 14 |
+| [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) + [Kalani Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV28) | 14 |
 | [Lucian Mihai Cremeneanu](https://www.worldcubeassociation.org/persons/2023CREM01) + [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | 14 |
 | [Arun Kannan](https://www.worldcubeassociation.org/persons/2014KANN02) + [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 13 |
 | [Aryan Malhotra](https://www.worldcubeassociation.org/persons/2018SETH01) + [Saiyam Jain](https://www.worldcubeassociation.org/persons/2015JAIN21) | 13 |
@@ -69,7 +70,6 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Gennaro Monetti](https://www.worldcubeassociation.org/persons/2017MONE01) + [Manuel Malvárez](https://www.worldcubeassociation.org/persons/2019MALV01) | 13 |
 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) + [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 13 |
 | [James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01) + [Yuxuan Chen](https://www.worldcubeassociation.org/persons/2011CHEN54) | 13 |
-| [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) + [Kalani Oliveira](https://www.worldcubeassociation.org/persons/2018OLIV28) | 13 |
 | [Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01) + [Thomas Schukraft](https://www.worldcubeassociation.org/persons/2018SCHU17) | 13 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) + [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 12 |
 | [Amir Hossein Nafisi (امیر حسین نفیسی)](https://www.worldcubeassociation.org/persons/2012NAFI01) + [Saeed Mostafavi Layegh (سعید مصطفوی لایق)](https://www.worldcubeassociation.org/persons/2011LAYE01) | 12 |

@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 18 October 2026*
+*Generated on 19 October 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -17,13 +17,13 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 12 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 12 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 10 |
+| [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 10 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 10 |
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 10 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 10 |
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 10 |
 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | 10 |
 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) | 10 |
-| [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 9 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 9 |
 | [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 9 |
 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) | 9 |
@@ -61,6 +61,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 5 |
 | [Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01) | 5 |
 | [Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01) | 5 |
+| [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | 5 |
 | [Luis David Hernández Mejía](https://www.worldcubeassociation.org/persons/2017MEJI03) | 5 |
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5 |
 | [Mahmoud Ibrahim](https://www.worldcubeassociation.org/persons/2014IBRA01) | 5 |
@@ -97,7 +98,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02) | 4 |
 | [Annika Stein](https://www.worldcubeassociation.org/persons/2014STEI03) | 4 |
 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 4 |
-| [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01) | 4 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 4 |
 | [Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01) | 4 |
 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 4 |
@@ -143,6 +143,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 3 |
 | [Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02) | 3 |
 | [Alexander Katyukov (Александр Катюков)](https://www.worldcubeassociation.org/persons/2015KATY01) | 3 |
+| [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | 3 |
 | [Enrymar Cisneros](https://www.worldcubeassociation.org/persons/2013CISN01) | 3 |
 | [Akula Pavan Kumar](https://www.worldcubeassociation.org/persons/2011KUMA01) | 3 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 3 |
@@ -250,7 +251,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02) | 2 |
 | [Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01) | 2 |
 | [Björn Korbanka](https://www.worldcubeassociation.org/persons/2009KORB01) | 2 |
-| [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) | 2 |
 | [Hoe Zi Yang](https://www.worldcubeassociation.org/persons/2012YANG01) | 2 |
 | [Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01) | 2 |
 | [Anton Rostovikov](https://www.worldcubeassociation.org/persons/2009ROST01) | 2 |
