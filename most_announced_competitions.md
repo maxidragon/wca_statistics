@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 20 October 2026*
+*Generated on 21 October 2026*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -30,20 +30,20 @@ This statistic shows people who announced the most competitions.
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 358 |
 | [Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01) | 347 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 313 |
-| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 294 |
+| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 297 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 249 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 247 |
-| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 245 |
+| [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 246 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 225 |
 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | 223 |
 | [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 217 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 212 |
-| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 200 |
+| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 205 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
+| [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 172 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
-| [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 170 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 142 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 144 |
 | WCA Board | 119 |
 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | 117 |
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 112 |
