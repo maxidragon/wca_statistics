@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 21 October 2026*
+*Generated on 22 October 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -380,6 +380,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01) | 2 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 2 |
 | [Peri Le Dain](https://www.worldcubeassociation.org/persons/2018DAIN02) | 2 |
+| [Henry Mixco](https://www.worldcubeassociation.org/persons/2018MIXC01) | 2 |
 | [Ekaterina Katiukova](https://www.worldcubeassociation.org/persons/2018KANE03) | 2 |
 | [Peter Osudar](https://www.worldcubeassociation.org/persons/2017OSUD01) | 2 |
 | [Damir Issakov](https://www.worldcubeassociation.org/persons/2018ISAK06) | 2 |
