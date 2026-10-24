@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 23 October 2026*
+*Generated on 24 October 2026*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -37,32 +37,32 @@ This statistic shows people who announced the most competitions.
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 225 |
 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | 223 |
 | [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 217 |
+| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 213 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 212 |
-| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 210 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
 | [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 172 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 152 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 162 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
 | WCA Board | 119 |
 | [Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01) | 117 |
 | [Stone Payne](https://www.worldcubeassociation.org/persons/2018SIMP06) | 112 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 111 |
-| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 110 |
+| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 111 |
 | [Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01) | 106 |
 | [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 80 |
 | [Hitesh Kumar Bhuwalka](https://www.worldcubeassociation.org/persons/2022BHUW01) | 68 |
-| [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | 65 |
+| [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | 66 |
 | [Kyle Kayden Renatus](https://www.worldcubeassociation.org/persons/2022HAYL02) | 61 |
 | [Ng Kang Zhe (黄康哲)](https://www.worldcubeassociation.org/persons/2016KANG02) | 59 |
-| [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 55 |
+| [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 57 |
 | [Daniel Fraser](https://www.worldcubeassociation.org/persons/2020FRAS02) | 49 |
 | [Alex Cohen](https://www.worldcubeassociation.org/persons/2015COHE02) | 47 |
-| [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 45 |
+| [Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04) | 45 |
 | [David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02) | 41 |
-| [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 38 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | 38 |
+| [Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02) | 38 |
 | [Nitin Subramanian](https://www.worldcubeassociation.org/persons/2014SUBR04) | 17 |
 | [Julius Achilles Wilson](https://www.worldcubeassociation.org/persons/2023WILS18) | 14 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 13 |

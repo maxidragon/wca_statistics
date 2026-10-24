@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 23 October 2026*
+*Generated on 24 October 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -22,10 +22,10 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01) | 10 |
 | [Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01) | 10 |
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 10 |
+| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 10 |
 | [Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01) | 10 |
 | [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) | 10 |
 | [Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01) | 9 |
-| [Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03) | 9 |
 | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01) | 9 |
 | [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 9 |
 | [Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01) | 9 |
@@ -112,6 +112,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [João Vinícius Santos](https://www.worldcubeassociation.org/persons/2016SANT66) | 4 |
 | [Ricky Martin](https://www.worldcubeassociation.org/persons/2017MART29) | 4 |
 | [Zachary Miller](https://www.worldcubeassociation.org/persons/2017MILL04) | 4 |
+| [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) | 4 |
 | [Gilles Roux](https://www.worldcubeassociation.org/persons/2004ROUX01) | 4 |
 | [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) | 4 |
 | [Baha Alshwaiki](https://www.worldcubeassociation.org/persons/2017ALSH03) | 4 |
@@ -181,7 +182,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03) | 3 |
 | [Bence Kiácz](https://www.worldcubeassociation.org/persons/2016KIAC01) | 3 |
 | [Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02) | 3 |
-| [Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01) | 3 |
 | [Somya Srivastava](https://www.worldcubeassociation.org/persons/2014SRIV05) | 3 |
 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | 3 |
 | [Simon Kelly](https://www.worldcubeassociation.org/persons/2017KELL08) | 3 |
