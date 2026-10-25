@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 24 October 2026*
+*Generated on 25 October 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -45,12 +45,12 @@ This statistic shows people who posted the most competitions.
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 151 |
 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | 149 |
 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) | 139 |
-| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 127 |
+| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 135 |
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 124 |
 | [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 103 |
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 100 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 91 |
-| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 80 |
+| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 81 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 79 |
 | [Einar Martin Sandvik](https://www.worldcubeassociation.org/persons/2018SAND22) | 66 |
 | [Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01) | 63 |
@@ -62,7 +62,7 @@ This statistic shows people who posted the most competitions.
 | [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 15 |
 | [Ruud Pollé](https://www.worldcubeassociation.org/persons/2019POLL04) | 14 |
 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 10 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 8 |
+| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 9 |
 | [Sheen Oishi](https://www.worldcubeassociation.org/persons/2017OISH01) | 8 |
 | [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 7 |
 | [Mickey Doyle](https://www.worldcubeassociation.org/persons/2021DOYL02) | 5 |
