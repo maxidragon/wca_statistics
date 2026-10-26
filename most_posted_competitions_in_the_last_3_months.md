@@ -5,7 +5,7 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 25 October 2026*
+*Generated on 26 October 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -20,7 +20,7 @@ This statistic shows people who posted the most competitions in the last 3 month
 | [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 55 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 29 |
 | [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 22 |
-| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 22 |
+| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 20 |
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 17 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 16 |
 | [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 15 |
