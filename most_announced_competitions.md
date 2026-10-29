@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 28 October 2026*
+*Generated on 29 October 2026*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -36,7 +36,7 @@ This statistic shows people who announced the most competitions.
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 247 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 225 |
 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | 223 |
-| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 218 |
+| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 220 |
 | [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 217 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 212 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
