@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 30 October 2026*
+*Generated on 31 October 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -299,6 +299,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Carlos Ricardo Chin Dzul](https://www.worldcubeassociation.org/persons/2014DZUL02) | 2 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 2 |
 | [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) | 2 |
+| [Bernardo Leite da Cunha](https://www.worldcubeassociation.org/persons/2016CUNH01) | 2 |
 | [Ben Bergen](https://www.worldcubeassociation.org/persons/2015BERG10) | 2 |
 | [Alex Asbery](https://www.worldcubeassociation.org/persons/2013ASBE01) | 2 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 2 |

@@ -5,11 +5,11 @@ title: Results posting processing time by month
 ## Results posting processing time by month
 This statistic shows the average time between the submission and posting of results for each month, calculated in hours.
 
-*Generated on 30 October 2026*
+*Generated on 31 October 2026*
 
 | Month | Results processing time (hours) |
 | --- | --- |
-| 2026-10 | 1.63 |
+| 2026-10 | 1.68 |
 | 2026-09 | 1.53 |
 | 2026-08 | 14.53 |
 | 2026-07 | 9.10 |
@@ -22,4 +22,3 @@ This statistic shows the average time between the submission and posting of resu
 | 2025-12 | 4.94 |
 | 2025-11 | 5.35 |
 | 2025-10 | 4.71 |
-| 2025-09 | 6.11 |
