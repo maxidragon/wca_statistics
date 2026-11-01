@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 31 October 2026*
+*Generated on 01 November 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -14,9 +14,9 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 16 |
 | [Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01) | 15 |
 | [Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02) | 15 |
+| [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) | 13 |
 | [Matteo Provasi](https://www.worldcubeassociation.org/persons/2009PROV01) | 12 |
 | [Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01) | 12 |
-| [Jordan Crippa](https://www.worldcubeassociation.org/persons/2019CRIP01) | 12 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 10 |
 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 10 |
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 10 |
@@ -34,6 +34,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03) | 8 |
 | [Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01) | 8 |
 | [Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01) | 8 |
+| [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 8 |
 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 8 |
 | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01) | 7 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 7 |
@@ -42,7 +43,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01) | 7 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 7 |
 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) | 7 |
-| [Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03) | 7 |
 | [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01) | 7 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) | 6 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 6 |
@@ -53,6 +53,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01) | 6 |
 | [Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01) | 6 |
 | [Aysha Jamsheer](https://www.worldcubeassociation.org/persons/2017JAMS01) | 6 |
+| [Javier Gonzalez-Napoleoni](https://www.worldcubeassociation.org/persons/2011GONZ04) | 6 |
 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) | 6 |
 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 6 |
 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 6 |
@@ -66,7 +67,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02) | 5 |
 | [Mahmoud Ibrahim](https://www.worldcubeassociation.org/persons/2014IBRA01) | 5 |
 | [José Antonio Gaete](https://www.worldcubeassociation.org/persons/2017GAET01) | 5 |
-| [Javier Gonzalez-Napoleoni](https://www.worldcubeassociation.org/persons/2011GONZ04) | 5 |
 | [Cristian Ezequiel Vega](https://www.worldcubeassociation.org/persons/2013VEGA03) | 5 |
 | [Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01) | 5 |
 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) | 5 |
@@ -202,6 +202,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Kalindu Sachintha Wijesundara](https://www.worldcubeassociation.org/persons/2022WIJE02) | 3 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 3 |
 | [Yusuf Talha Sayed Karim](https://www.worldcubeassociation.org/persons/2022KARI02) | 3 |
+| [Wesley Barwinski](https://www.worldcubeassociation.org/persons/2023BARW01) | 3 |
 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) | 3 |
 | [Konstantin Poperechnyi](https://www.worldcubeassociation.org/persons/2024POPE03) | 3 |
 | [Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06) | 2 |
@@ -437,3 +438,4 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Guillaume Bernard](https://www.worldcubeassociation.org/persons/2024BERN05) | 2 |
 | [Maria Nelia Manaca](https://www.worldcubeassociation.org/persons/2024MANA09) | 2 |
 | [Angélique Pettie](https://www.worldcubeassociation.org/persons/2025PETT04) | 2 |
+| [Nick Stodal](https://www.worldcubeassociation.org/persons/2025STOD01) | 2 |

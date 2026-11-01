@@ -5,7 +5,7 @@ title: Most announced competitions
 ## Most announced competitions
 This statistic shows people who announced the most competitions.
 
-*Generated on 31 October 2026*
+*Generated on 01 November 2026*
 
 | Person | Announced competitions |
 | --- | --- |
@@ -14,7 +14,7 @@ This statistic shows people who announced the most competitions.
 | [Ron van Bruchem](https://www.worldcubeassociation.org/persons/2003BRUC01) | 1229 |
 | [Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06) | 1179 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 1059 |
-| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 823 |
+| [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 825 |
 | [Kaidyn De Luca-Mazza](https://www.worldcubeassociation.org/persons/2019LUCA01) | 727 |
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 664 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 509 |
@@ -34,13 +34,13 @@ This statistic shows people who announced the most competitions.
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 249 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 247 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 247 |
-| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 227 |
+| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 228 |
 | [Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01) | 225 |
 | [William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01) | 223 |
 | [Abhi Chawla](https://www.worldcubeassociation.org/persons/2019CHAW01) | 217 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 212 |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 197 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 191 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 195 |
 | [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 172 |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 171 |
 | [Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01) | 145 |
