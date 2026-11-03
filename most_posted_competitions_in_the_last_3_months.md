@@ -5,20 +5,20 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 02 November 2026*
+*Generated on 03 November 2026*
 
 | Person | Posted competitions |
 | --- | --- |
-| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 150 |
-| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 112 |
-| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 96 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 90 |
+| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 155 |
+| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 119 |
+| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 103 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 91 |
 | [Jason Chang (章維祐)](https://www.worldcubeassociation.org/persons/2023CHAN15) | 85 |
-| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 61 |
+| [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 63 |
 | [Zain Behzaad](https://www.worldcubeassociation.org/persons/2019BEHZ01) | 55 |
 | [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 55 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 28 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 25 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 26 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 24 |
 | [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 21 |
 | [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 19 |
 | [Pranav Dandgaval](https://www.worldcubeassociation.org/persons/2017DAND01) | 17 |
