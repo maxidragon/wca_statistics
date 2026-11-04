@@ -5,7 +5,7 @@ title: Most posted competitions in the last 3 months
 ## Most posted competitions in the last 3 months
 This statistic shows people who posted the most competitions in the last 3 months.
 
-*Generated on 03 November 2026*
+*Generated on 04 November 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -28,7 +28,6 @@ This statistic shows people who posted the most competitions in the last 3 month
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 10 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 9 |
 | [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | 7 |
-| [Daniel M. James](https://www.worldcubeassociation.org/persons/2012JAME04) | 3 |
 | [Scott Hunter](https://www.worldcubeassociation.org/persons/2024HUNT04) | 2 |
 | [Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01) | 1 |
 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 1 |
