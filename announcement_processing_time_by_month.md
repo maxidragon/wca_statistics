@@ -5,7 +5,7 @@ title: Announcement processing time by month
 ## Announcement processing time by month
 This statistic shows the average processing time between confirming competition by WCA Delegate and announcing it by the WCAT.
 
-*Generated on 06 November 2026*
+*Generated on 07 November 2026*
 
 | Month | Announcement processing time (hours) |
 | --- | --- |
@@ -22,4 +22,4 @@ This statistic shows the average processing time between confirming competition 
 | 2026-01 | 31.23 |
 | 2025-12 | 34.04 |
 | 2025-11 | 26.25 |
-| 2025-10 | 26.10 |
+| 2025-10 | 26.46 |
