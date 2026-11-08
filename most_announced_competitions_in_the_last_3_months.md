@@ -5,18 +5,18 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 07 November 2026*
+*Generated on 08 November 2026*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 240 |
-| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 195 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 183 |
-| [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 125 |
-| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 82 |
-| [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 47 |
+| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 236 |
+| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 198 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 195 |
+| [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 127 |
+| [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 81 |
+| [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 52 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 44 |
-| [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | 37 |
+| [Matyáš Krejcárek](https://www.worldcubeassociation.org/persons/2023KREJ01) | 38 |
 | [Lisa Leukemans](https://www.worldcubeassociation.org/persons/2021LEUK01) | 9 |
 | [Lars Johan Folde](https://www.worldcubeassociation.org/persons/2018FOLD01) | 5 |
 | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 4 |

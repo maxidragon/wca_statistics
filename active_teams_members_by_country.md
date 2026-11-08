@@ -3,44 +3,45 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 07 November 2026*
+*Generated on 08 November 2026*
 
 | Country | Number of active team members |
 | --- | --- |
 | USA | 58 |
 | India | 21 |
-| United Kingdom | 13 |
+| United Kingdom | 12 |
 | Australia | 11 |
 | Poland | 10 |
 | Germany | 9 |
 | China | 8 |
 | Canada | 8 |
-| Spain | 6 |
+| Spain | 5 |
 | Norway | 5 |
 | Netherlands | 5 |
 | France | 4 |
 | Belgium | 3 |
-| Czech Republic | 2 |
 | South Africa | 2 |
-| Portugal | 2 |
-| New Zealand | 2 |
-| Macau | 2 |
-| Malaysia | 2 |
-| Jordan | 2 |
-| Italy | 2 |
-| Hungary | 2 |
 | Vietnam | 2 |
-| Korea | 1 |
+| Portugal | 2 |
+| Macau | 2 |
+| Hungary | 2 |
+| Malaysia | 2 |
+| Italy | 2 |
+| Jordan | 2 |
+| Czech Republic | 2 |
 | Azerbaijan | 1 |
+| Pakistan | 1 |
 | Slovenia | 1 |
+| Peru | 1 |
 | Singapore | 1 |
 | Colombia | 1 |
-| Pakistan | 1 |
 | Bolivia | 1 |
 | Switzerland | 1 |
-| Peru | 1 |
+| Ireland | 1 |
 | Brazil | 1 |
+| New Zealand | 1 |
 | Thailand | 1 |
+| Korea | 1 |
 | Hong Kong | 1 |
 | Romania | 1 |
 | Argentina | 1 |
@@ -48,4 +49,3 @@ title: Active team members by country
 | Indonesia | 1 |
 | Philippines | 1 |
 | Taiwan | 1 |
-| Ireland | 1 |
