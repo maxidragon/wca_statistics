@@ -5,14 +5,14 @@ title: Most announced competitions in the last 3 months
 ## Most announced competitions in the last 3 months
 This statistic shows people who announced the most competitions in the last 3 months.
 
-*Generated on 10 November 2026*
+*Generated on 11 November 2026*
 
 | Person | Announced competitions |
 | --- | --- |
-| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 228 |
+| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 225 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 197 |
-| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 197 |
-| [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 124 |
+| [Trenton Cuzick](https://www.worldcubeassociation.org/persons/2017CUZI01) | 194 |
+| [Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01) | 123 |
 | [Jameson R. Sramek](https://www.worldcubeassociation.org/persons/2023SRAM01) | 82 |
 | [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 53 |
 | [Shain Papalotl Longbehn](https://www.worldcubeassociation.org/persons/2020LONG05) | 43 |
