@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 16 November 2026*
+*Generated on 17 November 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -357,6 +357,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Ricardo Olea Catalán](https://www.worldcubeassociation.org/persons/2017CATA04) | 2 |
 | [Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02) | 2 |
 | [Seán O'Toole](https://www.worldcubeassociation.org/persons/2017OTOO03) | 2 |
+| [Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06) | 2 |
 | [Kritika KC](https://www.worldcubeassociation.org/persons/2017KCKR01) | 2 |
 | [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 2 |
 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 2 |
@@ -364,6 +365,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 2 |
 | [Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48) | 2 |
 | [Michael Eleftheriades](https://www.worldcubeassociation.org/persons/2017ELEF02) | 2 |
+| [Estheban Heredia](https://www.worldcubeassociation.org/persons/2017HERE02) | 2 |
 | [Thales Araújo de Souza](https://www.worldcubeassociation.org/persons/2017SOUZ14) | 2 |
 | [Vianne Chang](https://www.worldcubeassociation.org/persons/2017CHAN47) | 2 |
 | [Han Wu (吳翰)](https://www.worldcubeassociation.org/persons/2008WUHA01) | 2 |
