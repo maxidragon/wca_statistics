@@ -3,7 +3,7 @@ layout: default
 title: Active team members by country
 ---
 ## Active team members by country
-*Generated on 18 November 2026*
+*Generated on 19 November 2026*
 
 | Country | Number of active team members |
 | --- | --- |
@@ -18,7 +18,7 @@ title: Active team members by country
 | Spain | 5 |
 | Norway | 5 |
 | Netherlands | 5 |
-| France | 4 |
+| France | 5 |
 | Belgium | 3 |
 | South Africa | 2 |
 | Vietnam | 2 |
