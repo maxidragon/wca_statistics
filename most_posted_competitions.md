@@ -5,7 +5,7 @@ title: Most posted competitions overall
 ## Most posted competitions overall
 This statistic shows people who posted the most competitions.
 
-*Generated on 20 November 2026*
+*Generated on 21 November 2026*
 
 | Person | Posted competitions |
 | --- | --- |
@@ -25,7 +25,7 @@ This statistic shows people who posted the most competitions.
 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 432 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 405 |
 | [Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01) | 391 |
-| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 364 |
+| [Thomas Reinke](https://www.worldcubeassociation.org/persons/2018REIN04) | 365 |
 | [James Wang (王俊杰)](https://www.worldcubeassociation.org/persons/2015WANG87) | 363 |
 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | 313 |
 | [Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12) | 308 |
@@ -38,18 +38,18 @@ This statistic shows people who posted the most competitions.
 | [Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03) | 233 |
 | [Brandon Reichman](https://www.worldcubeassociation.org/persons/2015REIC02) | 205 |
 | [Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01) | 199 |
-| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 191 |
+| [Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01) | 193 |
 | [Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01) | 184 |
 | [John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀)](https://www.worldcubeassociation.org/persons/2010UBAL01) | 184 |
 | [Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01) | 179 |
 | [Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05) | 161 |
-| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 152 |
-| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 151 |
+| [Leia Jiang](https://www.worldcubeassociation.org/persons/2014JIAN10) | 155 |
+| [Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01) | 152 |
 | [Rafael de Andrade Cinoto](https://www.worldcubeassociation.org/persons/2007CINO01) | 149 |
 | [Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02) | 139 |
+| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 124 |
 | [Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01) | 124 |
-| [Tsukasa Sano (佐野司)](https://www.worldcubeassociation.org/persons/2022SANO02) | 123 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 121 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 123 |
 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 102 |
 | [Bob Burton](https://www.worldcubeassociation.org/persons/2003BURT01) | 91 |
 | [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 76 |

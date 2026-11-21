@@ -5,7 +5,7 @@ title: Most competitions delegated together
 ## Most competitions delegated together
 This statistic shows the number of competitions that two delegates have delegated together.
 
-*Generated on 20 November 2026*
+*Generated on 21 November 2026*
 
 | Delegates | Number of competitions delegated together |
 | --- | --- |
@@ -93,6 +93,7 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Amit Sheffer](https://www.worldcubeassociation.org/persons/2010SHEF01) + [Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01) | 10 |
 | [Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01) + [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 10 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) + [Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01) | 10 |
+| [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) + [Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01) | 10 |
 | [Davi de Andrade Iácono](https://www.worldcubeassociation.org/persons/2015IACO01) + [Francisco Thales Rocha Sousa](https://www.worldcubeassociation.org/persons/2013SOUS03) | 10 |
 | [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01) + [Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02) | 10 |
 | [Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01) + [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01) | 10 |
@@ -108,4 +109,3 @@ This statistic shows the number of competitions that two delegates have delegate
 | [Amit Sheffer](https://www.worldcubeassociation.org/persons/2010SHEF01) + [Amitai Ziv](https://www.worldcubeassociation.org/persons/2022ZIVA01) | 9 |
 | [Amitai Ziv](https://www.worldcubeassociation.org/persons/2022ZIVA01) + [Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01) | 9 |
 | [Arun Kannan](https://www.worldcubeassociation.org/persons/2014KANN02) + [Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30) | 9 |
-| [Cel Adriane Lalo](https://www.worldcubeassociation.org/persons/2012LALO01) + [Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01) | 9 |
