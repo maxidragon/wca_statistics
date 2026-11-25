@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 24 November 2026*
+*Generated on 25 November 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -57,6 +57,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Pauline Bonnaudet](https://www.worldcubeassociation.org/persons/2009BONN01) | 6 |
 | [Damir Zhanataev](https://www.worldcubeassociation.org/persons/2017ZHAD01) | 6 |
 | [Sachin Arvind](https://www.worldcubeassociation.org/persons/2013ARVI02) | 6 |
+| [Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS06) | 6 |
 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) | 6 |
 | [Lars Vandenbergh](https://www.worldcubeassociation.org/persons/2003VAND01) | 5 |
 | [Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01) | 5 |
@@ -72,7 +73,6 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) | 5 |
 | [Marvin Solano](https://www.worldcubeassociation.org/persons/2018SOLA08) | 5 |
 | [Borislav Marchovski](https://www.worldcubeassociation.org/persons/2012MARC01) | 5 |
-| [Ahmad Abu Hussein](https://www.worldcubeassociation.org/persons/2018HUSS06) | 5 |
 | [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) | 5 |
 | [Emma Beranová](https://www.worldcubeassociation.org/persons/2019BERA01) | 5 |
 | [Conan Mo](https://www.worldcubeassociation.org/persons/2020MOCO01) | 5 |
@@ -363,6 +363,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 2 |
 | [Marco Yang (杨柯辰)](https://www.worldcubeassociation.org/persons/2017YANG62) | 2 |
 | [Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05) | 2 |
+| [Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02) | 2 |
 | [Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48) | 2 |
 | [Michael Eleftheriades](https://www.worldcubeassociation.org/persons/2017ELEF02) | 2 |
 | [Estheban Heredia](https://www.worldcubeassociation.org/persons/2017HERE02) | 2 |
