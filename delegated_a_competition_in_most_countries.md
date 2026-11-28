@@ -5,7 +5,7 @@ title: Delegated a competition in most countries
 ## Delegated a competition in most countries
 This statistic shows the delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.
 
-*Generated on 27 November 2026*
+*Generated on 28 November 2026*
 
 | Name | Countries |
 | --- | --- |
@@ -139,7 +139,7 @@ This statistic shows the delegates who have delegated a competition in most coun
 | [Chia-Leo Lin (林珈樂)](https://www.worldcubeassociation.org/persons/2006LINC01) | 3 |
 | [Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02) | 3 |
 | [Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02) | 3 |
-| [Uladzislau Piatnitsa (Владислав Пятница)](https://www.worldcubeassociation.org/persons/2014PYAT01) | 3 |
+| [Uladzislau Piatnitsa](https://www.worldcubeassociation.org/persons/2014PYAT01) | 3 |
 | [Nikolai Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01) | 3 |
 | [Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02) | 3 |
 | [Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02) | 3 |
